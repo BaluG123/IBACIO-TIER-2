@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-18",
+  "editionTitle": "Tier-2 Daily Desk",
+  "editionTitle_hi": "टियर-2 डेली डेस्क",
+  "essayTopic": {
+    "title": "Internal Security Challenges in a Digital Age",
+    "title_hi": "Internal Security Challenges in a Digital Age",
+    "category": "Security & Governance",
+    "hints": [
+      "Cybercrime & radicalisation online",
+      "Critical infrastructure",
+      "Police modernisation",
+      "Cooperative federalism in security"
+    ],
+    "hints_hi": [
+      "Cybercrime & radicalisation online",
+      "Critical infrastructure",
+      "Police modernisation",
+      "Cooperative federalism in security"
+    ],
+    "modelOutline": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security.",
+    "modelOutline_hi": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security."
+  },
+  "longAnswers": [
+    {
+      "id": "la03",
+      "domain": "Current Affairs",
+      "question": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
+      "question_hi": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
+      "keyPoints": [
+        "Maritime security & HADR",
+        "Supply chain resilience",
+        "Technology cooperation",
+        "Strategic autonomy caveats"
+      ],
+      "keyPoints_hi": [
+        "Maritime security & HADR",
+        "Supply chain resilience",
+        "Technology cooperation",
+        "Strategic autonomy caveats"
+      ],
+      "modelAnswer": "Evaluate the role of Quad in India's Indo-Pacific strategy. Key dimensions include: Maritime security & HADR; Supply chain resilience; Technology cooperation; Strategic autonomy caveats. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Evaluate the role of Quad in India's Indo-Pacific strategy. Key dimensions include: Maritime security & HADR; Supply chain resilience; Technology cooperation; Strategic autonomy caveats. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    },
+    {
+      "id": "la22",
+      "domain": "Economics",
+      "question": "Evaluate the potential of the green economy for job creation.",
+      "question_hi": "Evaluate the potential of the green economy for job creation.",
+      "keyPoints": [
+        "Renewables & EVs",
+        "Circular economy",
+        "Reskilling needs",
+        "Just transition finance"
+      ],
+      "keyPoints_hi": [
+        "Renewables & EVs",
+        "Circular economy",
+        "Reskilling needs",
+        "Just transition finance"
+      ],
+      "modelAnswer": "Evaluate the potential of the green economy for job creation. Key dimensions include: Renewables & EVs; Circular economy; Reskilling needs; Just transition finance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Evaluate the potential of the green economy for job creation. Key dimensions include: Renewables & EVs; Circular economy; Reskilling needs; Just transition finance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    }
+  ],
+  "comprehension": {
+    "passage": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
+    "passage_hi": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
+    "questions": [
+      {
+        "q": "How does the passage describe India's federal model?",
+        "q_hi": "How does the passage describe India's federal model?",
+        "model": "Quasi-federal: a strong Centre with significant State autonomy.",
+        "model_hi": "Quasi-federal: a strong Centre with significant State autonomy."
+      },
+      {
+        "q": "Distinguish cooperative and competitive federalism as used here.",
+        "q_hi": "Distinguish cooperative and competitive federalism as used here.",
+        "model": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business.",
+        "model_hi": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business."
+      },
+      {
+        "q": "When does stress in federalism appear?",
+        "q_hi": "When does stress in federalism appear?",
+        "model": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response.",
+        "model_hi": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response."
+      },
+      {
+        "q": "What do citizens experience as the real test of federalism?",
+        "q_hi": "What do citizens experience as the real test of federalism?",
+        "model": "Whether schools, hospitals, and roads work.",
+        "model_hi": "Whether schools, hospitals, and roads work."
+      }
+    ]
+  },
+  "tipOfDay": "Keep security answers factual and rights-aware — avoid alarmist language.",
+  "tipOfDay_hi": "Keep security answers factual and rights-aware — avoid alarmist language."
+}

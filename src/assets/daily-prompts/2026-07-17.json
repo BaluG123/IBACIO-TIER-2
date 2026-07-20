@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-17",
+  "editionTitle": "Tier-2 Daily Desk",
+  "editionTitle_hi": "टियर-2 डेली डेस्क",
+  "essayTopic": {
+    "title": "Social Media, Free Speech and Democratic Discourse",
+    "title_hi": "Social Media, Free Speech and Democratic Discourse",
+    "category": "Socio-political",
+    "hints": [
+      "Art 19 reasonable restrictions",
+      "Misinformation & polarisation",
+      "Platform accountability",
+      "Digital literacy"
+    ],
+    "hints_hi": [
+      "Art 19 reasonable restrictions",
+      "Misinformation & polarisation",
+      "Platform accountability",
+      "Digital literacy"
+    ],
+    "modelOutline": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility.",
+    "modelOutline_hi": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility."
+  },
+  "longAnswers": [
+    {
+      "id": "la08",
+      "domain": "Current Affairs",
+      "question": "Explain how Digital India initiatives have impacted financial inclusion.",
+      "question_hi": "Explain how Digital India initiatives have impacted financial inclusion.",
+      "keyPoints": [
+        "JAM trinity",
+        "UPI & DBT",
+        "Last-mile challenges",
+        "Consumer protection"
+      ],
+      "keyPoints_hi": [
+        "JAM trinity",
+        "UPI & DBT",
+        "Last-mile challenges",
+        "Consumer protection"
+      ],
+      "modelAnswer": "Explain how Digital India initiatives have impacted financial inclusion. Key dimensions include: JAM trinity; UPI & DBT; Last-mile challenges; Consumer protection. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Explain how Digital India initiatives have impacted financial inclusion. Key dimensions include: JAM trinity; UPI & DBT; Last-mile challenges; Consumer protection. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    },
+    {
+      "id": "la33",
+      "domain": "Socio-political",
+      "question": "Discuss gender equality beyond legal reforms.",
+      "question_hi": "Discuss gender equality beyond legal reforms.",
+      "keyPoints": [
+        "Social norms",
+        "Economic participation",
+        "Safety & mobility",
+        "Representation"
+      ],
+      "keyPoints_hi": [
+        "Social norms",
+        "Economic participation",
+        "Safety & mobility",
+        "Representation"
+      ],
+      "modelAnswer": "Discuss gender equality beyond legal reforms. Key dimensions include: Social norms; Economic participation; Safety & mobility; Representation. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Discuss gender equality beyond legal reforms. Key dimensions include: Social norms; Economic participation; Safety & mobility; Representation. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    }
+  ],
+  "comprehension": {
+    "passage": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
+    "passage_hi": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
+    "questions": [
+      {
+        "q": "Why do rumours pose a special challenge today?",
+        "q_hi": "Why do rumours pose a special challenge today?",
+        "model": "They travel faster than facts; networked forwarding can trigger harm before verification.",
+        "model_hi": "They travel faster than facts; networked forwarding can trigger harm before verification."
+      },
+      {
+        "q": "Why is censorship alone insufficient?",
+        "q_hi": "Why is censorship alone insufficient?",
+        "model": "It is blunt and can chill legitimate speech.",
+        "model_hi": "It is blunt and can chill legitimate speech."
+      },
+      {
+        "q": "List the three layers of a resilient response mentioned.",
+        "q_hi": "List the three layers of a resilient response mentioned.",
+        "model": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy.",
+        "model_hi": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy."
+      },
+      {
+        "q": "What ethical duty does the author assign to citizens?",
+        "q_hi": "What ethical duty does the author assign to citizens?",
+        "model": "Pause, verify, and refuse to become a node in a rumour chain.",
+        "model_hi": "Pause, verify, and refuse to become a node in a rumour chain."
+      }
+    ]
+  },
+  "tipOfDay": "In comprehension, quote or paraphrase the passage — do not invent outside facts.",
+  "tipOfDay_hi": "In comprehension, quote or paraphrase the passage — do not invent outside facts."
+}

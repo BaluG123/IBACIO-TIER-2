@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-19",
+  "editionTitle": "Tier-2 Daily Desk",
+  "editionTitle_hi": "टियर-2 डेली डेस्क",
+  "essayTopic": {
+    "title": "India's Ambition to Become a Developed Nation by 2047",
+    "title_hi": "India's Ambition to Become a Developed Nation by 2047",
+    "category": "Economy",
+    "hints": [
+      "Viksit Bharat vision pillars",
+      "Manufacturing & services",
+      "Human capital",
+      "Inequality & green growth"
+    ],
+    "hints_hi": [
+      "Viksit Bharat vision pillars",
+      "Manufacturing & services",
+      "Human capital",
+      "Inequality & green growth"
+    ],
+    "modelOutline": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric.",
+    "modelOutline_hi": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric."
+  },
+  "longAnswers": [
+    {
+      "id": "la16",
+      "domain": "Economics",
+      "question": "Discuss the role of MSMEs in employment generation in India.",
+      "question_hi": "Discuss the role of MSMEs in employment generation in India.",
+      "keyPoints": [
+        "Employment share",
+        "Credit & formalisation",
+        "Market access/export",
+        "Policy support"
+      ],
+      "keyPoints_hi": [
+        "Employment share",
+        "Credit & formalisation",
+        "Market access/export",
+        "Policy support"
+      ],
+      "modelAnswer": "Discuss the role of MSMEs in employment generation in India. Key dimensions include: Employment share; Credit & formalisation; Market access/export; Policy support. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Discuss the role of MSMEs in employment generation in India. Key dimensions include: Employment share; Credit & formalisation; Market access/export; Policy support. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    },
+    {
+      "id": "la29",
+      "domain": "Socio-political",
+      "question": "Discuss the constitutional ideal of fraternity and its relevance today.",
+      "question_hi": "Discuss the constitutional ideal of fraternity and its relevance today.",
+      "keyPoints": [
+        "Preamble values",
+        "Social harmony",
+        "Hate speech challenge",
+        "Civic education"
+      ],
+      "keyPoints_hi": [
+        "Preamble values",
+        "Social harmony",
+        "Hate speech challenge",
+        "Civic education"
+      ],
+      "modelAnswer": "Discuss the constitutional ideal of fraternity and its relevance today. Key dimensions include: Preamble values; Social harmony; Hate speech challenge; Civic education. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Discuss the constitutional ideal of fraternity and its relevance today. Key dimensions include: Preamble values; Social harmony; Hate speech challenge; Civic education. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    }
+  ],
+  "comprehension": {
+    "passage": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
+    "passage_hi": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
+    "questions": [
+      {
+        "q": "Name three climate risks facing India's coastline as per the passage.",
+        "q_hi": "Name three climate risks facing India's coastline as per the passage.",
+        "model": "Rising sea levels, intensifying cyclones, and saltwater intrusion.",
+        "model_hi": "Rising sea levels, intensifying cyclones, and saltwater intrusion."
+      },
+      {
+        "q": "Which groups are described as facing the sharpest shocks?",
+        "q_hi": "Which groups are described as facing the sharpest shocks?",
+        "model": "Fishing communities and informal workers.",
+        "model_hi": "Fishing communities and informal workers."
+      },
+      {
+        "q": "What dual approach can improve community ownership of adaptation?",
+        "q_hi": "What dual approach can improve community ownership of adaptation?",
+        "model": "Integrating traditional ecological knowledge with scientific forecasting.",
+        "model_hi": "Integrating traditional ecological knowledge with scientific forecasting."
+      },
+      {
+        "q": "Why does the author call coastal resilience a development issue?",
+        "q_hi": "Why does the author call coastal resilience a development issue?",
+        "model": "Because protecting coasts protects jobs, food security, and national infrastructure.",
+        "model_hi": "Because protecting coasts protects jobs, food security, and national infrastructure."
+      },
+      {
+        "q": "What constraints on adaptation does the passage mention?",
+        "q_hi": "What constraints on adaptation does the passage mention?",
+        "model": "Inadequate adaptation finance and weak technical capacity in local governments.",
+        "model_hi": "Inadequate adaptation finance and weak technical capacity in local governments."
+      }
+    ]
+  },
+  "tipOfDay": "For 10-mark LAQs, aim for 4–5 crisp points wrapped in short paragraphs.",
+  "tipOfDay_hi": "For 10-mark LAQs, aim for 4–5 crisp points wrapped in short paragraphs."
+}

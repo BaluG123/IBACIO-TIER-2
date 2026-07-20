@@ -1,0 +1,932 @@
+{
+  "topics": [
+    {
+      "id": "e01",
+      "category": "Current Affairs",
+      "title": "India's Soft Power Diplomacy in a Multipolar World",
+      "difficulty": "Medium",
+      "hints": [
+        "Define soft power with examples (yoga, cinema, diaspora)",
+        "Compare with hard power & recent G20/BRICS outreach",
+        "Challenges: perception gaps, neighbourhood",
+        "Way forward: cultural institutes, education hubs"
+      ],
+      "outline": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "India's Soft Power Diplomacy in a Multipolar World",
+      "hints_hi": [
+        "Define soft power with examples (yoga, cinema, diaspora)",
+        "Compare with hard power & recent G20/BRICS outreach",
+        "Challenges: perception gaps, neighbourhood",
+        "Way forward: cultural institutes, education hubs"
+      ],
+      "outline_hi": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy."
+    },
+    {
+      "id": "e02",
+      "category": "Current Affairs",
+      "title": "One Nation One Election: Opportunities and Challenges",
+      "difficulty": "Hard",
+      "hints": [
+        "Constitutional amendments needed",
+        "Fiscal savings vs federal concerns",
+        "Simultaneous polls abroad",
+        "Impact on governance continuity"
+      ],
+      "outline": "Intro: concept & Law Commission/HLC debates. Body: pros (cost, policy focus), cons (federalism, regional issues). Conclusion: phased consensus-based approach.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "One Nation One Election: Opportunities and Challenges",
+      "hints_hi": [
+        "Constitutional amendments needed",
+        "Fiscal savings vs federal concerns",
+        "Simultaneous polls abroad",
+        "Impact on governance continuity"
+      ],
+      "outline_hi": "Intro: concept & Law Commission/HLC debates. Body: pros (cost, policy focus), cons (federalism, regional issues). Conclusion: phased consensus-based approach."
+    },
+    {
+      "id": "e03",
+      "category": "Current Affairs",
+      "title": "Climate Justice and India's Development Imperative",
+      "difficulty": "Medium",
+      "hints": [
+        "CBDR-RC principle",
+        "India's NDCs and renewable push",
+        "Adaptation finance gap",
+        "Balancing growth with net-zero pathway"
+      ],
+      "outline": "Intro: equity in climate regime. Body: energy transition, green jobs, vulnerable communities. Conclusion: climate leadership without compromising development.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Climate Justice and India's Development Imperative",
+      "hints_hi": [
+        "CBDR-RC principle",
+        "India's NDCs and renewable push",
+        "Adaptation finance gap",
+        "Balancing growth with net-zero pathway"
+      ],
+      "outline_hi": "Intro: equity in climate regime. Body: energy transition, green jobs, vulnerable communities. Conclusion: climate leadership without compromising development."
+    },
+    {
+      "id": "e04",
+      "category": "Current Affairs",
+      "title": "Digital Public Infrastructure: India Stack as a Global Model",
+      "difficulty": "Medium",
+      "hints": [
+        "Aadhaar, UPI, DigiLocker, ONDC",
+        "Inclusion and privacy trade-offs",
+        "Export of DPI to Global South",
+        "Cyber resilience"
+      ],
+      "outline": "Intro: DPI as public good. Body: financial inclusion, scale, risks of exclusion/surveillance. Conclusion: open, interoperable, rights-respecting DPI.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Digital Public Infrastructure: India Stack as a Global Model",
+      "hints_hi": [
+        "Aadhaar, UPI, DigiLocker, ONDC",
+        "Inclusion and privacy trade-offs",
+        "Export of DPI to Global South",
+        "Cyber resilience"
+      ],
+      "outline_hi": "Intro: DPI as public good. Body: financial inclusion, scale, risks of exclusion/surveillance. Conclusion: open, interoperable, rights-respecting DPI."
+    },
+    {
+      "id": "e05",
+      "category": "Current Affairs",
+      "title": "India's Neighbourhood First Policy: Continuity and Change",
+      "difficulty": "Medium",
+      "hints": [
+        "SAARC vs BIMSTEC",
+        "Connectivity projects",
+        "China factor",
+        "People-to-people ties"
+      ],
+      "outline": "Intro: geography as destiny. Body: diplomacy, development aid, security cooperation. Conclusion: trust-building remains central.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "India's Neighbourhood First Policy: Continuity and Change",
+      "hints_hi": [
+        "SAARC vs BIMSTEC",
+        "Connectivity projects",
+        "China factor",
+        "People-to-people ties"
+      ],
+      "outline_hi": "Intro: geography as destiny. Body: diplomacy, development aid, security cooperation. Conclusion: trust-building remains central."
+    },
+    {
+      "id": "e06",
+      "category": "Current Affairs",
+      "title": "Women's Reservation Act and Inclusive Representation",
+      "difficulty": "Easy",
+      "hints": [
+        "33% reservation context",
+        "Delimitation linkage",
+        "State-level lessons",
+        "Beyond numbers: agency"
+      ],
+      "outline": "Intro: representation deficit. Body: Act provisions, implementation timeline, societal impact. Conclusion: political empowerment as democratic deepening.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Women's Reservation Act and Inclusive Representation",
+      "hints_hi": [
+        "33% reservation context",
+        "Delimitation linkage",
+        "State-level lessons",
+        "Beyond numbers: agency"
+      ],
+      "outline_hi": "Intro: representation deficit. Body: Act provisions, implementation timeline, societal impact. Conclusion: political empowerment as democratic deepening."
+    },
+    {
+      "id": "e07",
+      "category": "Economy",
+      "title": "India's Ambition to Become a Developed Nation by 2047",
+      "difficulty": "Hard",
+      "hints": [
+        "Viksit Bharat vision pillars",
+        "Manufacturing & services",
+        "Human capital",
+        "Inequality & green growth"
+      ],
+      "outline": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "India's Ambition to Become a Developed Nation by 2047",
+      "hints_hi": [
+        "Viksit Bharat vision pillars",
+        "Manufacturing & services",
+        "Human capital",
+        "Inequality & green growth"
+      ],
+      "outline_hi": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric."
+    },
+    {
+      "id": "e08",
+      "category": "Economy",
+      "title": "Fiscal Federalism in India: GST and Beyond",
+      "difficulty": "Hard",
+      "hints": [
+        "GST Council experience",
+        "Vertical & horizontal imbalances",
+        "Finance Commission role",
+        "State fiscal space"
+      ],
+      "outline": "Intro: cooperative federalism. Body: GST wins/tensions, grants, borrowing. Conclusion: trust and data-driven devolution.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Fiscal Federalism in India: GST and Beyond",
+      "hints_hi": [
+        "GST Council experience",
+        "Vertical & horizontal imbalances",
+        "Finance Commission role",
+        "State fiscal space"
+      ],
+      "outline_hi": "Intro: cooperative federalism. Body: GST wins/tensions, grants, borrowing. Conclusion: trust and data-driven devolution."
+    },
+    {
+      "id": "e09",
+      "category": "Economy",
+      "title": "Unemployment and the Challenge of Quality Jobs",
+      "difficulty": "Medium",
+      "hints": [
+        "Demographic dividend",
+        "Gig economy & skilling",
+        "MSMEs",
+        "Female labour force participation"
+      ],
+      "outline": "Intro: jobless growth debate. Body: education-employability gap, labour codes, startups. Conclusion: productivity with dignity of labour.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Unemployment and the Challenge of Quality Jobs",
+      "hints_hi": [
+        "Demographic dividend",
+        "Gig economy & skilling",
+        "MSMEs",
+        "Female labour force participation"
+      ],
+      "outline_hi": "Intro: jobless growth debate. Body: education-employability gap, labour codes, startups. Conclusion: productivity with dignity of labour."
+    },
+    {
+      "id": "e10",
+      "category": "Economy",
+      "title": "Agriculture Marketing Reforms and Farmer Welfare",
+      "difficulty": "Medium",
+      "hints": [
+        "APMC legacy",
+        "FPOs and e-NAM",
+        "MSP debate",
+        "Climate-resilient farming"
+      ],
+      "outline": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Agriculture Marketing Reforms and Farmer Welfare",
+      "hints_hi": [
+        "APMC legacy",
+        "FPOs and e-NAM",
+        "MSP debate",
+        "Climate-resilient farming"
+      ],
+      "outline_hi": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets."
+    },
+    {
+      "id": "e11",
+      "category": "Economy",
+      "title": "Fintech Revolution and Financial Inclusion in India",
+      "difficulty": "Easy",
+      "hints": [
+        "Jan Dhan-Aadhaar-Mobile trinity",
+        "UPI scale",
+        "Cyber fraud risks",
+        "Credit for underserved"
+      ],
+      "outline": "Intro: finance as empowerment. Body: inclusion metrics, consumer protection. Conclusion: trust is the next frontier.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Fintech Revolution and Financial Inclusion in India",
+      "hints_hi": [
+        "Jan Dhan-Aadhaar-Mobile trinity",
+        "UPI scale",
+        "Cyber fraud risks",
+        "Credit for underserved"
+      ],
+      "outline_hi": "Intro: finance as empowerment. Body: inclusion metrics, consumer protection. Conclusion: trust is the next frontier."
+    },
+    {
+      "id": "e12",
+      "category": "Economy",
+      "title": "Green Hydrogen and India's Energy Transition",
+      "difficulty": "Medium",
+      "hints": [
+        "National Green Hydrogen Mission",
+        "Industrial decarbonisation",
+        "Export potential",
+        "Infrastructure & cost curves"
+      ],
+      "outline": "Intro: hard-to-abate sectors. Body: policy, investment, skills. Conclusion: strategic autonomy through clean energy.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Green Hydrogen and India's Energy Transition",
+      "hints_hi": [
+        "National Green Hydrogen Mission",
+        "Industrial decarbonisation",
+        "Export potential",
+        "Infrastructure & cost curves"
+      ],
+      "outline_hi": "Intro: hard-to-abate sectors. Body: policy, investment, skills. Conclusion: strategic autonomy through clean energy."
+    },
+    {
+      "id": "e13",
+      "category": "Socio-political",
+      "title": "Social Media, Free Speech and Democratic Discourse",
+      "difficulty": "Hard",
+      "hints": [
+        "Art 19 reasonable restrictions",
+        "Misinformation & polarisation",
+        "Platform accountability",
+        "Digital literacy"
+      ],
+      "outline": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Social Media, Free Speech and Democratic Discourse",
+      "hints_hi": [
+        "Art 19 reasonable restrictions",
+        "Misinformation & polarisation",
+        "Platform accountability",
+        "Digital literacy"
+      ],
+      "outline_hi": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility."
+    },
+    {
+      "id": "e14",
+      "category": "Socio-political",
+      "title": "Urbanisation in India: Smart Cities and Livable Cities",
+      "difficulty": "Medium",
+      "hints": [
+        "Migration pressures",
+        "Housing & transit",
+        "Waste & water",
+        "Participatory planning"
+      ],
+      "outline": "Intro: urban century. Body: infrastructure, equity, climate resilience. Conclusion: cities as engines with inclusion.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Urbanisation in India: Smart Cities and Livable Cities",
+      "hints_hi": [
+        "Migration pressures",
+        "Housing & transit",
+        "Waste & water",
+        "Participatory planning"
+      ],
+      "outline_hi": "Intro: urban century. Body: infrastructure, equity, climate resilience. Conclusion: cities as engines with inclusion."
+    },
+    {
+      "id": "e15",
+      "category": "Socio-political",
+      "title": "Mental Health as a Public Health Priority",
+      "difficulty": "Easy",
+      "hints": [
+        "Stigma",
+        "Mental Healthcare Act",
+        "Workforce shortage",
+        "Youth & workplaces"
+      ],
+      "outline": "Intro: silent epidemic. Body: access, community care, schools. Conclusion: wellbeing is national capital.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Mental Health as a Public Health Priority",
+      "hints_hi": [
+        "Stigma",
+        "Mental Healthcare Act",
+        "Workforce shortage",
+        "Youth & workplaces"
+      ],
+      "outline_hi": "Intro: silent epidemic. Body: access, community care, schools. Conclusion: wellbeing is national capital."
+    },
+    {
+      "id": "e16",
+      "category": "Socio-political",
+      "title": "Education 4.0: NEP 2020 and the Future of Learning",
+      "difficulty": "Medium",
+      "hints": [
+        "Multidisciplinary approach",
+        "Foundational literacy",
+        "EdTech equity",
+        "Teacher capacity"
+      ],
+      "outline": "Intro: knowledge economy. Body: NEP pillars, implementation gaps. Conclusion: quality with access.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Education 4.0: NEP 2020 and the Future of Learning",
+      "hints_hi": [
+        "Multidisciplinary approach",
+        "Foundational literacy",
+        "EdTech equity",
+        "Teacher capacity"
+      ],
+      "outline_hi": "Intro: knowledge economy. Body: NEP pillars, implementation gaps. Conclusion: quality with access."
+    },
+    {
+      "id": "e17",
+      "category": "Socio-political",
+      "title": "Caste, Affirmative Action and Social Justice Today",
+      "difficulty": "Hard",
+      "hints": [
+        "Constitutional vision",
+        "Creamy layer debates",
+        "Data & evidence",
+        "Dignity beyond quotas"
+      ],
+      "outline": "Intro: equality of opportunity. Body: reservation rationale, reforms, social mobility. Conclusion: justice with harmony.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Caste, Affirmative Action and Social Justice Today",
+      "hints_hi": [
+        "Constitutional vision",
+        "Creamy layer debates",
+        "Data & evidence",
+        "Dignity beyond quotas"
+      ],
+      "outline_hi": "Intro: equality of opportunity. Body: reservation rationale, reforms, social mobility. Conclusion: justice with harmony."
+    },
+    {
+      "id": "e18",
+      "category": "Socio-political",
+      "title": "Ageing India: Care Economy and Silver Dividend",
+      "difficulty": "Medium",
+      "hints": [
+        "Demographic shift",
+        "Pension & healthcare",
+        "Elder abuse",
+        "Productive ageing"
+      ],
+      "outline": "Intro: longevity revolution. Body: policy gaps, family & state roles. Conclusion: dignified ageing as rights issue.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Ageing India: Care Economy and Silver Dividend",
+      "hints_hi": [
+        "Demographic shift",
+        "Pension & healthcare",
+        "Elder abuse",
+        "Productive ageing"
+      ],
+      "outline_hi": "Intro: longevity revolution. Body: policy gaps, family & state roles. Conclusion: dignified ageing as rights issue."
+    },
+    {
+      "id": "e19",
+      "category": "Security & Governance",
+      "title": "Internal Security Challenges in a Digital Age",
+      "difficulty": "Hard",
+      "hints": [
+        "Cybercrime & radicalisation online",
+        "Critical infrastructure",
+        "Police modernisation",
+        "Cooperative federalism in security"
+      ],
+      "outline": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Internal Security Challenges in a Digital Age",
+      "hints_hi": [
+        "Cybercrime & radicalisation online",
+        "Critical infrastructure",
+        "Police modernisation",
+        "Cooperative federalism in security"
+      ],
+      "outline_hi": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security."
+    },
+    {
+      "id": "e20",
+      "category": "Security & Governance",
+      "title": "Border Management and Neighbourhood Stability",
+      "difficulty": "Medium",
+      "hints": [
+        "Land & maritime borders",
+        "Infrastructure along borders",
+        "People-centric approaches",
+        "Intelligence coordination"
+      ],
+      "outline": "Intro: borders as bridges and barriers. Body: tech, fencing, development. Conclusion: secure borders, open minds.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Border Management and Neighbourhood Stability",
+      "hints_hi": [
+        "Land & maritime borders",
+        "Infrastructure along borders",
+        "People-centric approaches",
+        "Intelligence coordination"
+      ],
+      "outline_hi": "Intro: borders as bridges and barriers. Body: tech, fencing, development. Conclusion: secure borders, open minds."
+    },
+    {
+      "id": "e21",
+      "category": "Security & Governance",
+      "title": "Police Reforms and Trust in Law Enforcement",
+      "difficulty": "Medium",
+      "hints": [
+        "Prakash Singh guidelines",
+        "Accountability mechanisms",
+        "Community policing",
+        "Training & diversity"
+      ],
+      "outline": "Intro: police as public service. Body: autonomy vs accountability, technology. Conclusion: legitimacy is the real soft power.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Police Reforms and Trust in Law Enforcement",
+      "hints_hi": [
+        "Prakash Singh guidelines",
+        "Accountability mechanisms",
+        "Community policing",
+        "Training & diversity"
+      ],
+      "outline_hi": "Intro: police as public service. Body: autonomy vs accountability, technology. Conclusion: legitimacy is the real soft power."
+    },
+    {
+      "id": "e22",
+      "category": "Security & Governance",
+      "title": "Disaster Management: From Response to Resilience",
+      "difficulty": "Easy",
+      "hints": [
+        "NDMA framework",
+        "Early warning systems",
+        "Local capacity",
+        "Climate disasters"
+      ],
+      "outline": "Intro: Sendai priorities. Body: mitigation, preparedness, recovery. Conclusion: resilience is development.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Disaster Management: From Response to Resilience",
+      "hints_hi": [
+        "NDMA framework",
+        "Early warning systems",
+        "Local capacity",
+        "Climate disasters"
+      ],
+      "outline_hi": "Intro: Sendai priorities. Body: mitigation, preparedness, recovery. Conclusion: resilience is development."
+    },
+    {
+      "id": "e23",
+      "category": "Security & Governance",
+      "title": "Ethics in Public Administration and Good Governance",
+      "difficulty": "Medium",
+      "hints": [
+        "Integrity & transparency",
+        "Citizen charters",
+        "E-governance",
+        "Whistleblower protection"
+      ],
+      "outline": "Intro: governance as trust. Body: institutional ethics, RTI spirit. Conclusion: values drive institutions.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Ethics in Public Administration and Good Governance",
+      "hints_hi": [
+        "Integrity & transparency",
+        "Citizen charters",
+        "E-governance",
+        "Whistleblower protection"
+      ],
+      "outline_hi": "Intro: governance as trust. Body: institutional ethics, RTI spirit. Conclusion: values drive institutions."
+    },
+    {
+      "id": "e24",
+      "category": "Security & Governance",
+      "title": "Intelligence Awareness for Citizens: Facts vs Fear",
+      "difficulty": "Easy",
+      "hints": [
+        "Role of IB/agencies (factual)",
+        "Civic duty vs vigilantism",
+        "Rumour control",
+        "National security literacy"
+      ],
+      "outline": "Intro: informed citizenry. Body: balanced awareness, avoid sensationalism. Conclusion: security with constitutional values.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Intelligence Awareness for Citizens: Facts vs Fear",
+      "hints_hi": [
+        "Role of IB/agencies (factual)",
+        "Civic duty vs vigilantism",
+        "Rumour control",
+        "National security literacy"
+      ],
+      "outline_hi": "Intro: informed citizenry. Body: balanced awareness, avoid sensationalism. Conclusion: security with constitutional values."
+    },
+    {
+      "id": "e25",
+      "category": "Abstract/General",
+      "title": "Truth, Post-Truth and the Responsibility of Citizens",
+      "difficulty": "Hard",
+      "hints": [
+        "Epistemic crisis",
+        "Media literacy",
+        "Institutions of verification",
+        "Civil discourse"
+      ],
+      "outline": "Intro: post-truth as challenge. Body: education, media ethics, personal responsibility. Conclusion: democracy needs shared facts.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Truth, Post-Truth and the Responsibility of Citizens",
+      "hints_hi": [
+        "Epistemic crisis",
+        "Media literacy",
+        "Institutions of verification",
+        "Civil discourse"
+      ],
+      "outline_hi": "Intro: post-truth as challenge. Body: education, media ethics, personal responsibility. Conclusion: democracy needs shared facts."
+    },
+    {
+      "id": "e26",
+      "category": "Abstract/General",
+      "title": "Science, Technology and Human Values",
+      "difficulty": "Medium",
+      "hints": [
+        "AI ethics",
+        "Bioethics",
+        "Access & equity",
+        "Regulation vs innovation"
+      ],
+      "outline": "Intro: tech as double-edged. Body: opportunities and moral dilemmas. Conclusion: human-centric innovation.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Science, Technology and Human Values",
+      "hints_hi": [
+        "AI ethics",
+        "Bioethics",
+        "Access & equity",
+        "Regulation vs innovation"
+      ],
+      "outline_hi": "Intro: tech as double-edged. Body: opportunities and moral dilemmas. Conclusion: human-centric innovation."
+    },
+    {
+      "id": "e27",
+      "category": "Abstract/General",
+      "title": "Unity in Diversity: India's Living Experiment",
+      "difficulty": "Easy",
+      "hints": [
+        "Constitutional fraternity",
+        "Cultural pluralism",
+        "Regional identities",
+        "Shared future"
+      ],
+      "outline": "Intro: diversity as strength. Body: examples of coexistence, challenges. Conclusion: dialogue over dominance.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Unity in Diversity: India's Living Experiment",
+      "hints_hi": [
+        "Constitutional fraternity",
+        "Cultural pluralism",
+        "Regional identities",
+        "Shared future"
+      ],
+      "outline_hi": "Intro: diversity as strength. Body: examples of coexistence, challenges. Conclusion: dialogue over dominance."
+    },
+    {
+      "id": "e28",
+      "category": "Abstract/General",
+      "title": "The Idea of Service: Public Life and Private Interest",
+      "difficulty": "Medium",
+      "hints": [
+        "Civil service ethos",
+        "Conflict of interest",
+        "Volunteerism",
+        "Nation-building"
+      ],
+      "outline": "Intro: seva as ethic. Body: institutions, leadership examples. Conclusion: public interest first.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "The Idea of Service: Public Life and Private Interest",
+      "hints_hi": [
+        "Civil service ethos",
+        "Conflict of interest",
+        "Volunteerism",
+        "Nation-building"
+      ],
+      "outline_hi": "Intro: seva as ethic. Body: institutions, leadership examples. Conclusion: public interest first."
+    },
+    {
+      "id": "e29",
+      "category": "Current Affairs",
+      "title": "Indo-Pacific Strategy and India's Strategic Autonomy",
+      "difficulty": "Hard",
+      "hints": [
+        "Quad & partnerships",
+        "ASEAN centrality",
+        "Trade & security nexus",
+        "Avoiding bloc politics"
+      ],
+      "outline": "Intro: Indo-Pacific concept. Body: maritime security, supply chains. Conclusion: multi-alignment with clarity.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Indo-Pacific Strategy and India's Strategic Autonomy",
+      "hints_hi": [
+        "Quad & partnerships",
+        "ASEAN centrality",
+        "Trade & security nexus",
+        "Avoiding bloc politics"
+      ],
+      "outline_hi": "Intro: Indo-Pacific concept. Body: maritime security, supply chains. Conclusion: multi-alignment with clarity."
+    },
+    {
+      "id": "e30",
+      "category": "Economy",
+      "title": "MSMEs: Backbone of Inclusive Growth",
+      "difficulty": "Easy",
+      "hints": [
+        "Employment share",
+        "Credit & formalisation",
+        "Export potential",
+        "Digital adoption"
+      ],
+      "outline": "Intro: MSME weight in economy. Body: schemes, bottlenecks. Conclusion: enable scale without losing flexibility.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "MSMEs: Backbone of Inclusive Growth",
+      "hints_hi": [
+        "Employment share",
+        "Credit & formalisation",
+        "Export potential",
+        "Digital adoption"
+      ],
+      "outline_hi": "Intro: MSME weight in economy. Body: schemes, bottlenecks. Conclusion: enable scale without losing flexibility."
+    },
+    {
+      "id": "e31",
+      "category": "Socio-political",
+      "title": "Water Security: Rivers, Interlinking and Conservation",
+      "difficulty": "Medium",
+      "hints": [
+        "Per capita water stress",
+        "Interstate disputes",
+        "Groundwater depletion",
+        "Community management"
+      ],
+      "outline": "Intro: water as strategic resource. Body: supply-demand, governance. Conclusion: conserve, share, innovate.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Water Security: Rivers, Interlinking and Conservation",
+      "hints_hi": [
+        "Per capita water stress",
+        "Interstate disputes",
+        "Groundwater depletion",
+        "Community management"
+      ],
+      "outline_hi": "Intro: water as strategic resource. Body: supply-demand, governance. Conclusion: conserve, share, innovate."
+    },
+    {
+      "id": "e32",
+      "category": "Security & Governance",
+      "title": "Cybersecurity as National Security",
+      "difficulty": "Medium",
+      "hints": [
+        "Critical info infrastructure",
+        "CERT-In role",
+        "Public-private partnership",
+        "Citizen hygiene"
+      ],
+      "outline": "Intro: cyber domain of conflict. Body: threats, capacity, laws. Conclusion: resilient digital India.",
+      "wordTargetMin": 400,
+      "wordTargetMax": 500,
+      "suggestedMinutes": 28,
+      "structure": [
+        "Introduction (context + thesis)",
+        "Body (2–3 analytical paragraphs with facts)",
+        "Conclusion (balanced way forward)"
+      ],
+      "title_hi": "Cybersecurity as National Security",
+      "hints_hi": [
+        "Critical info infrastructure",
+        "CERT-In role",
+        "Public-private partnership",
+        "Citizen hygiene"
+      ],
+      "outline_hi": "Intro: cyber domain of conflict. Body: threats, capacity, laws. Conclusion: resilient digital India."
+    }
+  ]
+}

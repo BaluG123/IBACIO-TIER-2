@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-16",
+  "editionTitle": "Tier-2 Daily Desk",
+  "editionTitle_hi": "टियर-2 डेली डेस्क",
+  "essayTopic": {
+    "title": "Agriculture Marketing Reforms and Farmer Welfare",
+    "title_hi": "Agriculture Marketing Reforms and Farmer Welfare",
+    "category": "Economy",
+    "hints": [
+      "APMC legacy",
+      "FPOs and e-NAM",
+      "MSP debate",
+      "Climate-resilient farming"
+    ],
+    "hints_hi": [
+      "APMC legacy",
+      "FPOs and e-NAM",
+      "MSP debate",
+      "Climate-resilient farming"
+    ],
+    "modelOutline": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets.",
+    "modelOutline_hi": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets."
+  },
+  "longAnswers": [
+    {
+      "id": "la17",
+      "domain": "Economics",
+      "question": "Examine the challenges of agricultural price realisation for Indian farmers.",
+      "question_hi": "Examine the challenges of agricultural price realisation for Indian farmers.",
+      "keyPoints": [
+        "Market fragmentation",
+        "MSP debates",
+        "FPOs & e-NAM",
+        "Value chains"
+      ],
+      "keyPoints_hi": [
+        "Market fragmentation",
+        "MSP debates",
+        "FPOs & e-NAM",
+        "Value chains"
+      ],
+      "modelAnswer": "Examine the challenges of agricultural price realisation for Indian farmers. Key dimensions include: Market fragmentation; MSP debates; FPOs & e-NAM; Value chains. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Examine the challenges of agricultural price realisation for Indian farmers. Key dimensions include: Market fragmentation; MSP debates; FPOs & e-NAM; Value chains. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    },
+    {
+      "id": "la31",
+      "domain": "Socio-political",
+      "question": "What measures can improve mental health outcomes among Indian youth?",
+      "question_hi": "What measures can improve mental health outcomes among Indian youth?",
+      "keyPoints": [
+        "Stigma reduction",
+        "School programmes",
+        "Workforce capacity",
+        "Digital risks"
+      ],
+      "keyPoints_hi": [
+        "Stigma reduction",
+        "School programmes",
+        "Workforce capacity",
+        "Digital risks"
+      ],
+      "modelAnswer": "What measures can improve mental health outcomes among Indian youth. Key dimensions include: Stigma reduction; School programmes; Workforce capacity; Digital risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "What measures can improve mental health outcomes among Indian youth. Key dimensions include: Stigma reduction; School programmes; Workforce capacity; Digital risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    }
+  ],
+  "comprehension": {
+    "passage": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
+    "passage_hi": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
+    "questions": [
+      {
+        "q": "What advantage of gig work does the passage emphasise?",
+        "q_hi": "What advantage of gig work does the passage emphasise?",
+        "model": "Flexibility and new income streams, especially for youth and women seeking part-time work.",
+        "model_hi": "Flexibility and new income streams, especially for youth and women seeking part-time work."
+      },
+      {
+        "q": "Why is social protection complicated for platform workers?",
+        "q_hi": "Why is social protection complicated for platform workers?",
+        "model": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training.",
+        "model_hi": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training."
+      },
+      {
+        "q": "What risk does over-regulation pose according to the author?",
+        "q_hi": "What risk does over-regulation pose according to the author?",
+        "model": "It may shrink opportunities / entrepreneurship.",
+        "model_hi": "It may shrink opportunities / entrepreneurship."
+      },
+      {
+        "q": "Suggest two elements of the \"pragmatic path\" mentioned.",
+        "q_hi": "Suggest two elements of the \"pragmatic path\" mentioned.",
+        "model": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two).",
+        "model_hi": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two)."
+      }
+    ]
+  },
+  "tipOfDay": "Word count is a guide: depth and clarity beat stuffing extra words.",
+  "tipOfDay_hi": "Word count is a guide: depth and clarity beat stuffing extra words."
+}

@@ -1,0 +1,86 @@
+{
+  "essayStructure": {
+    "title": "Essay Structure That Scores",
+    "points": [
+      "Introduction: define the theme + give a clear thesis in 40–60 words.",
+      "Body: 2–3 paragraphs — causes/dimensions, analysis with facts, counterpoint.",
+      "Conclusion: balanced way forward; avoid sudden new arguments.",
+      "Target 400–500 words; quality over length."
+    ]
+  },
+  "examinerLens": {
+    "title": "How Examiners Read Descriptive Answers",
+    "points": [
+      "Clarity of thought and organisation matter as much as content.",
+      "Relevant, recent, factual examples strengthen arguments.",
+      "Balance and maturity of tone — especially for socio-political topics.",
+      "Language: simple, precise English; avoid slang and extreme adjectives."
+    ]
+  },
+  "commonMistakes": {
+    "title": "Common Mistakes to Avoid",
+    "points": [
+      "Starting without a plan — leads to repetition and weak conclusions.",
+      "One-sided political rants instead of multi-dimensional analysis.",
+      "Inventing statistics; better to use well-known schemes/institutions.",
+      "Ignoring the question's directive words (discuss, examine, critically).",
+      "Poor handwriting practice for pen-paper exam (practice on paper too)."
+    ]
+  },
+  "dosDonts": {
+    "title": "Do's & Don'ts — IB Descriptive Tone",
+    "dos": [
+      "Stay factual, calm, and constitutionally grounded.",
+      "Acknowledge complexity; offer practical reforms.",
+      "Use Intro–Body–Conclusion discipline every time."
+    ],
+    "donts": [
+      "Do not sensationalise security or communal issues.",
+      "Do not attack communities or parties; critique policies/institutions.",
+      "Do not pad with irrelevant quotations."
+    ]
+  },
+  "vocab": {
+    "title": "Useful Vocabulary — Governance & Economy",
+    "words": [
+      {
+        "term": "Fiscal consolidation",
+        "meaning": "Reducing deficit sustainably while protecting growth"
+      },
+      {
+        "term": "Inclusive growth",
+        "meaning": "Growth that expands opportunities across sections"
+      },
+      {
+        "term": "Strategic autonomy",
+        "meaning": "Independent decision-making amid partnerships"
+      },
+      {
+        "term": "Last-mile delivery",
+        "meaning": "Ensuring schemes reach the intended beneficiary"
+      },
+      {
+        "term": "Cooperative federalism",
+        "meaning": "Centre-State collaboration for shared goals"
+      },
+      {
+        "term": "Demographic dividend",
+        "meaning": "Growth potential from a young working-age population"
+      },
+      {
+        "term": "Climate resilience",
+        "meaning": "Capacity to absorb and recover from climate shocks"
+      },
+      {
+        "term": "Digital public goods",
+        "meaning": "Open digital systems serving public interest"
+      }
+    ]
+  },
+  "sampleEssayIds": [
+    "e01",
+    "e07",
+    "e19",
+    "e25"
+  ]
+}

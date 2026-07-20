@@ -1,0 +1,60 @@
+{
+  "mocks": [
+    {
+      "id": "mock1",
+      "title": "Descriptive Mock Paper – 1",
+      "title_hi": "वर्णनात्मक मॉक पेपर – 1",
+      "durationMinutes": 60,
+      "totalMarks": 50,
+      "essayTopicId": "e07",
+      "comprehensionId": "rc01",
+      "longAnswerIds": [
+        "la15",
+        "la29"
+      ],
+      "instructions": [
+        "Total time: 60 minutes. Plan before you write.",
+        "Essay (~400–500 words) — 20 marks",
+        "Comprehension — 10 marks",
+        "Two long answers (~150–200 words each) — 10+10 marks",
+        "Write in clear English; remain factual and balanced."
+      ]
+    },
+    {
+      "id": "mock2",
+      "title": "Descriptive Mock Paper – 2",
+      "title_hi": "वर्णनात्मक मॉक पेपर – 2",
+      "durationMinutes": 60,
+      "totalMarks": 50,
+      "essayTopicId": "e19",
+      "comprehensionId": "rc04",
+      "longAnswerIds": [
+        "la03",
+        "la22"
+      ],
+      "instructions": [
+        "Simulate exam conditions: no phone, continuous writing.",
+        "Leave 3–4 minutes to review each section.",
+        "Self-score honestly using the rubric after submission."
+      ]
+    },
+    {
+      "id": "mock3",
+      "title": "Descriptive Mock Paper – 3",
+      "title_hi": "वर्णनात्मक मॉक पेपर – 3",
+      "durationMinutes": 60,
+      "totalMarks": 50,
+      "essayTopicId": "e13",
+      "comprehensionId": "rc05",
+      "longAnswerIds": [
+        "la08",
+        "la33"
+      ],
+      "instructions": [
+        "Focus on structure: Intro–Body–Conclusion for essay.",
+        "For LAQs, open with a definition/context sentence.",
+        "Avoid political rants; prefer balanced analysis."
+      ]
+    }
+  ]
+}

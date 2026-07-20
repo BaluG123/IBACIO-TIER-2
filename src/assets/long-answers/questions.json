@@ -1,0 +1,1012 @@
+{
+  "questions": [
+    {
+      "id": "la01",
+      "domain": "Current Affairs",
+      "question": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
+      "question_hi": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
+      "keyPoints": [
+        "Inclusive agenda-setting",
+        "Voice for developing nations",
+        "DPI and climate finance narratives",
+        "Continuity in multilateral engagement"
+      ],
+      "keyPoints_hi": [
+        "Inclusive agenda-setting",
+        "Voice for developing nations",
+        "DPI and climate finance narratives",
+        "Continuity in multilateral engagement"
+      ],
+      "modelAnswer": "Discuss the significance of India's G20 presidency for Global South diplomacy. Key dimensions include: Inclusive agenda-setting; Voice for developing nations; DPI and climate finance narratives; Continuity in multilateral engagement. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la02",
+      "domain": "Current Affairs",
+      "question": "Examine India's approach to the Israel-Palestine conflict in light of strategic autonomy.",
+      "question_hi": "Examine India's approach to the Israel-Palestine conflict in light of strategic autonomy.",
+      "keyPoints": [
+        "Historical positions",
+        "Evacuation & diaspora safety",
+        "Energy and defence ties balance",
+        "Call for dialogue under UN framework"
+      ],
+      "keyPoints_hi": [
+        "Historical positions",
+        "Evacuation & diaspora safety",
+        "Energy and defence ties balance",
+        "Call for dialogue under UN framework"
+      ],
+      "modelAnswer": "Examine India's approach to the Israel-Palestine conflict in light of strategic autonomy. Key dimensions include: Historical positions; Evacuation & diaspora safety; Energy and defence ties balance; Call for dialogue under UN framework. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la03",
+      "domain": "Current Affairs",
+      "question": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
+      "question_hi": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
+      "keyPoints": [
+        "Maritime security & HADR",
+        "Supply chain resilience",
+        "Technology cooperation",
+        "Strategic autonomy caveats"
+      ],
+      "keyPoints_hi": [
+        "Maritime security & HADR",
+        "Supply chain resilience",
+        "Technology cooperation",
+        "Strategic autonomy caveats"
+      ],
+      "modelAnswer": "Evaluate the role of Quad in India's Indo-Pacific strategy. Key dimensions include: Maritime security & HADR; Supply chain resilience; Technology cooperation; Strategic autonomy caveats. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la04",
+      "domain": "Current Affairs",
+      "question": "What are the key features and challenges of the National Education Policy 2020 implementation?",
+      "question_hi": "What are the key features and challenges of the National Education Policy 2020 implementation?",
+      "keyPoints": [
+        "Multidisciplinary & flexibility",
+        "Foundational literacy push",
+        "Teacher training & funding",
+        "Federal coordination"
+      ],
+      "keyPoints_hi": [
+        "Multidisciplinary & flexibility",
+        "Foundational literacy push",
+        "Teacher training & funding",
+        "Federal coordination"
+      ],
+      "modelAnswer": "What are the key features and challenges of the National Education Policy 2020 implementation. Key dimensions include: Multidisciplinary & flexibility; Foundational literacy push; Teacher training & funding; Federal coordination. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la05",
+      "domain": "Current Affairs",
+      "question": "Analyse the implications of India's rising space economy.",
+      "question_hi": "Analyse the implications of India's rising space economy.",
+      "keyPoints": [
+        "Commercial launches",
+        "Satellite applications",
+        "Private sector ecosystem",
+        "Strategic & export potential"
+      ],
+      "keyPoints_hi": [
+        "Commercial launches",
+        "Satellite applications",
+        "Private sector ecosystem",
+        "Strategic & export potential"
+      ],
+      "modelAnswer": "Analyse the implications of India's rising space economy. Key dimensions include: Commercial launches; Satellite applications; Private sector ecosystem; Strategic & export potential. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la06",
+      "domain": "Current Affairs",
+      "question": "Discuss India's renewable energy targets and the road to energy security.",
+      "question_hi": "Discuss India's renewable energy targets and the road to energy security.",
+      "keyPoints": [
+        "Solar/wind scale-up",
+        "Storage & grid challenges",
+        "Green hydrogen",
+        "Just transition"
+      ],
+      "keyPoints_hi": [
+        "Solar/wind scale-up",
+        "Storage & grid challenges",
+        "Green hydrogen",
+        "Just transition"
+      ],
+      "modelAnswer": "Discuss India's renewable energy targets and the road to energy security. Key dimensions include: Solar/wind scale-up; Storage & grid challenges; Green hydrogen; Just transition. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la07",
+      "domain": "Current Affairs",
+      "question": "Assess the importance of BIMSTEC for India's Act East and Neighbourhood First policies.",
+      "question_hi": "Assess the importance of BIMSTEC for India's Act East and Neighbourhood First policies.",
+      "keyPoints": [
+        "Bay of Bengal connectivity",
+        "SAARC limitations context",
+        "Trade and security cooperation",
+        "Implementation gaps"
+      ],
+      "keyPoints_hi": [
+        "Bay of Bengal connectivity",
+        "SAARC limitations context",
+        "Trade and security cooperation",
+        "Implementation gaps"
+      ],
+      "modelAnswer": "Assess the importance of BIMSTEC for India's Act East and Neighbourhood First policies. Key dimensions include: Bay of Bengal connectivity; SAARC limitations context; Trade and security cooperation; Implementation gaps. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la08",
+      "domain": "Current Affairs",
+      "question": "Explain how Digital India initiatives have impacted financial inclusion.",
+      "question_hi": "Explain how Digital India initiatives have impacted financial inclusion.",
+      "keyPoints": [
+        "JAM trinity",
+        "UPI & DBT",
+        "Last-mile challenges",
+        "Consumer protection"
+      ],
+      "keyPoints_hi": [
+        "JAM trinity",
+        "UPI & DBT",
+        "Last-mile challenges",
+        "Consumer protection"
+      ],
+      "modelAnswer": "Explain how Digital India initiatives have impacted financial inclusion. Key dimensions include: JAM trinity; UPI & DBT; Last-mile challenges; Consumer protection. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la09",
+      "domain": "Current Affairs",
+      "question": "Critically examine the debate around simultaneous elections in India.",
+      "question_hi": "Critically examine the debate around simultaneous elections in India.",
+      "keyPoints": [
+        "Cost and governance arguments",
+        "Federal and accountability concerns",
+        "Constitutional amendments",
+        "Phased options"
+      ],
+      "keyPoints_hi": [
+        "Cost and governance arguments",
+        "Federal and accountability concerns",
+        "Constitutional amendments",
+        "Phased options"
+      ],
+      "modelAnswer": "Critically examine the debate around simultaneous elections in India. Key dimensions include: Cost and governance arguments; Federal and accountability concerns; Constitutional amendments; Phased options. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la10",
+      "domain": "Current Affairs",
+      "question": "Discuss India's vaccine diplomacy and its soft power outcomes.",
+      "question_hi": "Discuss India's vaccine diplomacy and its soft power outcomes.",
+      "keyPoints": [
+        "Manufacturing capacity",
+        "Global South outreach",
+        "Supply constraints lessons",
+        "Health diplomacy brand"
+      ],
+      "keyPoints_hi": [
+        "Manufacturing capacity",
+        "Global South outreach",
+        "Supply constraints lessons",
+        "Health diplomacy brand"
+      ],
+      "modelAnswer": "Discuss India's vaccine diplomacy and its soft power outcomes. Key dimensions include: Manufacturing capacity; Global South outreach; Supply constraints lessons; Health diplomacy brand. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la11",
+      "domain": "Current Affairs",
+      "question": "What steps can strengthen India's disaster preparedness against extreme weather?",
+      "question_hi": "What steps can strengthen India's disaster preparedness against extreme weather?",
+      "keyPoints": [
+        "Early warning systems",
+        "Infrastructure resilience",
+        "Local capacity & NDMA",
+        "Insurance & recovery"
+      ],
+      "keyPoints_hi": [
+        "Early warning systems",
+        "Infrastructure resilience",
+        "Local capacity & NDMA",
+        "Insurance & recovery"
+      ],
+      "modelAnswer": "What steps can strengthen India's disaster preparedness against extreme weather. Key dimensions include: Early warning systems; Infrastructure resilience; Local capacity & NDMA; Insurance & recovery. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la12",
+      "domain": "Current Affairs",
+      "question": "Analyse the strategic importance of the Indian Ocean Region for India.",
+      "question_hi": "Analyse the strategic importance of the Indian Ocean Region for India.",
+      "keyPoints": [
+        "Trade & energy routes",
+        "Maritime domain awareness",
+        "Partnerships & SAGAR",
+        "Blue economy"
+      ],
+      "keyPoints_hi": [
+        "Trade & energy routes",
+        "Maritime domain awareness",
+        "Partnerships & SAGAR",
+        "Blue economy"
+      ],
+      "modelAnswer": "Analyse the strategic importance of the Indian Ocean Region for India. Key dimensions include: Trade & energy routes; Maritime domain awareness; Partnerships & SAGAR; Blue economy. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la13",
+      "domain": "Current Affairs",
+      "question": "Discuss challenges in implementing women's reservation in legislatures.",
+      "question_hi": "Discuss challenges in implementing women's reservation in legislatures.",
+      "keyPoints": [
+        "Delimitation linkage",
+        "Party ticket dynamics",
+        "Capacity building",
+        "Social barriers"
+      ],
+      "keyPoints_hi": [
+        "Delimitation linkage",
+        "Party ticket dynamics",
+        "Capacity building",
+        "Social barriers"
+      ],
+      "modelAnswer": "Discuss challenges in implementing women's reservation in legislatures. Key dimensions include: Delimitation linkage; Party ticket dynamics; Capacity building; Social barriers. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la14",
+      "domain": "Current Affairs",
+      "question": "Evaluate India's semiconductor mission in the context of supply-chain security.",
+      "question_hi": "Evaluate India's semiconductor mission in the context of supply-chain security.",
+      "keyPoints": [
+        "Strategic tech autonomy",
+        "Incentive schemes",
+        "Skill & fab ecosystem",
+        "Geopolitical risks"
+      ],
+      "keyPoints_hi": [
+        "Strategic tech autonomy",
+        "Incentive schemes",
+        "Skill & fab ecosystem",
+        "Geopolitical risks"
+      ],
+      "modelAnswer": "Evaluate India's semiconductor mission in the context of supply-chain security. Key dimensions include: Strategic tech autonomy; Incentive schemes; Skill & fab ecosystem; Geopolitical risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la15",
+      "domain": "Economics",
+      "question": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
+      "question_hi": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
+      "keyPoints": [
+        "Definition & financing",
+        "Crowding out vs growth",
+        "FRBM discipline",
+        "Quality of expenditure"
+      ],
+      "keyPoints_hi": [
+        "Definition & financing",
+        "Crowding out vs growth",
+        "FRBM discipline",
+        "Quality of expenditure"
+      ],
+      "modelAnswer": "Explain the concept of fiscal deficit and its implications for the Indian economy. Key dimensions include: Definition & financing; Crowding out vs growth; FRBM discipline; Quality of expenditure. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la16",
+      "domain": "Economics",
+      "question": "Discuss the role of MSMEs in employment generation in India.",
+      "question_hi": "Discuss the role of MSMEs in employment generation in India.",
+      "keyPoints": [
+        "Employment share",
+        "Credit & formalisation",
+        "Market access/export",
+        "Policy support"
+      ],
+      "keyPoints_hi": [
+        "Employment share",
+        "Credit & formalisation",
+        "Market access/export",
+        "Policy support"
+      ],
+      "modelAnswer": "Discuss the role of MSMEs in employment generation in India. Key dimensions include: Employment share; Credit & formalisation; Market access/export; Policy support. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la17",
+      "domain": "Economics",
+      "question": "Examine the challenges of agricultural price realisation for Indian farmers.",
+      "question_hi": "Examine the challenges of agricultural price realisation for Indian farmers.",
+      "keyPoints": [
+        "Market fragmentation",
+        "MSP debates",
+        "FPOs & e-NAM",
+        "Value chains"
+      ],
+      "keyPoints_hi": [
+        "Market fragmentation",
+        "MSP debates",
+        "FPOs & e-NAM",
+        "Value chains"
+      ],
+      "modelAnswer": "Examine the challenges of agricultural price realisation for Indian farmers. Key dimensions include: Market fragmentation; MSP debates; FPOs & e-NAM; Value chains. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la18",
+      "domain": "Economics",
+      "question": "What is inflation targeting? Assess RBI's role in price stability.",
+      "question_hi": "What is inflation targeting? Assess RBI's role in price stability.",
+      "keyPoints": [
+        "MPC framework",
+        "Instruments",
+        "Supply-side shocks",
+        "Growth-inflation trade-off"
+      ],
+      "keyPoints_hi": [
+        "MPC framework",
+        "Instruments",
+        "Supply-side shocks",
+        "Growth-inflation trade-off"
+      ],
+      "modelAnswer": "What is inflation targeting? Assess RBI's role in price stability. Key dimensions include: MPC framework; Instruments; Supply-side shocks; Growth-inflation trade-off. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la19",
+      "domain": "Economics",
+      "question": "Analyse the impact of GST on cooperative federalism.",
+      "question_hi": "Analyse the impact of GST on cooperative federalism.",
+      "keyPoints": [
+        "GST Council",
+        "Revenue certainty issues",
+        "Compliance simplification",
+        "Reform agenda"
+      ],
+      "keyPoints_hi": [
+        "GST Council",
+        "Revenue certainty issues",
+        "Compliance simplification",
+        "Reform agenda"
+      ],
+      "modelAnswer": "Analyse the impact of GST on cooperative federalism. Key dimensions include: GST Council; Revenue certainty issues; Compliance simplification; Reform agenda. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la20",
+      "domain": "Economics",
+      "question": "Discuss unemployment types relevant to India and policy responses.",
+      "question_hi": "Discuss unemployment types relevant to India and policy responses.",
+      "keyPoints": [
+        "Structural/frictional/disguised",
+        "Skilling & PLFS insights",
+        "Labour-intensive sectors",
+        "Female LFPR"
+      ],
+      "keyPoints_hi": [
+        "Structural/frictional/disguised",
+        "Skilling & PLFS insights",
+        "Labour-intensive sectors",
+        "Female LFPR"
+      ],
+      "modelAnswer": "Discuss unemployment types relevant to India and policy responses. Key dimensions include: Structural/frictional/disguised; Skilling & PLFS insights; Labour-intensive sectors; Female LFPR. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la21",
+      "domain": "Economics",
+      "question": "Explain the significance of foreign direct investment for India's growth.",
+      "question_hi": "Explain the significance of foreign direct investment for India's growth.",
+      "keyPoints": [
+        "Capital & technology",
+        "Sectoral FDI policy",
+        "Ease of doing business",
+        "Strategic sectors caution"
+      ],
+      "keyPoints_hi": [
+        "Capital & technology",
+        "Sectoral FDI policy",
+        "Ease of doing business",
+        "Strategic sectors caution"
+      ],
+      "modelAnswer": "Explain the significance of foreign direct investment for India's growth. Key dimensions include: Capital & technology; Sectoral FDI policy; Ease of doing business; Strategic sectors caution. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la22",
+      "domain": "Economics",
+      "question": "Evaluate the potential of the green economy for job creation.",
+      "question_hi": "Evaluate the potential of the green economy for job creation.",
+      "keyPoints": [
+        "Renewables & EVs",
+        "Circular economy",
+        "Reskilling needs",
+        "Just transition finance"
+      ],
+      "keyPoints_hi": [
+        "Renewables & EVs",
+        "Circular economy",
+        "Reskilling needs",
+        "Just transition finance"
+      ],
+      "modelAnswer": "Evaluate the potential of the green economy for job creation. Key dimensions include: Renewables & EVs; Circular economy; Reskilling needs; Just transition finance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la23",
+      "domain": "Economics",
+      "question": "Discuss financial inclusion beyond account opening.",
+      "question_hi": "Discuss financial inclusion beyond account opening.",
+      "keyPoints": [
+        "Credit & insurance",
+        "Digital payments safety",
+        "Literacy",
+        "Last-mile banking"
+      ],
+      "keyPoints_hi": [
+        "Credit & insurance",
+        "Digital payments safety",
+        "Literacy",
+        "Last-mile banking"
+      ],
+      "modelAnswer": "Discuss financial inclusion beyond account opening. Key dimensions include: Credit & insurance; Digital payments safety; Literacy; Last-mile banking. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la24",
+      "domain": "Economics",
+      "question": "What are the key constraints facing India's manufacturing push?",
+      "question_hi": "What are the key constraints facing India's manufacturing push?",
+      "keyPoints": [
+        "Logistics & land",
+        "Skills",
+        "Global value chains",
+        "PLI lessons"
+      ],
+      "keyPoints_hi": [
+        "Logistics & land",
+        "Skills",
+        "Global value chains",
+        "PLI lessons"
+      ],
+      "modelAnswer": "What are the key constraints facing India's manufacturing push. Key dimensions include: Logistics & land; Skills; Global value chains; PLI lessons. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la25",
+      "domain": "Economics",
+      "question": "Examine the role of the Finance Commission in Centre-State fiscal relations.",
+      "question_hi": "Examine the role of the Finance Commission in Centre-State fiscal relations.",
+      "keyPoints": [
+        "Tax devolution",
+        "Grants",
+        "Horizontal equity",
+        "Recommendations vs politics"
+      ],
+      "keyPoints_hi": [
+        "Tax devolution",
+        "Grants",
+        "Horizontal equity",
+        "Recommendations vs politics"
+      ],
+      "modelAnswer": "Examine the role of the Finance Commission in Centre-State fiscal relations. Key dimensions include: Tax devolution; Grants; Horizontal equity; Recommendations vs politics. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la26",
+      "domain": "Economics",
+      "question": "Discuss the informal sector's contribution and formalisation challenges.",
+      "question_hi": "Discuss the informal sector's contribution and formalisation challenges.",
+      "keyPoints": [
+        "Employment cushion",
+        "Productivity gaps",
+        "Social security codes",
+        "Incentives to formalise"
+      ],
+      "keyPoints_hi": [
+        "Employment cushion",
+        "Productivity gaps",
+        "Social security codes",
+        "Incentives to formalise"
+      ],
+      "modelAnswer": "Discuss the informal sector's contribution and formalisation challenges. Key dimensions include: Employment cushion; Productivity gaps; Social security codes; Incentives to formalise. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la27",
+      "domain": "Economics",
+      "question": "Analyse India's demographic dividend: conditions for success.",
+      "question_hi": "Analyse India's demographic dividend: conditions for success.",
+      "keyPoints": [
+        "Education & health",
+        "Jobs",
+        "Female participation",
+        "Window of opportunity"
+      ],
+      "keyPoints_hi": [
+        "Education & health",
+        "Jobs",
+        "Female participation",
+        "Window of opportunity"
+      ],
+      "modelAnswer": "Analyse India's demographic dividend: conditions for success. Key dimensions include: Education & health; Jobs; Female participation; Window of opportunity. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la28",
+      "domain": "Economics",
+      "question": "Explain how digital public infrastructure can boost economic productivity.",
+      "question_hi": "Explain how digital public infrastructure can boost economic productivity.",
+      "keyPoints": [
+        "Low transaction costs",
+        "Formalisation",
+        "Innovation platforms",
+        "Inclusion risks"
+      ],
+      "keyPoints_hi": [
+        "Low transaction costs",
+        "Formalisation",
+        "Innovation platforms",
+        "Inclusion risks"
+      ],
+      "modelAnswer": "Explain how digital public infrastructure can boost economic productivity. Key dimensions include: Low transaction costs; Formalisation; Innovation platforms; Inclusion risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la29",
+      "domain": "Socio-political",
+      "question": "Discuss the constitutional ideal of fraternity and its relevance today.",
+      "question_hi": "Discuss the constitutional ideal of fraternity and its relevance today.",
+      "keyPoints": [
+        "Preamble values",
+        "Social harmony",
+        "Hate speech challenge",
+        "Civic education"
+      ],
+      "keyPoints_hi": [
+        "Preamble values",
+        "Social harmony",
+        "Hate speech challenge",
+        "Civic education"
+      ],
+      "modelAnswer": "Discuss the constitutional ideal of fraternity and its relevance today. Key dimensions include: Preamble values; Social harmony; Hate speech challenge; Civic education. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la30",
+      "domain": "Socio-political",
+      "question": "Examine urbanisation challenges and the idea of inclusive cities.",
+      "question_hi": "Examine urbanisation challenges and the idea of inclusive cities.",
+      "keyPoints": [
+        "Housing & transit",
+        "Informal workers",
+        "Environment",
+        "Participatory planning"
+      ],
+      "keyPoints_hi": [
+        "Housing & transit",
+        "Informal workers",
+        "Environment",
+        "Participatory planning"
+      ],
+      "modelAnswer": "Examine urbanisation challenges and the idea of inclusive cities. Key dimensions include: Housing & transit; Informal workers; Environment; Participatory planning. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la31",
+      "domain": "Socio-political",
+      "question": "What measures can improve mental health outcomes among Indian youth?",
+      "question_hi": "What measures can improve mental health outcomes among Indian youth?",
+      "keyPoints": [
+        "Stigma reduction",
+        "School programmes",
+        "Workforce capacity",
+        "Digital risks"
+      ],
+      "keyPoints_hi": [
+        "Stigma reduction",
+        "School programmes",
+        "Workforce capacity",
+        "Digital risks"
+      ],
+      "modelAnswer": "What measures can improve mental health outcomes among Indian youth. Key dimensions include: Stigma reduction; School programmes; Workforce capacity; Digital risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la32",
+      "domain": "Socio-political",
+      "question": "Analyse the role of civil society in deepening democracy.",
+      "question_hi": "Analyse the role of civil society in deepening democracy.",
+      "keyPoints": [
+        "Accountability & service delivery",
+        "RTI spirit",
+        "Regulation balance",
+        "Participatory governance"
+      ],
+      "keyPoints_hi": [
+        "Accountability & service delivery",
+        "RTI spirit",
+        "Regulation balance",
+        "Participatory governance"
+      ],
+      "modelAnswer": "Analyse the role of civil society in deepening democracy. Key dimensions include: Accountability & service delivery; RTI spirit; Regulation balance; Participatory governance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la33",
+      "domain": "Socio-political",
+      "question": "Discuss gender equality beyond legal reforms.",
+      "question_hi": "Discuss gender equality beyond legal reforms.",
+      "keyPoints": [
+        "Social norms",
+        "Economic participation",
+        "Safety & mobility",
+        "Representation"
+      ],
+      "keyPoints_hi": [
+        "Social norms",
+        "Economic participation",
+        "Safety & mobility",
+        "Representation"
+      ],
+      "modelAnswer": "Discuss gender equality beyond legal reforms. Key dimensions include: Social norms; Economic participation; Safety & mobility; Representation. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la34",
+      "domain": "Socio-political",
+      "question": "Evaluate the impact of social media on political mobilisation.",
+      "question_hi": "Evaluate the impact of social media on political mobilisation.",
+      "keyPoints": [
+        "Awareness & campaigns",
+        "Misinformation",
+        "Polarisation",
+        "Digital literacy"
+      ],
+      "keyPoints_hi": [
+        "Awareness & campaigns",
+        "Misinformation",
+        "Polarisation",
+        "Digital literacy"
+      ],
+      "modelAnswer": "Evaluate the impact of social media on political mobilisation. Key dimensions include: Awareness & campaigns; Misinformation; Polarisation; Digital literacy. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la35",
+      "domain": "Socio-political",
+      "question": "Explain the importance of linguistic diversity in Indian nation-building.",
+      "question_hi": "Explain the importance of linguistic diversity in Indian nation-building.",
+      "keyPoints": [
+        "Eighth Schedule spirit",
+        "Education medium",
+        "Administrative balance",
+        "Unity in diversity"
+      ],
+      "keyPoints_hi": [
+        "Eighth Schedule spirit",
+        "Education medium",
+        "Administrative balance",
+        "Unity in diversity"
+      ],
+      "modelAnswer": "Explain the importance of linguistic diversity in Indian nation-building. Key dimensions include: Eighth Schedule spirit; Education medium; Administrative balance; Unity in diversity. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la36",
+      "domain": "Socio-political",
+      "question": "Discuss challenges of elderly care in an ageing society.",
+      "question_hi": "Discuss challenges of elderly care in an ageing society.",
+      "keyPoints": [
+        "Family structures",
+        "Pensions & health",
+        "Abuse prevention",
+        "Productive ageing"
+      ],
+      "keyPoints_hi": [
+        "Family structures",
+        "Pensions & health",
+        "Abuse prevention",
+        "Productive ageing"
+      ],
+      "modelAnswer": "Discuss challenges of elderly care in an ageing society. Key dimensions include: Family structures; Pensions & health; Abuse prevention; Productive ageing. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la37",
+      "domain": "Socio-political",
+      "question": "Analyse water conflicts as a socio-political issue in India.",
+      "question_hi": "Analyse water conflicts as a socio-political issue in India.",
+      "keyPoints": [
+        "Interstate rivers",
+        "Groundwater stress",
+        "Community management",
+        "Climate link"
+      ],
+      "keyPoints_hi": [
+        "Interstate rivers",
+        "Groundwater stress",
+        "Community management",
+        "Climate link"
+      ],
+      "modelAnswer": "Analyse water conflicts as a socio-political issue in India. Key dimensions include: Interstate rivers; Groundwater stress; Community management; Climate link. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la38",
+      "domain": "Socio-political",
+      "question": "What is the significance of the Right to Education in social justice?",
+      "question_hi": "What is the significance of the Right to Education in social justice?",
+      "keyPoints": [
+        "Access & quality",
+        "Equity for disadvantaged",
+        "Implementation gaps",
+        "Learning outcomes"
+      ],
+      "keyPoints_hi": [
+        "Access & quality",
+        "Equity for disadvantaged",
+        "Implementation gaps",
+        "Learning outcomes"
+      ],
+      "modelAnswer": "What is the significance of the Right to Education in social justice. Key dimensions include: Access & quality; Equity for disadvantaged; Implementation gaps; Learning outcomes. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la39",
+      "domain": "Socio-political",
+      "question": "Discuss the ethics of affirmative action in contemporary India.",
+      "question_hi": "Discuss the ethics of affirmative action in contemporary India.",
+      "keyPoints": [
+        "Historical injustice",
+        "Efficiency debates",
+        "Data-based review",
+        "Social harmony"
+      ],
+      "keyPoints_hi": [
+        "Historical injustice",
+        "Efficiency debates",
+        "Data-based review",
+        "Social harmony"
+      ],
+      "modelAnswer": "Discuss the ethics of affirmative action in contemporary India. Key dimensions include: Historical injustice; Efficiency debates; Data-based review; Social harmony. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la40",
+      "domain": "Socio-political",
+      "question": "Examine the relationship between development and displacement.",
+      "question_hi": "Examine the relationship between development and displacement.",
+      "keyPoints": [
+        "Infrastructure needs",
+        "Rehabilitation rights",
+        "Consent & livelihoods",
+        "Sustainable alternatives"
+      ],
+      "keyPoints_hi": [
+        "Infrastructure needs",
+        "Rehabilitation rights",
+        "Consent & livelihoods",
+        "Sustainable alternatives"
+      ],
+      "modelAnswer": "Examine the relationship between development and displacement. Key dimensions include: Infrastructure needs; Rehabilitation rights; Consent & livelihoods; Sustainable alternatives. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la41",
+      "domain": "Socio-political",
+      "question": "How can civic education strengthen constitutional culture?",
+      "question_hi": "How can civic education strengthen constitutional culture?",
+      "keyPoints": [
+        "Values in schools",
+        "Critical thinking",
+        "Responsible citizenship",
+        "Institutions literacy"
+      ],
+      "keyPoints_hi": [
+        "Values in schools",
+        "Critical thinking",
+        "Responsible citizenship",
+        "Institutions literacy"
+      ],
+      "modelAnswer": "How can civic education strengthen constitutional culture. Key dimensions include: Values in schools; Critical thinking; Responsible citizenship; Institutions literacy. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    },
+    {
+      "id": "la42",
+      "domain": "Socio-political",
+      "question": "Discuss the role of local self-government in participatory democracy.",
+      "question_hi": "Discuss the role of local self-government in participatory democracy.",
+      "keyPoints": [
+        "73rd/74th spirit",
+        "Funds-functions-functionaries",
+        "Women's leadership",
+        "Accountability"
+      ],
+      "keyPoints_hi": [
+        "73rd/74th spirit",
+        "Funds-functions-functionaries",
+        "Women's leadership",
+        "Accountability"
+      ],
+      "modelAnswer": "Discuss the role of local self-government in participatory democracy. Key dimensions include: 73rd/74th spirit; Funds-functions-functionaries; Women's leadership; Accountability. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": null,
+      "wordTargetMin": 150,
+      "wordTargetMax": 200,
+      "suggestedMinutes": 12,
+      "marks": 10
+    }
+  ]
+}

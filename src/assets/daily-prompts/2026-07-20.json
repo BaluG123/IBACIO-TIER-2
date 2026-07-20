@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-20",
+  "editionTitle": "Tier-2 Daily Desk",
+  "editionTitle_hi": "टियर-2 डेली डेस्क",
+  "essayTopic": {
+    "title": "India's Soft Power Diplomacy in a Multipolar World",
+    "title_hi": "India's Soft Power Diplomacy in a Multipolar World",
+    "category": "Current Affairs",
+    "hints": [
+      "Define soft power with examples (yoga, cinema, diaspora)",
+      "Compare with hard power & recent G20/BRICS outreach",
+      "Challenges: perception gaps, neighbourhood",
+      "Way forward: cultural institutes, education hubs"
+    ],
+    "hints_hi": [
+      "Define soft power with examples (yoga, cinema, diaspora)",
+      "Compare with hard power & recent G20/BRICS outreach",
+      "Challenges: perception gaps, neighbourhood",
+      "Way forward: cultural institutes, education hubs"
+    ],
+    "modelOutline": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy.",
+    "modelOutline_hi": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy."
+  },
+  "longAnswers": [
+    {
+      "id": "la01",
+      "domain": "Current Affairs",
+      "question": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
+      "question_hi": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
+      "keyPoints": [
+        "Inclusive agenda-setting",
+        "Voice for developing nations",
+        "DPI and climate finance narratives",
+        "Continuity in multilateral engagement"
+      ],
+      "keyPoints_hi": [
+        "Inclusive agenda-setting",
+        "Voice for developing nations",
+        "DPI and climate finance narratives",
+        "Continuity in multilateral engagement"
+      ],
+      "modelAnswer": "Discuss the significance of India's G20 presidency for Global South diplomacy. Key dimensions include: Inclusive agenda-setting; Voice for developing nations; DPI and climate finance narratives; Continuity in multilateral engagement. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Discuss the significance of India's G20 presidency for Global South diplomacy. Key dimensions include: Inclusive agenda-setting; Voice for developing nations; DPI and climate finance narratives; Continuity in multilateral engagement. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    },
+    {
+      "id": "la15",
+      "domain": "Economics",
+      "question": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
+      "question_hi": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
+      "keyPoints": [
+        "Definition & financing",
+        "Crowding out vs growth",
+        "FRBM discipline",
+        "Quality of expenditure"
+      ],
+      "keyPoints_hi": [
+        "Definition & financing",
+        "Crowding out vs growth",
+        "FRBM discipline",
+        "Quality of expenditure"
+      ],
+      "modelAnswer": "Explain the concept of fiscal deficit and its implications for the Indian economy. Key dimensions include: Definition & financing; Crowding out vs growth; FRBM discipline; Quality of expenditure. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
+      "modelAnswer_hi": "Explain the concept of fiscal deficit and its implications for the Indian economy. Key dimensions include: Definition & financing; Crowding out vs growth; FRBM discipline; Quality of expenditure. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+    }
+  ],
+  "comprehension": {
+    "passage": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
+    "passage_hi": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
+    "questions": [
+      {
+        "q": "What paradox does the passage highlight about digital governance?",
+        "q_hi": "What paradox does the passage highlight about digital governance?",
+        "model": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most.",
+        "model_hi": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most."
+      },
+      {
+        "q": "Why is trust central to digital welfare delivery?",
+        "q_hi": "Why is trust central to digital welfare delivery?",
+        "model": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable.",
+        "model_hi": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable."
+      },
+      {
+        "q": "According to the author, what should be the true measure of a digital state?",
+        "q_hi": "According to the author, what should be the true measure of a digital state?",
+        "model": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence.",
+        "model_hi": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence."
+      },
+      {
+        "q": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+        "q_hi": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+        "model": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two).",
+        "model_hi": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two)."
+      }
+    ]
+  },
+  "tipOfDay": "Spend 3 minutes outlining before you write the essay — structure wins marks.",
+  "tipOfDay_hi": "Spend 3 minutes outlining before you write the essay — structure wins marks."
+}

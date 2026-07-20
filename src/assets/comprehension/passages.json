@@ -1,0 +1,745 @@
+{
+  "passages": [
+    {
+      "id": "rc01",
+      "title": "Digital Governance and Citizen Trust",
+      "theme": "Governance",
+      "passage": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
+      "qs": [
+        {
+          "q": "What paradox does the passage highlight about digital governance?",
+          "model": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most."
+        },
+        {
+          "q": "Why is trust central to digital welfare delivery?",
+          "model": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable."
+        },
+        {
+          "q": "According to the author, what should be the true measure of a digital state?",
+          "model": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence."
+        },
+        {
+          "q": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+          "model": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two)."
+        }
+      ],
+      "passage_hi": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
+      "title_hi": "Digital Governance and Citizen Trust",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc01_q1",
+          "q": "What paradox does the passage highlight about digital governance?",
+          "q_hi": "What paradox does the passage highlight about digital governance?",
+          "model": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most.",
+          "model_hi": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most."
+        },
+        {
+          "id": "rc01_q2",
+          "q": "Why is trust central to digital welfare delivery?",
+          "q_hi": "Why is trust central to digital welfare delivery?",
+          "model": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable.",
+          "model_hi": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable."
+        },
+        {
+          "id": "rc01_q3",
+          "q": "According to the author, what should be the true measure of a digital state?",
+          "q_hi": "According to the author, what should be the true measure of a digital state?",
+          "model": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence.",
+          "model_hi": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence."
+        },
+        {
+          "id": "rc01_q4",
+          "q": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+          "q_hi": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+          "model": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two).",
+          "model_hi": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two)."
+        }
+      ]
+    },
+    {
+      "id": "rc02",
+      "title": "Climate Adaptation in Coastal India",
+      "theme": "Environment",
+      "passage": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
+      "qs": [
+        {
+          "q": "Name three climate risks facing India's coastline as per the passage.",
+          "model": "Rising sea levels, intensifying cyclones, and saltwater intrusion."
+        },
+        {
+          "q": "Which groups are described as facing the sharpest shocks?",
+          "model": "Fishing communities and informal workers."
+        },
+        {
+          "q": "What dual approach can improve community ownership of adaptation?",
+          "model": "Integrating traditional ecological knowledge with scientific forecasting."
+        },
+        {
+          "q": "Why does the author call coastal resilience a development issue?",
+          "model": "Because protecting coasts protects jobs, food security, and national infrastructure."
+        },
+        {
+          "q": "What constraints on adaptation does the passage mention?",
+          "model": "Inadequate adaptation finance and weak technical capacity in local governments."
+        }
+      ],
+      "passage_hi": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
+      "title_hi": "Climate Adaptation in Coastal India",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc02_q1",
+          "q": "Name three climate risks facing India's coastline as per the passage.",
+          "q_hi": "Name three climate risks facing India's coastline as per the passage.",
+          "model": "Rising sea levels, intensifying cyclones, and saltwater intrusion.",
+          "model_hi": "Rising sea levels, intensifying cyclones, and saltwater intrusion."
+        },
+        {
+          "id": "rc02_q2",
+          "q": "Which groups are described as facing the sharpest shocks?",
+          "q_hi": "Which groups are described as facing the sharpest shocks?",
+          "model": "Fishing communities and informal workers.",
+          "model_hi": "Fishing communities and informal workers."
+        },
+        {
+          "id": "rc02_q3",
+          "q": "What dual approach can improve community ownership of adaptation?",
+          "q_hi": "What dual approach can improve community ownership of adaptation?",
+          "model": "Integrating traditional ecological knowledge with scientific forecasting.",
+          "model_hi": "Integrating traditional ecological knowledge with scientific forecasting."
+        },
+        {
+          "id": "rc02_q4",
+          "q": "Why does the author call coastal resilience a development issue?",
+          "q_hi": "Why does the author call coastal resilience a development issue?",
+          "model": "Because protecting coasts protects jobs, food security, and national infrastructure.",
+          "model_hi": "Because protecting coasts protects jobs, food security, and national infrastructure."
+        },
+        {
+          "id": "rc02_q5",
+          "q": "What constraints on adaptation does the passage mention?",
+          "q_hi": "What constraints on adaptation does the passage mention?",
+          "model": "Inadequate adaptation finance and weak technical capacity in local governments.",
+          "model_hi": "Inadequate adaptation finance and weak technical capacity in local governments."
+        }
+      ]
+    },
+    {
+      "id": "rc03",
+      "title": "The Gig Economy and Social Protection",
+      "theme": "Economy",
+      "passage": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
+      "qs": [
+        {
+          "q": "What advantage of gig work does the passage emphasise?",
+          "model": "Flexibility and new income streams, especially for youth and women seeking part-time work."
+        },
+        {
+          "q": "Why is social protection complicated for platform workers?",
+          "model": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training."
+        },
+        {
+          "q": "What risk does over-regulation pose according to the author?",
+          "model": "It may shrink opportunities / entrepreneurship."
+        },
+        {
+          "q": "Suggest two elements of the \"pragmatic path\" mentioned.",
+          "model": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two)."
+        }
+      ],
+      "passage_hi": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
+      "title_hi": "The Gig Economy and Social Protection",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc03_q1",
+          "q": "What advantage of gig work does the passage emphasise?",
+          "q_hi": "What advantage of gig work does the passage emphasise?",
+          "model": "Flexibility and new income streams, especially for youth and women seeking part-time work.",
+          "model_hi": "Flexibility and new income streams, especially for youth and women seeking part-time work."
+        },
+        {
+          "id": "rc03_q2",
+          "q": "Why is social protection complicated for platform workers?",
+          "q_hi": "Why is social protection complicated for platform workers?",
+          "model": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training.",
+          "model_hi": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training."
+        },
+        {
+          "id": "rc03_q3",
+          "q": "What risk does over-regulation pose according to the author?",
+          "q_hi": "What risk does over-regulation pose according to the author?",
+          "model": "It may shrink opportunities / entrepreneurship.",
+          "model_hi": "It may shrink opportunities / entrepreneurship."
+        },
+        {
+          "id": "rc03_q4",
+          "q": "Suggest two elements of the \"pragmatic path\" mentioned.",
+          "q_hi": "Suggest two elements of the \"pragmatic path\" mentioned.",
+          "model": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two).",
+          "model_hi": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two)."
+        }
+      ]
+    },
+    {
+      "id": "rc04",
+      "title": "Federalism Under Stress",
+      "theme": "Polity",
+      "passage": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
+      "qs": [
+        {
+          "q": "How does the passage describe India's federal model?",
+          "model": "Quasi-federal: a strong Centre with significant State autonomy."
+        },
+        {
+          "q": "Distinguish cooperative and competitive federalism as used here.",
+          "model": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business."
+        },
+        {
+          "q": "When does stress in federalism appear?",
+          "model": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response."
+        },
+        {
+          "q": "What do citizens experience as the real test of federalism?",
+          "model": "Whether schools, hospitals, and roads work."
+        }
+      ],
+      "passage_hi": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
+      "title_hi": "Federalism Under Stress",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc04_q1",
+          "q": "How does the passage describe India's federal model?",
+          "q_hi": "How does the passage describe India's federal model?",
+          "model": "Quasi-federal: a strong Centre with significant State autonomy.",
+          "model_hi": "Quasi-federal: a strong Centre with significant State autonomy."
+        },
+        {
+          "id": "rc04_q2",
+          "q": "Distinguish cooperative and competitive federalism as used here.",
+          "q_hi": "Distinguish cooperative and competitive federalism as used here.",
+          "model": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business.",
+          "model_hi": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business."
+        },
+        {
+          "id": "rc04_q3",
+          "q": "When does stress in federalism appear?",
+          "q_hi": "When does stress in federalism appear?",
+          "model": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response.",
+          "model_hi": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response."
+        },
+        {
+          "id": "rc04_q4",
+          "q": "What do citizens experience as the real test of federalism?",
+          "q_hi": "What do citizens experience as the real test of federalism?",
+          "model": "Whether schools, hospitals, and roads work.",
+          "model_hi": "Whether schools, hospitals, and roads work."
+        }
+      ]
+    },
+    {
+      "id": "rc05",
+      "title": "Misinformation and Public Order",
+      "theme": "Society",
+      "passage": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
+      "qs": [
+        {
+          "q": "Why do rumours pose a special challenge today?",
+          "model": "They travel faster than facts; networked forwarding can trigger harm before verification."
+        },
+        {
+          "q": "Why is censorship alone insufficient?",
+          "model": "It is blunt and can chill legitimate speech."
+        },
+        {
+          "q": "List the three layers of a resilient response mentioned.",
+          "model": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy."
+        },
+        {
+          "q": "What ethical duty does the author assign to citizens?",
+          "model": "Pause, verify, and refuse to become a node in a rumour chain."
+        }
+      ],
+      "passage_hi": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
+      "title_hi": "Misinformation and Public Order",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc05_q1",
+          "q": "Why do rumours pose a special challenge today?",
+          "q_hi": "Why do rumours pose a special challenge today?",
+          "model": "They travel faster than facts; networked forwarding can trigger harm before verification.",
+          "model_hi": "They travel faster than facts; networked forwarding can trigger harm before verification."
+        },
+        {
+          "id": "rc05_q2",
+          "q": "Why is censorship alone insufficient?",
+          "q_hi": "Why is censorship alone insufficient?",
+          "model": "It is blunt and can chill legitimate speech.",
+          "model_hi": "It is blunt and can chill legitimate speech."
+        },
+        {
+          "id": "rc05_q3",
+          "q": "List the three layers of a resilient response mentioned.",
+          "q_hi": "List the three layers of a resilient response mentioned.",
+          "model": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy.",
+          "model_hi": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy."
+        },
+        {
+          "id": "rc05_q4",
+          "q": "What ethical duty does the author assign to citizens?",
+          "q_hi": "What ethical duty does the author assign to citizens?",
+          "model": "Pause, verify, and refuse to become a node in a rumour chain.",
+          "model_hi": "Pause, verify, and refuse to become a node in a rumour chain."
+        }
+      ]
+    },
+    {
+      "id": "rc06",
+      "title": "Space Economy and Strategic Tech",
+      "title_hi": "Space Economy and Strategic Tech",
+      "theme": "Science",
+      "passage": "India's space programme has moved from pure science to commercial launch services and satellite applications for agriculture, disaster warning, and connectivity. Private startups now join ISRO's ecosystem, creating jobs and export potential. Strategic technologies, however, demand careful dual-use controls and resilient supply chains. International partnerships expand capability but also raise questions of autonomy. Investing in STEM education and ground infrastructure ensures that space is not only a prestige project but a public utility for development.",
+      "passage_hi": "India's space programme has moved from pure science to commercial launch services and satellite applications for agriculture, disaster warning, and connectivity. Private startups now join ISRO's ecosystem, creating jobs and export potential. Strategic technologies, however, demand careful dual-use controls and resilient supply chains. International partnerships expand capability but also raise questions of autonomy. Investing in STEM education and ground infrastructure ensures that space is not only a prestige project but a public utility for development.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc06_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that space economy and strategic tech matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that space economy and strategic tech matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc06_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc06_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc06_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc07",
+      "title": "Public Health After Pandemics",
+      "title_hi": "Public Health After Pandemics",
+      "theme": "Health",
+      "passage": "Pandemics exposed both strengths and gaps in India's health system: rapid vaccine manufacturing capacity on one side, and uneven primary care and oxygen logistics on the other. Building resilience means strengthening district hospitals, disease surveillance, and community health workers. Health is also economic policy—productive workforces need preventive care. One Health approaches that link human, animal, and environmental health help prevent future zoonoses. Equity must guide every reform so that rural and urban poor are not last in line.",
+      "passage_hi": "Pandemics exposed both strengths and gaps in India's health system: rapid vaccine manufacturing capacity on one side, and uneven primary care and oxygen logistics on the other. Building resilience means strengthening district hospitals, disease surveillance, and community health workers. Health is also economic policy—productive workforces need preventive care. One Health approaches that link human, animal, and environmental health help prevent future zoonoses. Equity must guide every reform so that rural and urban poor are not last in line.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc07_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that public health after pandemics matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that public health after pandemics matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc07_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc07_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc07_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc08",
+      "title": "Sports Culture and National Soft Power",
+      "title_hi": "Sports Culture and National Soft Power",
+      "theme": "Society",
+      "passage": "Sport builds character, community, and national pride. India's rising medals tally reflects better coaching systems and private sponsorship, yet grassroots facilities remain uneven. Gender inclusion and para-sports expand the meaning of excellence. Hosting events can boost tourism and infrastructure if planning is transparent and sustainable. Beyond medals, a sporting culture that values participation over only podium finishes strengthens public health and social cohesion.",
+      "passage_hi": "Sport builds character, community, and national pride. India's rising medals tally reflects better coaching systems and private sponsorship, yet grassroots facilities remain uneven. Gender inclusion and para-sports expand the meaning of excellence. Hosting events can boost tourism and infrastructure if planning is transparent and sustainable. Beyond medals, a sporting culture that values participation over only podium finishes strengthens public health and social cohesion.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc08_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that sports culture and national soft power matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that sports culture and national soft power matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc08_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc08_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc08_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc09",
+      "title": "Artificial Intelligence and the Future of Work",
+      "title_hi": "Artificial Intelligence and the Future of Work",
+      "theme": "Tech",
+      "passage": "Artificial intelligence can automate routine tasks and augment professional judgment. For developing economies, the opportunity is leapfrogging in services and diagnostics; the risk is concentrated job displacement without reskilling pathways. Policy should encourage innovation while mandating transparency in high-stakes decisions such as credit and hiring. Public datasets, ethical guidelines, and lifelong learning ecosystems will decide whether AI widens or narrows opportunity.",
+      "passage_hi": "Artificial intelligence can automate routine tasks and augment professional judgment. For developing economies, the opportunity is leapfrogging in services and diagnostics; the risk is concentrated job displacement without reskilling pathways. Policy should encourage innovation while mandating transparency in high-stakes decisions such as credit and hiring. Public datasets, ethical guidelines, and lifelong learning ecosystems will decide whether AI widens or narrows opportunity.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc09_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that artificial intelligence and the future of work matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that artificial intelligence and the future of work matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc09_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc09_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc09_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc10",
+      "title": "River Rejuvenation and Community Stewardship",
+      "title_hi": "River Rejuvenation and Community Stewardship",
+      "theme": "Environment",
+      "passage": "Rivers are cultural and ecological lifelines. Pollution, encroachment, and sand mining degrade them faster than engineering projects alone can restore. Successful rejuvenation combines sewage treatment, wetland protection, and behavioural change. Community stewardship—local monitoring, religious institutions as allies, and school programmes—creates ownership. Interstate coordination is essential because rivers ignore administrative boundaries. Clean rivers are indicators of civilisational care for the commons.",
+      "passage_hi": "Rivers are cultural and ecological lifelines. Pollution, encroachment, and sand mining degrade them faster than engineering projects alone can restore. Successful rejuvenation combines sewage treatment, wetland protection, and behavioural change. Community stewardship—local monitoring, religious institutions as allies, and school programmes—creates ownership. Interstate coordination is essential because rivers ignore administrative boundaries. Clean rivers are indicators of civilisational care for the commons.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc10_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that river rejuvenation and community stewardship matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that river rejuvenation and community stewardship matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc10_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc10_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc10_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc11",
+      "title": "Judicial Delays and Access to Justice",
+      "title_hi": "Judicial Delays and Access to Justice",
+      "theme": "Governance",
+      "passage": "Justice delayed is justice denied remains a lived reality for many litigants. Case pendency strains courts, businesses, and citizens seeking remedies. Technology—e-filing, virtual hearings, and case management—can help, but vacancies and procedural complexity matter more. Alternative dispute resolution and specialised tribunals ease load when well designed. Access to justice also means affordable legal aid and understandable procedures for the poor. Speedy, fair justice underpins the rule of law.",
+      "passage_hi": "Justice delayed is justice denied remains a lived reality for many litigants. Case pendency strains courts, businesses, and citizens seeking remedies. Technology—e-filing, virtual hearings, and case management—can help, but vacancies and procedural complexity matter more. Alternative dispute resolution and specialised tribunals ease load when well designed. Access to justice also means affordable legal aid and understandable procedures for the poor. Speedy, fair justice underpins the rule of law.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc11_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that judicial delays and access to justice matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that judicial delays and access to justice matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc11_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc11_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc11_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc12",
+      "title": "Tourism, Heritage and Local Economies",
+      "title_hi": "Tourism, Heritage and Local Economies",
+      "theme": "Economy",
+      "passage": "Heritage tourism can convert cultural capital into local livelihoods if communities share benefits. Homestays, crafts, and guided conservation create jobs beyond hotel chains. Over-tourism risks damaging monuments and neighbourhoods; carrying-capacity planning is essential. Skill training for guides and digital marketing help smaller destinations. Sustainable tourism aligns pride in heritage with environmental limits and inclusive growth.",
+      "passage_hi": "Heritage tourism can convert cultural capital into local livelihoods if communities share benefits. Homestays, crafts, and guided conservation create jobs beyond hotel chains. Over-tourism risks damaging monuments and neighbourhoods; carrying-capacity planning is essential. Skill training for guides and digital marketing help smaller destinations. Sustainable tourism aligns pride in heritage with environmental limits and inclusive growth.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc12_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that tourism, heritage and local economies matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that tourism, heritage and local economies matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc12_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc12_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc12_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc13",
+      "title": "Youth Aspirations and Skill Mismatch",
+      "title_hi": "Youth Aspirations and Skill Mismatch",
+      "theme": "Society",
+      "passage": "India's youth bulge is a demographic opportunity only if skills match market needs. Degrees without employability create frustration; short-term courses without depth create underemployment. Industry-academia partnerships, apprenticeships, and counselling can close gaps. Soft skills, digital fluency, and ethical grounding matter as much as technical certificates. Channeling aspiration into productive enterprise is a national priority for social stability and growth.",
+      "passage_hi": "India's youth bulge is a demographic opportunity only if skills match market needs. Degrees without employability create frustration; short-term courses without depth create underemployment. Industry-academia partnerships, apprenticeships, and counselling can close gaps. Soft skills, digital fluency, and ethical grounding matter as much as technical certificates. Channeling aspiration into productive enterprise is a national priority for social stability and growth.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc13_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that youth aspirations and skill mismatch matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that youth aspirations and skill mismatch matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc13_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc13_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc13_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc14",
+      "title": "Food Security Beyond Calories",
+      "title_hi": "Food Security Beyond Calories",
+      "theme": "Agriculture",
+      "passage": "Food security once meant enough grain. Today it also means nutrition, safety, and climate-resilient supply chains. Public distribution has reduced hunger, yet micronutrient deficiencies persist. Diversifying crops, strengthening cold chains, and empowering women farmers improve outcomes. Biofortification and behavioural nutrition education complement production policies. A secure food system nourishes health and reduces long-term healthcare costs.",
+      "passage_hi": "Food security once meant enough grain. Today it also means nutrition, safety, and climate-resilient supply chains. Public distribution has reduced hunger, yet micronutrient deficiencies persist. Diversifying crops, strengthening cold chains, and empowering women farmers improve outcomes. Biofortification and behavioural nutrition education complement production policies. A secure food system nourishes health and reduces long-term healthcare costs.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc14_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that food security beyond calories matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that food security beyond calories matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc14_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc14_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc14_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc15",
+      "title": "Maritime Security in the Indian Ocean",
+      "title_hi": "Maritime Security in the Indian Ocean",
+      "theme": "Security",
+      "passage": "The Indian Ocean carries energy and trade vital to India's economy. Piracy, illegal fishing, and great-power naval competition shape the maritime commons. India's partnerships, coastal radar chains, and information fusion centres enhance domain awareness. Blue economy goals—ports, fisheries, renewables—require secure seas. Maritime security is thus both a defence and a development agenda, best pursued through cooperation and international law.",
+      "passage_hi": "The Indian Ocean carries energy and trade vital to India's economy. Piracy, illegal fishing, and great-power naval competition shape the maritime commons. India's partnerships, coastal radar chains, and information fusion centres enhance domain awareness. Blue economy goals—ports, fisheries, renewables—require secure seas. Maritime security is thus both a defence and a development agenda, best pursued through cooperation and international law.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc15_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that maritime security in the indian ocean matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that maritime security in the indian ocean matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc15_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc15_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc15_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    },
+    {
+      "id": "rc16",
+      "title": "Urban Informal Sector and Dignity of Labour",
+      "title_hi": "Urban Informal Sector and Dignity of Labour",
+      "theme": "Socio-political",
+      "passage": "Street vendors, waste pickers, and construction workers sustain city life yet often lack secure tenure, social security, and safety. Formalisation should expand rights without criminalising livelihoods. Identity documents, affordable credit, and vending zones improve dignity. Cities that plan with informal workers become more resilient and humane. Recognising their economic contribution is the first step toward fair urban policy.",
+      "passage_hi": "Street vendors, waste pickers, and construction workers sustain city life yet often lack secure tenure, social security, and safety. Formalisation should expand rights without criminalising livelihoods. Identity documents, affordable credit, and vending zones improve dignity. Cities that plan with informal workers become more resilient and humane. Recognising their economic contribution is the first step toward fair urban policy.",
+      "suggestedMinutes": 12,
+      "wordGuide": "Answer in 40–80 words each unless asked otherwise",
+      "questions": [
+        {
+          "id": "rc16_q1",
+          "q": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "model": "The passage argues that urban informal sector and dignity of labour matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
+          "model_hi": "The passage argues that urban informal sector and dignity of labour matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+        },
+        {
+          "id": "rc16_q2",
+          "q": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
+          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+        },
+        {
+          "id": "rc16_q3",
+          "q": "What role do citizens or communities play according to the passage?",
+          "q_hi": "What role do citizens or communities play according to the passage?",
+          "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
+          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+        },
+        {
+          "id": "rc16_q4",
+          "q": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
+          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+        }
+      ]
+    }
+  ]
+}
