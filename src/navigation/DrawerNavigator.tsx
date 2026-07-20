@@ -29,6 +29,7 @@ import ModelAnswersScreen from '../screens/ModelAnswersScreen';
 import PreviousYearPapersScreen from '../screens/PreviousYearPapersScreen';
 import AboutScreen from '../screens/AboutScreen';
 import {WHATSAPP_SUPPORT_PHONE} from '../config/support';
+import {TIER1_PLAY_STORE_URL, TIER2_PLAY_STORE_URL} from '../config/playStore';
 
 type DrawerCtx = {
   openDrawer: () => void;
@@ -108,9 +109,11 @@ function SideMenu({
   };
 
   const handleCheckForUpdate = () => {
-    Linking.openURL(
-      'https://play.google.com/store/apps/details?id=com.ibaciotier2&hl=en_IN',
-    ).catch(() => {});
+    Linking.openURL(TIER2_PLAY_STORE_URL).catch(() => {});
+  };
+
+  const openTier1PlayStore = () => {
+    Linking.openURL(TIER1_PLAY_STORE_URL).catch(() => {});
   };
 
   const go = (name: string) => {
@@ -167,6 +170,15 @@ function SideMenu({
             </View>
 
             <View style={styles.drawerFooter}>
+              <TouchableOpacity style={styles.tier1Button} onPress={openTier1PlayStore}>
+                <Icon name="google-play" size={wp('6%')} color="#60a5fa" />
+                <View style={styles.updateTextContainer}>
+                  <Text style={styles.updateTitle}>{t('tier1_drawer_title')}</Text>
+                  <Text style={styles.updateSubtitle}>{t('tier1_drawer_sub')}</Text>
+                </View>
+                <Icon name="open-in-new" size={wp('5%')} color="#9ca3af" />
+              </TouchableOpacity>
+
               <TouchableOpacity style={styles.updateButton} onPress={handleCheckForUpdate}>
                 <Icon name="update" size={wp('6%')} color="#3b82f6" />
                 <View style={styles.updateTextContainer}>
@@ -417,6 +429,16 @@ const styles = StyleSheet.create({
     marginBottom: hp('1.5%'),
     borderWidth: 1.5,
     borderColor: '#3b82f6',
+  },
+  tier1Button: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#111827',
+    padding: wp('3%'),
+    borderRadius: wp('2%'),
+    marginBottom: hp('1.5%'),
+    borderWidth: 1.5,
+    borderColor: '#1d4ed8',
   },
   updateTextContainer: {marginLeft: wp('3%'), flex: 1},
   updateTitle: {color: '#fff', fontSize: wp('4%'), fontWeight: '700'},

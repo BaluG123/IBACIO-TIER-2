@@ -17,6 +17,7 @@ import {
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {WHATSAPP_SUPPORT_PHONE} from '../config/support';
+import {TIER1_PLAY_STORE_URL} from '../config/playStore';
 
 export default function AboutScreen() {
   const {t} = useTranslation();
@@ -168,6 +169,19 @@ export default function AboutScreen() {
             </View>
             <Icon name="chevron-right" size={wp('6%')} color="#9ca3af" />
           </TouchableOpacity>
+
+          <TouchableOpacity
+            style={[styles.contactCard, styles.tier1AboutCard]}
+            onPress={() => Linking.openURL(TIER1_PLAY_STORE_URL).catch(() => {})}>
+            <View style={[styles.contactIcon, {backgroundColor: '#1e3a8a20'}]}>
+              <Icon name="google-play" size={wp('8%')} color="#60a5fa" />
+            </View>
+            <View style={styles.contactContent}>
+              <Text style={styles.contactTitle}>{t('tier1_drawer_title')}</Text>
+              <Text style={styles.contactSubtext}>{t('tier1_card_cta')}</Text>
+            </View>
+            <Icon name="open-in-new" size={wp('6%')} color="#9ca3af" />
+          </TouchableOpacity>
         </View>
 
         <View style={styles.section}>
@@ -302,6 +316,10 @@ const styles = StyleSheet.create({
     borderRadius: wp('3%'),
     borderWidth: 2,
     borderColor: '#25D366',
+  },
+  tier1AboutCard: {
+    marginTop: hp('1.5%'),
+    borderColor: '#1d4ed8',
   },
   contactIcon: {
     width: wp('15%'),

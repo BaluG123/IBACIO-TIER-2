@@ -28,6 +28,7 @@ npm run android   # or: npm run ios
 - [`THEME.md`](./THEME.md) — colour tokens
 - [`CONTENT_OTA.md`](./CONTENT_OTA.md) — **how to publish daily content on GitHub (full guide)**
 - [`CONTENT_AUTHOR_QUICKSTART.md`](./CONTENT_AUTHOR_QUICKSTART.md) — one-page daily publish checklist
+- [`PLAY_STORE_DEPLOYMENT.md`](./PLAY_STORE_DEPLOYMENT.md) — Play Store listing, icons, AAB, release steps
 - [`VERSION_1_SUMMARY.md`](./VERSION_1_SUMMARY.md) — OTA layout, content packs, ship notes
 - [`BUILD_PROMPT.md`](./BUILD_PROMPT.md) — original product brief
 

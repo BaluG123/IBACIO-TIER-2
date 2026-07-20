@@ -8,6 +8,7 @@ import {
   Image,
   StatusBar,
   Animated,
+  Linking,
 } from 'react-native';
 import {
   widthPercentageToDP as wp,
@@ -27,6 +28,7 @@ import {
 } from '../services/dailyPromptService';
 import {LAST_SEEN_KEY} from '../config/dailyPrompts';
 import {getWritingStreak} from '../utils/storage';
+import {TIER1_PLAY_STORE_URL} from '../config/playStore';
 
 export default function HomeScreen() {
   const navigation = useNavigation<any>();
@@ -483,6 +485,21 @@ export default function HomeScreen() {
             ))}
           </View>
 
+          <TouchableOpacity
+            style={styles.tier1Card}
+            activeOpacity={0.88}
+            onPress={() => Linking.openURL(TIER1_PLAY_STORE_URL).catch(() => {})}>
+            <View style={styles.tier1IconWrap}>
+              <Icon name="google-play" size={wp('8%')} color="#60a5fa" />
+            </View>
+            <View style={styles.tier1TextWrap}>
+              <Text style={styles.tier1Title}>{t('tier1_card_title')}</Text>
+              <Text style={styles.tier1Desc}>{t('tier1_card_desc')}</Text>
+              <Text style={styles.tier1Cta}>{t('tier1_card_cta')}</Text>
+            </View>
+            <Icon name="open-in-new" size={wp('5%')} color="#60a5fa" />
+          </TouchableOpacity>
+
           <View style={styles.footer}>
             <Icon name="heart" size={wp('5%')} color="#10b981" />
             <Text style={styles.footerText}>{t('footer_text')}</Text>
@@ -715,6 +732,43 @@ const styles = StyleSheet.create({
     fontSize: wp('3.2%'),
     color: '#9ca3af',
     marginTop: hp('0.3%'),
+  },
+  tier1Card: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: wp('3%'),
+    marginTop: hp('2.5%'),
+    backgroundColor: '#111827',
+    borderRadius: wp('3%'),
+    borderWidth: 1.5,
+    borderColor: '#1d4ed8',
+    padding: wp('4%'),
+  },
+  tier1IconWrap: {
+    width: wp('12%'),
+    height: wp('12%'),
+    borderRadius: wp('3%'),
+    backgroundColor: '#1e3a8a',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  tier1TextWrap: {flex: 1},
+  tier1Title: {
+    color: '#fff',
+    fontWeight: '800',
+    fontSize: wp('3.8%'),
+    marginBottom: hp('0.3%'),
+  },
+  tier1Desc: {
+    color: '#9ca3af',
+    fontSize: wp('3.1%'),
+    lineHeight: wp('4.4%'),
+    marginBottom: hp('0.6%'),
+  },
+  tier1Cta: {
+    color: '#60a5fa',
+    fontWeight: '700',
+    fontSize: wp('3.2%'),
   },
   footer: {
     flexDirection: 'row',

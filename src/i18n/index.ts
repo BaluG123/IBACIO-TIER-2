@@ -191,6 +191,12 @@ const resources = {
       pdf_error_msg: 'Failed to load PDF. Please check your internet connection.',
       all_filter: 'All',
       meaning: 'Meaning',
+      tier1_card_title: 'Also prepare for Tier-1?',
+      tier1_card_desc:
+        'MCQs, subjects & daily news — install the live Tier-1 app on Play Store.',
+      tier1_card_cta: 'Get Tier-1 on Play Store',
+      tier1_drawer_title: 'IB ACIO Tier-1 App',
+      tier1_drawer_sub: 'Objective paper · Install on Play Store',
     },
   },
   hi: {
@@ -381,6 +387,12 @@ const resources = {
       pdf_error_msg: 'PDF लोड नहीं हो सका। कृपया अपना इंटरनेट कनेक्शन जाँचें।',
       all_filter: 'सभी',
       meaning: 'अर्थ',
+      tier1_card_title: 'टियर-1 की भी तैयारी?',
+      tier1_card_desc:
+        'MCQ, विषय और डेली न्यूज़ — Play Store से लाइव टियर-1 ऐप इंस्टॉल करें।',
+      tier1_card_cta: 'Play Store पर टियर-1 पाएँ',
+      tier1_drawer_title: 'IB ACIO टियर-1 ऐप',
+      tier1_drawer_sub: 'वस्तुनिष्ठ पेपर · Play Store से इंस्टॉल',
     },
   },
 };
