@@ -20,14 +20,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "India's Soft Power Diplomacy in a Multipolar World",
+      "title_hi": "बहुध्रुवीय विश्व में भारत की सॉफ्ट पावर कूटनीति",
       "hints_hi": [
-        "Define soft power with examples (yoga, cinema, diaspora)",
-        "Compare with hard power & recent G20/BRICS outreach",
-        "Challenges: perception gaps, neighbourhood",
-        "Way forward: cultural institutes, education hubs"
+        "योग, सिनेमा और प्रवासी समुदाय के उदाहरणों से सॉफ्ट पावर परिभाषित करें",
+        "हार्ड पावर से तुलना करें तथा हाल के G20/BRICS आउटरीच का उल्लेख करें",
+        "चुनौतियाँ: धारणा अंतराल और पड़ोस में विश्वास की कमी",
+        "आगे का मार्ग: सांस्कृतिक संस्थान और शिक्षा केंद्र"
       ],
-      "outline_hi": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy."
+      "outline_hi": "परिचय: नाय की सॉफ्ट पावर अवधारणा और भारत की सभ्यतागत संपत्तियाँ। मुख्य भाग: प्रवासी, योग, डिजिटल सार्वजनिक वस्तुएँ, वैक्सीन कूटनीति; पड़ोस की सीमाएँ। निष्कर्ष: सॉफ्ट पावर रणनीतिक स्वायत्तता की पूरक है।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e02",
@@ -49,14 +56,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "One Nation One Election: Opportunities and Challenges",
+      "title_hi": "वन नेशन वन इलेक्शन: अवसर और चुनौतियाँ",
       "hints_hi": [
-        "Constitutional amendments needed",
-        "Fiscal savings vs federal concerns",
-        "Simultaneous polls abroad",
-        "Impact on governance continuity"
+        "आवश्यक संवैधानिक संशोधन",
+        "राजकोषीय बचत बनाम संघीय चिंताएँ",
+        "विदेशों में एक साथ चुनाव के अनुभव",
+        "शासन की निरंतरता पर प्रभाव"
       ],
-      "outline_hi": "Intro: concept & Law Commission/HLC debates. Body: pros (cost, policy focus), cons (federalism, regional issues). Conclusion: phased consensus-based approach."
+      "outline_hi": "परिचय: अवधारणा तथा विधि आयोग/उच्च स्तरीय समिति की बहस। मुख्य भाग: लाभ (लागत, नीति फोकस), हानियाँ (संघवाद, क्षेत्रीय मुद्दे)। निष्कर्ष: चरणबद्ध सहमति-आधारित दृष्टिकोण।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e03",
@@ -78,14 +92,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Climate Justice and India's Development Imperative",
+      "title_hi": "जलवायु न्याय और भारत का विकास अनिवार्य",
       "hints_hi": [
-        "CBDR-RC principle",
-        "India's NDCs and renewable push",
-        "Adaptation finance gap",
-        "Balancing growth with net-zero pathway"
+        "CBDR-RC सिद्धांत",
+        "भारत के NDC और नवीकरणीय ऊर्जा प्रयास",
+        "अनुकूलन वित्त की कमी",
+        "विकास और नेट-ज़ीरो मार्ग का संतुलन"
       ],
-      "outline_hi": "Intro: equity in climate regime. Body: energy transition, green jobs, vulnerable communities. Conclusion: climate leadership without compromising development."
+      "outline_hi": "परिचय: जलवायु व्यवस्था में समानता। मुख्य भाग: ऊर्जा संक्रमण, हरित रोज़गार, कमज़ोर समुदाय। निष्कर्ष: विकास से समझौता किए बिना जलवायु नेतृत्व।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e04",
@@ -107,14 +128,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Digital Public Infrastructure: India Stack as a Global Model",
+      "title_hi": "डिजिटल सार्वजनिक अवसंरचना: वैश्विक मॉडल के रूप में India Stack",
       "hints_hi": [
-        "Aadhaar, UPI, DigiLocker, ONDC",
-        "Inclusion and privacy trade-offs",
-        "Export of DPI to Global South",
-        "Cyber resilience"
+        "आधार, UPI, डिजीलॉकर, ONDC",
+        "समावेशन और गोपनीयता का संतुलन",
+        "ग्लोबल साउथ को DPI का निर्यात",
+        "साइबर लचीलापन"
       ],
-      "outline_hi": "Intro: DPI as public good. Body: financial inclusion, scale, risks of exclusion/surveillance. Conclusion: open, interoperable, rights-respecting DPI."
+      "outline_hi": "परिचय: DPI एक सार्वजनिक वस्तु। मुख्य भाग: वित्तीय समावेशन, पैमाना, बहिष्करण/निगरानी के जोखिम। निष्कर्ष: खुला, अंतर-संचालनीय और अधिकार-सम्मानित DPI।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e05",
@@ -136,14 +164,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "India's Neighbourhood First Policy: Continuity and Change",
+      "title_hi": "भारत की नेबरहुड फर्स्ट नीति: निरंतरता और परिवर्तन",
       "hints_hi": [
-        "SAARC vs BIMSTEC",
-        "Connectivity projects",
-        "China factor",
-        "People-to-people ties"
+        "SAARC बनाम BIMSTEC",
+        "कनेक्टिविटी परियोजनाएँ",
+        "चीन कारक",
+        "जन-से-जन संपर्क"
       ],
-      "outline_hi": "Intro: geography as destiny. Body: diplomacy, development aid, security cooperation. Conclusion: trust-building remains central."
+      "outline_hi": "परिचय: भूगोल भाग्य है। मुख्य भाग: कूटनीति, विकास सहायता, सुरक्षा सहयोग। निष्कर्ष: विश्वास निर्माण केंद्रीय बना रहता है।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e06",
@@ -165,14 +200,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Women's Reservation Act and Inclusive Representation",
+      "title_hi": "महिला आरक्षण अधिनियम और समावेशी प्रतिनिधित्व",
       "hints_hi": [
-        "33% reservation context",
-        "Delimitation linkage",
-        "State-level lessons",
-        "Beyond numbers: agency"
+        "33% आरक्षण का संदर्भ",
+        "परिसीमन से जुड़ाव",
+        "राज्य-स्तरीय सबक",
+        "संख्या से परे: एजेंसी और सशक्तिकरण"
       ],
-      "outline_hi": "Intro: representation deficit. Body: Act provisions, implementation timeline, societal impact. Conclusion: political empowerment as democratic deepening."
+      "outline_hi": "परिचय: प्रतिनिधित्व की कमी। मुख्य भाग: अधिनियम के प्रावधान, क्रियान्वयन समयरेखा, सामाजिक प्रभाव। निष्कर्ष: राजनीतिक सशक्तिकरण लोकतंत्र को गहरा करता है।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e07",
@@ -194,14 +236,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "India's Ambition to Become a Developed Nation by 2047",
+      "title_hi": "2047 तक विकसित राष्ट्र बनने की भारत की महत्वाकांक्षा",
       "hints_hi": [
-        "Viksit Bharat vision pillars",
-        "Manufacturing & services",
-        "Human capital",
-        "Inequality & green growth"
+        "विकसित भारत दृष्टि के स्तंभ",
+        "विनिर्माण और सेवाएँ",
+        "मानव पूंजी",
+        "असमानता और हरित विकास"
       ],
-      "outline_hi": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric."
+      "outline_hi": "परिचय: अमृत काल की कथा। मुख्य भाग: विकास चालक, सुधार, सामाजिक क्षेत्र। निष्कर्ष: समावेशी समृद्धि ही वास्तविक मापदंड है।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e08",
@@ -223,14 +272,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Fiscal Federalism in India: GST and Beyond",
+      "title_hi": "भारत में राजकोषीय संघवाद: GST और उससे आगे",
       "hints_hi": [
-        "GST Council experience",
-        "Vertical & horizontal imbalances",
-        "Finance Commission role",
-        "State fiscal space"
+        "GST परिषद का अनुभव",
+        "ऊर्ध्वाधर और क्षैतिज असंतुलन",
+        "वित्त आयोग की भूमिका",
+        "राज्यों का राजकोषीय स्थान"
       ],
-      "outline_hi": "Intro: cooperative federalism. Body: GST wins/tensions, grants, borrowing. Conclusion: trust and data-driven devolution."
+      "outline_hi": "परिचय: सहकारी संघवाद। मुख्य भाग: GST की उपलब्धियाँ/तनाव, अनुदान, उधार। निष्कर्ष: विश्वास और डेटा-आधारित हस्तांतरण।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e09",
@@ -252,14 +308,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Unemployment and the Challenge of Quality Jobs",
+      "title_hi": "बेरोज़गारी और गुणवत्तापूर्ण रोज़गार की चुनौती",
       "hints_hi": [
-        "Demographic dividend",
-        "Gig economy & skilling",
-        "MSMEs",
-        "Female labour force participation"
+        "जनसांख्यिकीय लाभांश",
+        "गिग अर्थव्यवस्था और कौशल विकास",
+        "MSME",
+        "महिला श्रम बल भागीदारी"
       ],
-      "outline_hi": "Intro: jobless growth debate. Body: education-employability gap, labour codes, startups. Conclusion: productivity with dignity of labour."
+      "outline_hi": "परिचय: जॉबलेस ग्रोथ की बहस। मुख्य भाग: शिक्षा-रोज़गार अंतराल, श्रम संहिताएँ, स्टार्टअप। निष्कर्ष: श्रम की गरिमा के साथ उत्पादकता।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e10",
@@ -281,14 +344,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Agriculture Marketing Reforms and Farmer Welfare",
+      "title_hi": "कृषि विपणन सुधार और किसान कल्याण",
       "hints_hi": [
-        "APMC legacy",
-        "FPOs and e-NAM",
-        "MSP debate",
-        "Climate-resilient farming"
+        "APMC की विरासत",
+        "FPO और e-NAM",
+        "MSP बहस",
+        "जलवायु-लचीली खेती"
       ],
-      "outline_hi": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets."
+      "outline_hi": "परिचय: कृषि संकट का विरोधाभास। मुख्य भाग: बाज़ार, बीमा, विविधीकरण। निष्कर्ष: सुरक्षा जाल के साथ उद्यमी किसान।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e11",
@@ -310,14 +380,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Fintech Revolution and Financial Inclusion in India",
+      "title_hi": "फिनटेक क्रांति और भारत में वित्तीय समावेशन",
       "hints_hi": [
-        "Jan Dhan-Aadhaar-Mobile trinity",
-        "UPI scale",
-        "Cyber fraud risks",
-        "Credit for underserved"
+        "जन धन-आधार-मोबाइल त्रयी",
+        "UPI का पैमाना",
+        "साइबर धोखाधड़ी के जोखिम",
+        "वंचित वर्गों के लिए ऋण"
       ],
-      "outline_hi": "Intro: finance as empowerment. Body: inclusion metrics, consumer protection. Conclusion: trust is the next frontier."
+      "outline_hi": "परिचय: वित्त सशक्तिकरण के रूप में। मुख्य भाग: समावेशन मापदंड, उपभोक्ता संरक्षण। निष्कर्ष: विश्वास अगली सीमा है।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e12",
@@ -339,14 +416,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Green Hydrogen and India's Energy Transition",
+      "title_hi": "ग्रीन हाइड्रोजन और भारत का ऊर्जा संक्रमण",
       "hints_hi": [
-        "National Green Hydrogen Mission",
-        "Industrial decarbonisation",
-        "Export potential",
-        "Infrastructure & cost curves"
+        "राष्ट्रीय ग्रीन हाइड्रोजन मिशन",
+        "औद्योगिक डीकार्बनाइज़ेशन",
+        "निर्यात क्षमता",
+        "अवसंरचना और लागत वक्र"
       ],
-      "outline_hi": "Intro: hard-to-abate sectors. Body: policy, investment, skills. Conclusion: strategic autonomy through clean energy."
+      "outline_hi": "परिचय: कठिन-से-कम करने वाले क्षेत्र। मुख्य भाग: नीति, निवेश, कौशल। निष्कर्ष: स्वच्छ ऊर्जा से रणनीतिक स्वायत्तता।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e13",
@@ -368,14 +452,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Social Media, Free Speech and Democratic Discourse",
+      "title_hi": "सोशल मीडिया, अभिव्यक्ति की स्वतंत्रता और लोकतांत्रिक संवाद",
       "hints_hi": [
-        "Art 19 reasonable restrictions",
-        "Misinformation & polarisation",
-        "Platform accountability",
-        "Digital literacy"
+        "अनुच्छेद 19 की युक्तियुक्त निर्बंधन",
+        "गलत सूचना और ध्रुवीकरण",
+        "प्लेटफ़ॉर्म जवाबदेही",
+        "डिजिटल साक्षरता"
       ],
-      "outline_hi": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility."
+      "outline_hi": "परिचय: ऑनलाइन सार्वजनिक क्षेत्र। मुख्य भाग: अधिकार बनाम नुकसान, IT नियम बहस। निष्कर्ष: लोकतांत्रिक संवाद को जिम्मेदारी चाहिए।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e14",
@@ -397,14 +488,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Urbanisation in India: Smart Cities and Livable Cities",
+      "title_hi": "भारत में शहरीकरण: स्मार्ट सिटी और रहने योग्य शहर",
       "hints_hi": [
-        "Migration pressures",
-        "Housing & transit",
-        "Waste & water",
-        "Participatory planning"
+        "प्रवास दबाव",
+        "आवास और परिवहन",
+        "कचरा और जल",
+        "सहभागी नियोजन"
       ],
-      "outline_hi": "Intro: urban century. Body: infrastructure, equity, climate resilience. Conclusion: cities as engines with inclusion."
+      "outline_hi": "परिचय: शहरी शताब्दी। मुख्य भाग: अवसंरचना, समानता, जलवायु लचीलापन। निष्कर्ष: समावेशन के साथ शहर इंजन के रूप में।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e15",
@@ -426,14 +524,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Mental Health as a Public Health Priority",
+      "title_hi": "मानसिक स्वास्थ्य: एक सार्वजनिक स्वास्थ्य प्राथमिकता",
       "hints_hi": [
-        "Stigma",
-        "Mental Healthcare Act",
-        "Workforce shortage",
-        "Youth & workplaces"
+        "कलंक",
+        "मानसिक स्वास्थ्य देखभाल अधिनियम",
+        "कार्यबल की कमी",
+        "युवा और कार्यस्थल"
       ],
-      "outline_hi": "Intro: silent epidemic. Body: access, community care, schools. Conclusion: wellbeing is national capital."
+      "outline_hi": "परिचय: मौन महामारी। मुख्य भाग: पहुँच, सामुदायिक देखभाल, स्कूल। निष्कर्ष: कल्याण राष्ट्रीय पूंजी है।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e16",
@@ -455,14 +560,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Education 4.0: NEP 2020 and the Future of Learning",
+      "title_hi": "शिक्षा 4.0: NEP 2020 और सीखने का भविष्य",
       "hints_hi": [
-        "Multidisciplinary approach",
-        "Foundational literacy",
-        "EdTech equity",
-        "Teacher capacity"
+        "बहुविषयक दृष्टिकोण",
+        "आधारभूत साक्षरता",
+        "EdTech समानता",
+        "शिक्षक क्षमता"
       ],
-      "outline_hi": "Intro: knowledge economy. Body: NEP pillars, implementation gaps. Conclusion: quality with access."
+      "outline_hi": "परिचय: ज्ञान अर्थव्यवस्था। मुख्य भाग: NEP के स्तंभ, क्रियान्वयन अंतराल। निष्कर्ष: पहुँच के साथ गुणवत्ता।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e17",
@@ -484,14 +596,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Caste, Affirmative Action and Social Justice Today",
+      "title_hi": "जाति, सकारात्मक कार्रवाई और आज का सामाजिक न्याय",
       "hints_hi": [
-        "Constitutional vision",
-        "Creamy layer debates",
-        "Data & evidence",
-        "Dignity beyond quotas"
+        "संवैधानिक दृष्टि",
+        "क्रीमी लेयर बहस",
+        "डेटा और साक्ष्य",
+        "कोटे से परे गरिमा"
       ],
-      "outline_hi": "Intro: equality of opportunity. Body: reservation rationale, reforms, social mobility. Conclusion: justice with harmony."
+      "outline_hi": "परिचय: अवसर की समानता। मुख्य भाग: आरक्षण का औचित्य, सुधार, सामाजिक गतिशीलता। निष्कर्ष: सामंजस्य के साथ न्याय।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e18",
@@ -513,14 +632,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Ageing India: Care Economy and Silver Dividend",
+      "title_hi": "वृद्ध होते भारत: देखभाल अर्थव्यवस्था और सिल्वर डिविडेंड",
       "hints_hi": [
-        "Demographic shift",
-        "Pension & healthcare",
-        "Elder abuse",
-        "Productive ageing"
+        "जनसांख्यिकीय बदलाव",
+        "पेंशन और स्वास्थ्य सेवा",
+        "वृद्ध दुर्व्यवहार",
+        "उत्पादक वृद्धावस्था"
       ],
-      "outline_hi": "Intro: longevity revolution. Body: policy gaps, family & state roles. Conclusion: dignified ageing as rights issue."
+      "outline_hi": "परिचय: दीर्घायु क्रांति। मुख्य भाग: नीति अंतराल, परिवार और राज्य की भूमिका। निष्कर्ष: गरिमापूर्ण वृद्धावस्था अधिकार का मुद्दा है।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e19",
@@ -542,14 +668,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Internal Security Challenges in a Digital Age",
+      "title_hi": "डिजिटल युग में आंतरिक सुरक्षा चुनौतियाँ",
       "hints_hi": [
-        "Cybercrime & radicalisation online",
-        "Critical infrastructure",
-        "Police modernisation",
-        "Cooperative federalism in security"
+        "साइबर अपराध और ऑनलाइन उग्रवाद",
+        "महत्वपूर्ण अवसंरचना",
+        "पुलिस आधुनिकीकरण",
+        "सुरक्षा में सहकारी संघवाद"
       ],
-      "outline_hi": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security."
+      "outline_hi": "परिचय: बदलता खतरा परिदृश्य। मुख्य भाग: साइबर, अवशिष्ट वामपंथी उग्रवाद, सांप्रदायिक सद्भाव। निष्कर्ष: रोकथाम + अधिकार-आधारित सुरक्षा।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e20",
@@ -571,14 +704,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Border Management and Neighbourhood Stability",
+      "title_hi": "सीमा प्रबंधन और पड़ोसी स्थिरता",
       "hints_hi": [
-        "Land & maritime borders",
-        "Infrastructure along borders",
-        "People-centric approaches",
-        "Intelligence coordination"
+        "स्थल और समुद्री सीमाएँ",
+        "सीमाओं पर अवसंरचना",
+        "जन-केंद्रित दृष्टिकोण",
+        "खुफिया समन्वय"
       ],
-      "outline_hi": "Intro: borders as bridges and barriers. Body: tech, fencing, development. Conclusion: secure borders, open minds."
+      "outline_hi": "परिचय: सीमाएँ पुल और बाधा दोनों। मुख्य भाग: तकनीक, बाड़बंदी, विकास। निष्कर्ष: सुरक्षित सीमाएँ, खुले मन।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e21",
@@ -600,14 +740,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Police Reforms and Trust in Law Enforcement",
+      "title_hi": "पुलिस सुधार और कानून प्रवर्तन में विश्वास",
       "hints_hi": [
-        "Prakash Singh guidelines",
-        "Accountability mechanisms",
-        "Community policing",
-        "Training & diversity"
+        "प्रकाश सिंह दिशानिर्देश",
+        "जवाबदेही तंत्र",
+        "सामुदायिक पुलिसिंग",
+        "प्रशिक्षण और विविधता"
       ],
-      "outline_hi": "Intro: police as public service. Body: autonomy vs accountability, technology. Conclusion: legitimacy is the real soft power."
+      "outline_hi": "परिचय: पुलिस सार्वजनिक सेवा के रूप में। मुख्य भाग: स्वायत्तता बनाम जवाबदेही, तकनीक। निष्कर्ष: वैधता ही वास्तविक सॉफ्ट पावर है।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e22",
@@ -629,14 +776,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Disaster Management: From Response to Resilience",
+      "title_hi": "आपदा प्रबंधन: प्रतिक्रिया से लचीलापन तक",
       "hints_hi": [
-        "NDMA framework",
-        "Early warning systems",
-        "Local capacity",
-        "Climate disasters"
+        "NDMA ढाँचा",
+        "पूर्व चेतावनी प्रणाली",
+        "स्थानीय क्षमता",
+        "जलवायु आपदाएँ"
       ],
-      "outline_hi": "Intro: Sendai priorities. Body: mitigation, preparedness, recovery. Conclusion: resilience is development."
+      "outline_hi": "परिचय: सेंडाई प्राथमिकताएँ। मुख्य भाग: न्यूनीकरण, तैयारी, पुनर्प्राप्ति। निष्कर्ष: लचीलापन ही विकास है।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e23",
@@ -658,14 +812,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Ethics in Public Administration and Good Governance",
+      "title_hi": "लोक प्रशासन में नैतिकता और सुशासन",
       "hints_hi": [
-        "Integrity & transparency",
-        "Citizen charters",
-        "E-governance",
-        "Whistleblower protection"
+        "ईमानदारी और पारदर्शिता",
+        "नागरिक चार्टर",
+        "ई-गवर्नेंस",
+        "व्हिसलब्लोअर संरक्षण"
       ],
-      "outline_hi": "Intro: governance as trust. Body: institutional ethics, RTI spirit. Conclusion: values drive institutions."
+      "outline_hi": "परिचय: शासन विश्वास के रूप में। मुख्य भाग: संस्थागत नैतिकता, RTI की भावना। निष्कर्ष: मूल्य संस्थाओं को चलाते हैं।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e24",
@@ -687,14 +848,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Intelligence Awareness for Citizens: Facts vs Fear",
+      "title_hi": "नागरिकों के लिए खुफिया जागरूकता: तथ्य बनाम भय",
       "hints_hi": [
-        "Role of IB/agencies (factual)",
-        "Civic duty vs vigilantism",
-        "Rumour control",
-        "National security literacy"
+        "IB/एजेंसियों की भूमिका (तथ्यात्मक)",
+        "नागरिक कर्तव्य बनाम सतर्कतावाद",
+        "अफवाह नियंत्रण",
+        "राष्ट्रीय सुरक्षा साक्षरता"
       ],
-      "outline_hi": "Intro: informed citizenry. Body: balanced awareness, avoid sensationalism. Conclusion: security with constitutional values."
+      "outline_hi": "परिचय: सूचित नागरिकता। मुख्य भाग: संतुलित जागरूकता, सनसनी से बचें। निष्कर्ष: संवैधानिक मूल्यों के साथ सुरक्षा।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e25",
@@ -716,14 +884,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Truth, Post-Truth and the Responsibility of Citizens",
+      "title_hi": "सत्य, पोस्ट-ट्रुथ और नागरिकों की जिम्मेदारी",
       "hints_hi": [
-        "Epistemic crisis",
-        "Media literacy",
-        "Institutions of verification",
-        "Civil discourse"
+        "ज्ञान संकट",
+        "मीडिया साक्षरता",
+        "सत्यापन की संस्थाएँ",
+        "सभ्य संवाद"
       ],
-      "outline_hi": "Intro: post-truth as challenge. Body: education, media ethics, personal responsibility. Conclusion: democracy needs shared facts."
+      "outline_hi": "परिचय: पोस्ट-ट्रुथ चुनौती। मुख्य भाग: शिक्षा, मीडिया नैतिकता, व्यक्तिगत जिम्मेदारी। निष्कर्ष: लोकतंत्र को साझा तथ्यों की आवश्यकता है।",
+      "category_hi": "अमूर्त/सामान्य",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e26",
@@ -745,14 +920,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Science, Technology and Human Values",
+      "title_hi": "विज्ञान, प्रौद्योगिकी और मानवीय मूल्य",
       "hints_hi": [
-        "AI ethics",
-        "Bioethics",
-        "Access & equity",
-        "Regulation vs innovation"
+        "AI नैतिकता",
+        "जैवनैतिकता",
+        "पहुँच और समानता",
+        "विनियमन बनाम नवाचार"
       ],
-      "outline_hi": "Intro: tech as double-edged. Body: opportunities and moral dilemmas. Conclusion: human-centric innovation."
+      "outline_hi": "परिचय: तकनीक दोधारी तलवार। मुख्य भाग: अवसर और नैतिक दुविधाएँ। निष्कर्ष: मानव-केंद्रित नवाचार।",
+      "category_hi": "अमूर्त/सामान्य",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e27",
@@ -774,14 +956,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Unity in Diversity: India's Living Experiment",
+      "title_hi": "विविधता में एकता: भारत का जीवंत प्रयोग",
       "hints_hi": [
-        "Constitutional fraternity",
-        "Cultural pluralism",
-        "Regional identities",
-        "Shared future"
+        "संवैधानिक बंधुत्व",
+        "सांस्कृतिक बहुलवाद",
+        "क्षेत्रीय पहचान",
+        "साझा भविष्य"
       ],
-      "outline_hi": "Intro: diversity as strength. Body: examples of coexistence, challenges. Conclusion: dialogue over dominance."
+      "outline_hi": "परिचय: विविधता शक्ति है। मुख्य भाग: सह-अस्तित्व के उदाहरण, चुनौतियाँ। निष्कर्ष: प्रभुत्व से अधिक संवाद।",
+      "category_hi": "अमूर्त/सामान्य",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e28",
@@ -803,14 +992,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "The Idea of Service: Public Life and Private Interest",
+      "title_hi": "सेवा का विचार: सार्वजनिक जीवन और निजी हित",
       "hints_hi": [
-        "Civil service ethos",
-        "Conflict of interest",
-        "Volunteerism",
-        "Nation-building"
+        "सिविल सेवा लोकाचार",
+        "हितों का टकराव",
+        "स्वयंसेवा",
+        "राष्ट्र निर्माण"
       ],
-      "outline_hi": "Intro: seva as ethic. Body: institutions, leadership examples. Conclusion: public interest first."
+      "outline_hi": "परिचय: सेवा एक नैतिकता। मुख्य भाग: संस्थाएँ, नेतृत्व उदाहरण। निष्कर्ष: सार्वजनिक हित प्रथम।",
+      "category_hi": "अमूर्त/सामान्य",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e29",
@@ -832,14 +1028,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Indo-Pacific Strategy and India's Strategic Autonomy",
+      "title_hi": "इंडो-पैसिफिक रणनीति और भारत की रणनीतिक स्वायत्तता",
       "hints_hi": [
-        "Quad & partnerships",
-        "ASEAN centrality",
-        "Trade & security nexus",
-        "Avoiding bloc politics"
+        "Quad और साझेदारियाँ",
+        "ASEAN केंद्रियता",
+        "व्यापार और सुरक्षा का संबंध",
+        "गुट राजनीति से बचना"
       ],
-      "outline_hi": "Intro: Indo-Pacific concept. Body: maritime security, supply chains. Conclusion: multi-alignment with clarity."
+      "outline_hi": "परिचय: इंडो-पैसिफिक अवधारणा। मुख्य भाग: समुद्री सुरक्षा, आपूर्ति श्रृंखलाएँ। निष्कर्ष: स्पष्टता के साथ बहु-संरेखण।",
+      "category_hi": "समसामयिक विषय",
+      "difficulty_hi": "कठिन",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e30",
@@ -861,14 +1064,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "MSMEs: Backbone of Inclusive Growth",
+      "title_hi": "MSME: समावेशी विकास की रीढ़",
       "hints_hi": [
-        "Employment share",
-        "Credit & formalisation",
-        "Export potential",
-        "Digital adoption"
+        "रोज़गार हिस्सेदारी",
+        "ऋण और औपचारिकीकरण",
+        "निर्यात क्षमता",
+        "डिजिटल अपनाना"
       ],
-      "outline_hi": "Intro: MSME weight in economy. Body: schemes, bottlenecks. Conclusion: enable scale without losing flexibility."
+      "outline_hi": "परिचय: अर्थव्यवस्था में MSME का भार। मुख्य भाग: योजनाएँ, बाधाएँ। निष्कर्ष: लचीलापन खोए बिना पैमाना सक्षम करें।",
+      "category_hi": "अर्थव्यवस्था",
+      "difficulty_hi": "आसान",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e31",
@@ -890,14 +1100,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Water Security: Rivers, Interlinking and Conservation",
+      "title_hi": "जल सुरक्षा: नदियाँ, अंतर-संपर्क और संरक्षण",
       "hints_hi": [
-        "Per capita water stress",
-        "Interstate disputes",
-        "Groundwater depletion",
-        "Community management"
+        "प्रति व्यक्ति जल तनाव",
+        "अंतर्राज्यीय विवाद",
+        "भूजल क्षय",
+        "सामुदायिक प्रबंधन"
       ],
-      "outline_hi": "Intro: water as strategic resource. Body: supply-demand, governance. Conclusion: conserve, share, innovate."
+      "outline_hi": "परिचय: जल रणनीतिक संसाधन। मुख्य भाग: आपूर्ति-माँग, शासन। निष्कर्ष: संरक्षण, साझेदारी, नवाचार।",
+      "category_hi": "सामाजिक-राजनीतिक",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     },
     {
       "id": "e32",
@@ -919,14 +1136,21 @@
         "Body (2–3 analytical paragraphs with facts)",
         "Conclusion (balanced way forward)"
       ],
-      "title_hi": "Cybersecurity as National Security",
+      "title_hi": "साइबर सुरक्षा राष्ट्रीय सुरक्षा के रूप में",
       "hints_hi": [
-        "Critical info infrastructure",
-        "CERT-In role",
-        "Public-private partnership",
-        "Citizen hygiene"
+        "महत्वपूर्ण सूचना अवसंरचना",
+        "CERT-In की भूमिका",
+        "सार्वजनिक-निजी साझेदारी",
+        "नागरिक साइबर स्वच्छता"
       ],
-      "outline_hi": "Intro: cyber domain of conflict. Body: threats, capacity, laws. Conclusion: resilient digital India."
+      "outline_hi": "परिचय: साइबर संघर्ष का क्षेत्र। मुख्य भाग: खतरे, क्षमता, कानून। निष्कर्ष: लचीला डिजिटल भारत।",
+      "category_hi": "सुरक्षा और शासन",
+      "difficulty_hi": "मध्यम",
+      "structure_hi": [
+        "परिचय (संदर्भ + मुख्य तर्क)",
+        "मुख्य भाग (तथ्यों के साथ 2–3 विश्लेषणात्मक अनुच्छेद)",
+        "निष्कर्ष (संतुलित आगे का मार्ग)"
+      ]
     }
   ]
 }

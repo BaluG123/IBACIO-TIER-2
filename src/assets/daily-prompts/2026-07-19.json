@@ -4,7 +4,7 @@
   "editionTitle_hi": "टियर-2 डेली डेस्क",
   "essayTopic": {
     "title": "India's Ambition to Become a Developed Nation by 2047",
-    "title_hi": "India's Ambition to Become a Developed Nation by 2047",
+    "title_hi": "2047 तक विकसित राष्ट्र बनने की भारत की महत्वाकांक्षा",
     "category": "Economy",
     "hints": [
       "Viksit Bharat vision pillars",
@@ -13,20 +13,20 @@
       "Inequality & green growth"
     ],
     "hints_hi": [
-      "Viksit Bharat vision pillars",
-      "Manufacturing & services",
-      "Human capital",
-      "Inequality & green growth"
+      "विकसित भारत दृष्टि के स्तंभ",
+      "विनिर्माण और सेवाएँ",
+      "मानव पूंजी",
+      "असमानता और हरित विकास"
     ],
     "modelOutline": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric.",
-    "modelOutline_hi": "Intro: Amrit Kaal narrative. Body: growth drivers, reforms, social sector. Conclusion: inclusive prosperity is the real metric."
+    "modelOutline_hi": "परिचय: अमृत काल की कथा। मुख्य भाग: विकास चालक, सुधार, सामाजिक क्षेत्र। निष्कर्ष: समावेशी समृद्धि ही वास्तविक मापदंड है।"
   },
   "longAnswers": [
     {
       "id": "la16",
       "domain": "Economics",
       "question": "Discuss the role of MSMEs in employment generation in India.",
-      "question_hi": "Discuss the role of MSMEs in employment generation in India.",
+      "question_hi": "भारत में रोज़गार सृजन में MSME की भूमिका की चर्चा कीजिए।",
       "keyPoints": [
         "Employment share",
         "Credit & formalisation",
@@ -34,19 +34,20 @@
         "Policy support"
       ],
       "keyPoints_hi": [
-        "Employment share",
-        "Credit & formalisation",
-        "Market access/export",
-        "Policy support"
+        "रोज़गार हिस्सेदारी",
+        "ऋण और औपचारिकीकरण",
+        "बाज़ार पहुँच/निर्यात",
+        "नीति समर्थन"
       ],
       "modelAnswer": "Discuss the role of MSMEs in employment generation in India. Key dimensions include: Employment share; Credit & formalisation; Market access/export; Policy support. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Discuss the role of MSMEs in employment generation in India. Key dimensions include: Employment share; Credit & formalisation; Market access/export; Policy support. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "MSME भारतीय अर्थव्यवस्था में रोज़गार का बड़ा हिस्सा प्रदान करते हैं और समावेशी विकास की रीढ़ हैं। ऋण पहुँच, औपचारिकीकरण और बाज़ार पहुँच प्रमुख चुनौतियाँ हैं। निर्यात क्षमता और डिजिटल अपनाने से प्रतिस्पर्धा बढ़ सकती है। नीति समर्थन—क्रेडिट गारंटी, कौशल और खरीद प्राथमिकता—सहायक हैं। लक्ष्य लचीलापन खोए बिना उद्यमों को पैमाना और उत्पादकता बढ़ाने में सक्षम बनाना होना चाहिए।",
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la29",
       "domain": "Socio-political",
       "question": "Discuss the constitutional ideal of fraternity and its relevance today.",
-      "question_hi": "Discuss the constitutional ideal of fraternity and its relevance today.",
+      "question_hi": "बंधुत्व के संवैधानिक आदर्श और आज इसकी प्रासंगिकता की चर्चा कीजिए।",
       "keyPoints": [
         "Preamble values",
         "Social harmony",
@@ -54,51 +55,52 @@
         "Civic education"
       ],
       "keyPoints_hi": [
-        "Preamble values",
-        "Social harmony",
-        "Hate speech challenge",
-        "Civic education"
+        "प्रस्तावना के मूल्य",
+        "सामाजिक सद्भाव",
+        "घृणा भाषण चुनौती",
+        "नागरिक शिक्षा"
       ],
       "modelAnswer": "Discuss the constitutional ideal of fraternity and its relevance today. Key dimensions include: Preamble values; Social harmony; Hate speech challenge; Civic education. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Discuss the constitutional ideal of fraternity and its relevance today. Key dimensions include: Preamble values; Social harmony; Hate speech challenge; Civic education. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "बंधुत्व संविधान की प्रस्तावना का मूल मूल्य है, जो स्वतंत्रता और समानता को सामाजिक सद्भाव से जोड़ता है। आज ध्रुवीकरण और घृणा भाषण इस आदर्श को चुनौती देते हैं। नागरिक शिक्षा, संस्थागत जवाबदेही और संवैधानिक नैतिकता इसकी रक्षा करते हैं। बंधुत्व केवल भावना नहीं, लोकतांत्रिक सह-अस्तित्व की शर्त है।",
+      "domain_hi": "सामाजिक-राजनीतिक"
     }
   ],
   "comprehension": {
     "passage": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
-    "passage_hi": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
+    "passage_hi": "भारत की लंबी तटरेखा आजीविका, बंदरगाह और घनी शहरी बस्तियों को सहारा देती है। बढ़ता समुद्री स्तर, तीव्र होते चक्रवात और खारे पानी का अतिक्रमण भूमि और समुद्र के इस नाजुक संपर्क को खतरे में डालते हैं। अनुकूलन अब वैकल्पिक नहीं रह गया है। मैंग्रोव पुनर्स्थापन, जलवायु-लचीला आवास, पूर्व चेतावनी प्रणाली और विविधीकृत आजीविका जोखिम घटा सकती हैं। फिर भी आवश्यकता की तुलना में अनुकूलन वित्त अपर्याप्त है, और स्थानीय सरकारों के पास अक्सर तकनीकी क्षमता की कमी होती है। मछुआरा समुदाय और अनौपचारिक श्रमिक सबसे तेज़ झटके सहते हैं, पर उनके पास सबसे कम बीमा कवरेज होता है। राष्ट्रीय मिशन और राज्य कार्य योजनाएँ ढाँचा देती हैं, पर परिणाम लास्ट-माइल क्रियान्वयन पर निर्भर करते हैं। पारंपरिक पारिस्थितिक ज्ञान को वैज्ञानिक पूर्वानुमान से जोड़ने से सामुदायिक स्वामित्व सुधर सकता है। अंततः तटीय लचीलापन एक विकास मुद्दा है: तटों की रक्षा रोज़गार, खाद्य सुरक्षा और राष्ट्रीय अवसंरचना की रक्षा है। नीति में महिलाओं की भूमिका, बीमा पहुँच और आपदा के बाद शीघ्र पुनर्वास भी शामिल होने चाहिए। जलवायु न्याय तभी सार्थक है जब सबसे अधिक प्रभावित समुदाय अनुकूलन निर्णयों में भागीदार हों।",
     "questions": [
       {
         "q": "Name three climate risks facing India's coastline as per the passage.",
-        "q_hi": "Name three climate risks facing India's coastline as per the passage.",
+        "q_hi": "गद्यांश के अनुसार भारत की तटरेखा के सामने तीन जलवायु जोखिम बताइए।",
         "model": "Rising sea levels, intensifying cyclones, and saltwater intrusion.",
-        "model_hi": "Rising sea levels, intensifying cyclones, and saltwater intrusion."
+        "model_hi": "बढ़ता समुद्री स्तर, तीव्र होते चक्रवात और खारे पानी का अतिक्रमण।"
       },
       {
         "q": "Which groups are described as facing the sharpest shocks?",
-        "q_hi": "Which groups are described as facing the sharpest shocks?",
+        "q_hi": "किन समूहों को सबसे तेज़ झटके झेलने वाले बताया गया है?",
         "model": "Fishing communities and informal workers.",
-        "model_hi": "Fishing communities and informal workers."
+        "model_hi": "मछुआरा समुदाय और अनौपचारिक श्रमिक।"
       },
       {
         "q": "What dual approach can improve community ownership of adaptation?",
-        "q_hi": "What dual approach can improve community ownership of adaptation?",
+        "q_hi": "अनुकूलन के सामुदायिक स्वामित्व को सुधारने वाला दोहरा दृष्टिकोण क्या है?",
         "model": "Integrating traditional ecological knowledge with scientific forecasting.",
-        "model_hi": "Integrating traditional ecological knowledge with scientific forecasting."
+        "model_hi": "पारंपरिक पारिस्थितिक ज्ञान को वैज्ञानिक पूर्वानुमान से जोड़ना।"
       },
       {
         "q": "Why does the author call coastal resilience a development issue?",
-        "q_hi": "Why does the author call coastal resilience a development issue?",
+        "q_hi": "लेखक तटीय लचीलापन को विकास मुद्दा क्यों कहता है?",
         "model": "Because protecting coasts protects jobs, food security, and national infrastructure.",
-        "model_hi": "Because protecting coasts protects jobs, food security, and national infrastructure."
+        "model_hi": "क्योंकि तटों की रक्षा रोज़गार, खाद्य सुरक्षा और राष्ट्रीय अवसंरचना की रक्षा करती है।"
       },
       {
         "q": "What constraints on adaptation does the passage mention?",
-        "q_hi": "What constraints on adaptation does the passage mention?",
+        "q_hi": "गद्यांश अनुकूलन की कौन-सी बाधाएँ बताता है?",
         "model": "Inadequate adaptation finance and weak technical capacity in local governments.",
-        "model_hi": "Inadequate adaptation finance and weak technical capacity in local governments."
+        "model_hi": "अपर्याप्त अनुकूलन वित्त और स्थानीय सरकारों में कमज़ोर तकनीकी क्षमता।"
       }
     ]
   },
   "tipOfDay": "For 10-mark LAQs, aim for 4–5 crisp points wrapped in short paragraphs.",
-  "tipOfDay_hi": "For 10-mark LAQs, aim for 4–5 crisp points wrapped in short paragraphs."
+  "tipOfDay_hi": "10 अंक के दीर्घ उत्तरों में छोटे अनुच्छेदों में 4–5 स्पष्ट बिंदु लिखें।"
 }

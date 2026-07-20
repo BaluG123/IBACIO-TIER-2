@@ -20,6 +20,7 @@ import {useNavigation, useRoute} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {formatTimer, timerColor, countWords} from '../utils/timer';
+import {getLocalized} from '../utils/localize';
 
 type MockPaper = {
   id: string;
@@ -40,10 +41,11 @@ const MOCKS: MockPaper[] = mocksData.mocks || [];
 type Section = 'essay' | 'rc' | 'laq';
 
 export default function MockDescriptiveScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const route = useRoute<any>();
   const insets = useSafeAreaInsets();
+  const lang = i18n.language;
 
   const mock = useMemo(
     () => MOCKS.find(m => m.id === route.params?.mockId),
@@ -102,7 +104,7 @@ export default function MockDescriptiveScreen() {
   if (!mock) {
     return (
       <View style={[styles.container, styles.center]}>
-        <Text style={{color: '#fff'}}>Mock not found</Text>
+        <Text style={{color: '#fff'}}>{t('mock_not_found')}</Text>
       </View>
     );
   }
@@ -126,6 +128,11 @@ export default function MockDescriptiveScreen() {
     ]);
   };
 
+  const mockTitle = getLocalized<string>(mock, 'title', lang);
+  const essayTitle = getLocalized<string>(essay, 'title', lang);
+  const passageTitle = getLocalized<string>(passage, 'title', lang);
+  const passageText = getLocalized<string>(passage, 'passage', lang);
+
   return (
     <KeyboardAvoidingView
       style={styles.container}
@@ -141,7 +148,7 @@ export default function MockDescriptiveScreen() {
         </TouchableOpacity>
         <View style={{flex: 1}}>
           <Text style={styles.headerTitle} numberOfLines={1}>
-            {mock.title}
+            {mockTitle}
           </Text>
         </View>
         <Text
@@ -184,14 +191,16 @@ export default function MockDescriptiveScreen() {
         }}>
         {section === 'essay' && (
           <View>
-            <Text style={styles.prompt}>{essay?.title || 'Essay topic'}</Text>
+            <Text style={styles.prompt}>
+              {essayTitle || t('section_essay')}
+            </Text>
             <Text style={styles.meta}>
               20 {t('marks')} · {countWords(essayText)} {t('word_count')}
             </Text>
             <TextInput
               style={styles.inputTall}
               multiline
-              placeholder="Write essay..."
+              placeholder={t('placeholder_mock_essay')}
               placeholderTextColor="#6b7280"
               value={essayText}
               onChangeText={setEssayText}
@@ -202,17 +211,19 @@ export default function MockDescriptiveScreen() {
 
         {section === 'rc' && (
           <View>
-            <Text style={styles.prompt}>{passage?.title || 'Passage'}</Text>
-            <Text style={styles.passage}>{passage?.passage}</Text>
+            <Text style={styles.prompt}>
+              {passageTitle || t('section_rc')}
+            </Text>
+            <Text style={styles.passage}>{passageText}</Text>
             {(passage?.questions || []).map((q: any, i: number) => (
               <View key={q.id || i} style={styles.qBlock}>
                 <Text style={styles.qText}>
-                  Q{i + 1}. {q.q}
+                  Q{i + 1}. {getLocalized<string>(q, 'q', lang)}
                 </Text>
                 <TextInput
                   style={styles.inputShort}
                   multiline
-                  placeholder="Answer..."
+                  placeholder={t('placeholder_answer')}
                   placeholderTextColor="#6b7280"
                   value={rcAnswers[q.id] || ''}
                   onChangeText={val =>
@@ -229,7 +240,9 @@ export default function MockDescriptiveScreen() {
           <View>
             {laqs.map((la: any) => (
               <View key={la.id} style={styles.qBlock}>
-                <Text style={styles.prompt}>{la.question}</Text>
+                <Text style={styles.prompt}>
+                  {getLocalized<string>(la, 'question', lang)}
+                </Text>
                 <Text style={styles.meta}>
                   10 {t('marks')} · {countWords(laqAnswers[la.id] || '')}{' '}
                   {t('word_count')}
@@ -237,7 +250,7 @@ export default function MockDescriptiveScreen() {
                 <TextInput
                   style={styles.inputShort}
                   multiline
-                  placeholder="Write long answer..."
+                  placeholder={t('placeholder_mock_laq')}
                   placeholderTextColor="#6b7280"
                   value={laqAnswers[la.id] || ''}
                   onChangeText={val =>

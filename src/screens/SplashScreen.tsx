@@ -12,8 +12,10 @@ import {
   heightPercentageToDP as hp,
 } from 'react-native-responsive-screen';
 import {useNavigation} from '@react-navigation/native';
+import {useTranslation} from 'react-i18next';
 
 export default function SplashScreen() {
+  const {t} = useTranslation();
   const navigation = useNavigation<any>();
   const fadeAnim = useRef(new Animated.Value(0)).current;
   const scaleAnim = useRef(new Animated.Value(0.9)).current;
@@ -63,10 +65,8 @@ export default function SplashScreen() {
 
         <View style={styles.textContainer}>
           <Text style={styles.brand}>IB ACIO</Text>
-          <Text style={styles.fullForm}>
-            Intelligence Bureau Assistant Central{'\n'}Intelligence Officer
-          </Text>
-          <Text style={styles.tagline}>Tier-2 Descriptive Prep</Text>
+          <Text style={styles.fullForm}>{t('splash_full_form')}</Text>
+          <Text style={styles.tagline}>{t('splash_tagline')}</Text>
         </View>
       </Animated.View>
     </View>

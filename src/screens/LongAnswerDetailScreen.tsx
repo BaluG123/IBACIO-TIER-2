@@ -16,6 +16,7 @@ import {useNavigation, useRoute} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {getDomainColor} from '../services/dailyPromptService';
+import {getLocalized, localizeLabel} from '../utils/localize';
 
 type LAQ = {
   id: string;
@@ -33,11 +34,12 @@ const data = require('../assets/long-answers/questions.json');
 const QUESTIONS: LAQ[] = data.questions || [];
 
 export default function LongAnswerDetailScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const route = useRoute<any>();
   const insets = useSafeAreaInsets();
   const [showPoints, setShowPoints] = useState(false);
+  const lang = i18n.language;
 
   const question = useMemo(
     () => QUESTIONS.find(q => q.id === route.params?.questionId),
@@ -47,12 +49,15 @@ export default function LongAnswerDetailScreen() {
   if (!question) {
     return (
       <View style={[styles.container, styles.center]}>
-        <Text style={{color: '#fff'}}>Question not found</Text>
+        <Text style={{color: '#fff'}}>{t('question_not_found')}</Text>
       </View>
     );
   }
 
   const color = getDomainColor(question.domain);
+  const questionText = getLocalized<string>(question, 'question', lang);
+  const keyPoints = getLocalized<string[]>(question, 'keyPoints', lang) || [];
+  const modelAnswer = getLocalized<string>(question, 'modelAnswer', lang);
 
   return (
     <View style={styles.container}>
@@ -75,11 +80,17 @@ export default function LongAnswerDetailScreen() {
           padding: wp('4%'),
           paddingBottom: insets.bottom + hp('4%'),
         }}>
-        <Text style={[styles.domain, {color}]}>{question.domain}</Text>
-        <Text style={styles.question}>{question.question}</Text>
+        <Text style={[styles.domain, {color}]}>
+          {localizeLabel(question.domain, lang)}
+        </Text>
+        <Text style={styles.question}>{questionText}</Text>
         <Text style={styles.meta}>
-          {question.marks} {t('marks')} · {question.wordTargetMin}–
-          {question.wordTargetMax} words · {question.suggestedMinutes} min
+          {question.marks} {t('marks')} ·{' '}
+          {t('words_min_meta', {
+            minWords: question.wordTargetMin,
+            maxWords: question.wordTargetMax,
+            min: question.suggestedMinutes,
+          })}
         </Text>
 
         <TouchableOpacity
@@ -87,8 +98,6 @@ export default function LongAnswerDetailScreen() {
           onPress={() =>
             navigation.navigate('LongAnswerWrite', {
               questionId: question.id,
-              question: question.question,
-              modelAnswer: question.modelAnswer,
               wordTargetMin: question.wordTargetMin,
               wordTargetMax: question.wordTargetMax,
               suggestedMinutes: question.suggestedMinutes,
@@ -109,7 +118,7 @@ export default function LongAnswerDetailScreen() {
         {showPoints && (
           <View style={styles.card}>
             <Text style={styles.section}>{t('key_points')}</Text>
-            {(question.keyPoints || []).map((kp, i) => (
+            {keyPoints.map((kp, i) => (
               <Text key={i} style={styles.point}>
                 • {kp}
               </Text>
@@ -117,7 +126,7 @@ export default function LongAnswerDetailScreen() {
             <Text style={[styles.section, {marginTop: hp('1.5%')}]}>
               {t('model_answer')}
             </Text>
-            <Text style={styles.body}>{question.modelAnswer}</Text>
+            <Text style={styles.body}>{modelAnswer}</Text>
           </View>
         )}
       </ScrollView>

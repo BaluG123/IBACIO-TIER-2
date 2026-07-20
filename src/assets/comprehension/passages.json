@@ -23,40 +23,42 @@
           "model": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two)."
         }
       ],
-      "passage_hi": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
-      "title_hi": "Digital Governance and Citizen Trust",
+      "passage_hi": "डिजिटल शासन ने नागरिकों और राज्य के बीच संवाद का स्वरूप बदल दिया है। ऑनलाइन सेवा पोर्टल से लेकर प्रत्यक्ष लाभ हस्तांतरण तक, तकनीक ने लीकेज घटाए हैं और पारदर्शिता बढ़ाई है। फिर भी पहुँच असमान बनी हुई है। ग्रामीण कनेक्टिविटी की कमी, डिजिटल साक्षरता की कमी और भाषाई बाधाएँ उन्हीं नागरिकों को बाहर कर सकती हैं जिन्हें सेवाओं की सबसे अधिक आवश्यकता है। गोपनीयता और डेटा संरक्षण भी केंद्रीय चिंताएँ बन गए हैं: जब व्यक्तिगत डेटा कल्याण वितरण का आधार बने, तब नागरिकों को यह विश्वास होना चाहिए कि सूचना का दुरुपयोग नहीं होगा। सफल डिजिटल शासन केवल ऐप और डैशबोर्ड से नहीं चलता। उसे समावेशी डिज़ाइन, ऑफलाइन विकल्प, काम करने वाला शिकायत निवारण और एल्गोरिद्मिक निर्णयों की स्पष्ट जवाबदेही चाहिए। डिजिटल राज्य का मापदंड यह नहीं कि कितनी सेवाएँ ऑनलाइन हैं, बल्कि यह कि कितने नागरिक—विशेषकर कमज़ोर वर्ग—उन्हें गरिमा और आत्मविश्वास के साथ उपयोग कर सकते हैं। नीति निर्माताओं को यह भी सुनिश्चित करना चाहिए कि साइबर सुरक्षा, इंटरऑपरेबिलिटी और स्थानीय भाषा समर्थन सेवा अनुभव का हिस्सा हों। अंततः तकनीक साधन है; विश्वास और समावेशन ही लक्ष्य हैं।",
+      "title_hi": "डिजिटल शासन और नागरिक विश्वास",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc01_q1",
           "q": "What paradox does the passage highlight about digital governance?",
-          "q_hi": "What paradox does the passage highlight about digital governance?",
+          "q_hi": "गद्यांश डिजिटल शासन के बारे में किस विरोधाभास को रेखांकित करता है?",
           "model": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most.",
-          "model_hi": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most."
+          "model_hi": "तकनीक पारदर्शिता बढ़ाती और लीकेज घटाती है, पर असमान पहुँच और साक्षरता की कमी उन्हीं नागरिकों को बाहर कर सकती है जिन्हें सेवा सबसे अधिक चाहिए।"
         },
         {
           "id": "rc01_q2",
           "q": "Why is trust central to digital welfare delivery?",
-          "q_hi": "Why is trust central to digital welfare delivery?",
+          "q_hi": "डिजिटल कल्याण वितरण में विश्वास क्यों केंद्रीय है?",
           "model": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable.",
-          "model_hi": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable."
+          "model_hi": "क्योंकि व्यक्तिगत डेटा वितरण का आधार है; नागरिकों को विश्वास होना चाहिए कि डेटा का दुरुपयोग नहीं होगा और प्रणालियाँ जवाबदेह रहेंगी।"
         },
         {
           "id": "rc01_q3",
           "q": "According to the author, what should be the true measure of a digital state?",
-          "q_hi": "According to the author, what should be the true measure of a digital state?",
+          "q_hi": "लेखक के अनुसार डिजिटल राज्य का वास्तविक मापदंड क्या होना चाहिए?",
           "model": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence.",
-          "model_hi": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence."
+          "model_hi": "ऑनलाइन सेवाओं की संख्या नहीं, बल्कि यह कि कमज़ोर नागरिक उन्हें गरिमा और आत्मविश्वास के साथ उपयोग कर सकें।"
         },
         {
           "id": "rc01_q4",
           "q": "List two non-technological requirements for successful digital governance mentioned in the passage.",
-          "q_hi": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+          "q_hi": "सफल डिजिटल शासन के लिए गद्यांश में उल्लिखित दो गैर-तकनीकी आवश्यकताएँ बताइए।",
           "model": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two).",
-          "model_hi": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two)."
+          "model_hi": "समावेशी डिज़ाइन / ऑफलाइन विकल्प; काम करने वाला शिकायत निवारण; एल्गोरिद्मिक निर्णयों की जवाबदेही (कोई दो)।"
         }
-      ]
+      ],
+      "theme_hi": "शासन",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc02",
@@ -85,47 +87,49 @@
           "model": "Inadequate adaptation finance and weak technical capacity in local governments."
         }
       ],
-      "passage_hi": "India's long coastline supports livelihoods, ports, and dense urban settlements. Rising sea levels, intensifying cyclones, and saltwater intrusion threaten this fragile interface between land and sea. Adaptation is no longer optional. Mangrove restoration, climate-resilient housing, early warning systems, and diversified livelihoods can reduce risk. However, adaptation finance remains inadequate relative to need, and local governments often lack technical capacity. Fishing communities and informal workers face the sharpest shocks yet have the weakest insurance coverage. National missions and state action plans provide frameworks, but outcomes depend on last-mile implementation. Integrating traditional ecological knowledge with scientific forecasting can improve community ownership. Ultimately, coastal resilience is a development issue: protecting coasts protects jobs, food security, and national infrastructure.",
-      "title_hi": "Climate Adaptation in Coastal India",
+      "passage_hi": "भारत की लंबी तटरेखा आजीविका, बंदरगाह और घनी शहरी बस्तियों को सहारा देती है। बढ़ता समुद्री स्तर, तीव्र होते चक्रवात और खारे पानी का अतिक्रमण भूमि और समुद्र के इस नाजुक संपर्क को खतरे में डालते हैं। अनुकूलन अब वैकल्पिक नहीं रह गया है। मैंग्रोव पुनर्स्थापन, जलवायु-लचीला आवास, पूर्व चेतावनी प्रणाली और विविधीकृत आजीविका जोखिम घटा सकती हैं। फिर भी आवश्यकता की तुलना में अनुकूलन वित्त अपर्याप्त है, और स्थानीय सरकारों के पास अक्सर तकनीकी क्षमता की कमी होती है। मछुआरा समुदाय और अनौपचारिक श्रमिक सबसे तेज़ झटके सहते हैं, पर उनके पास सबसे कम बीमा कवरेज होता है। राष्ट्रीय मिशन और राज्य कार्य योजनाएँ ढाँचा देती हैं, पर परिणाम लास्ट-माइल क्रियान्वयन पर निर्भर करते हैं। पारंपरिक पारिस्थितिक ज्ञान को वैज्ञानिक पूर्वानुमान से जोड़ने से सामुदायिक स्वामित्व सुधर सकता है। अंततः तटीय लचीलापन एक विकास मुद्दा है: तटों की रक्षा रोज़गार, खाद्य सुरक्षा और राष्ट्रीय अवसंरचना की रक्षा है। नीति में महिलाओं की भूमिका, बीमा पहुँच और आपदा के बाद शीघ्र पुनर्वास भी शामिल होने चाहिए। जलवायु न्याय तभी सार्थक है जब सबसे अधिक प्रभावित समुदाय अनुकूलन निर्णयों में भागीदार हों।",
+      "title_hi": "तटीय भारत में जलवायु अनुकूलन",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc02_q1",
           "q": "Name three climate risks facing India's coastline as per the passage.",
-          "q_hi": "Name three climate risks facing India's coastline as per the passage.",
+          "q_hi": "गद्यांश के अनुसार भारत की तटरेखा के सामने तीन जलवायु जोखिम बताइए।",
           "model": "Rising sea levels, intensifying cyclones, and saltwater intrusion.",
-          "model_hi": "Rising sea levels, intensifying cyclones, and saltwater intrusion."
+          "model_hi": "बढ़ता समुद्री स्तर, तीव्र होते चक्रवात और खारे पानी का अतिक्रमण।"
         },
         {
           "id": "rc02_q2",
           "q": "Which groups are described as facing the sharpest shocks?",
-          "q_hi": "Which groups are described as facing the sharpest shocks?",
+          "q_hi": "किन समूहों को सबसे तेज़ झटके झेलने वाले बताया गया है?",
           "model": "Fishing communities and informal workers.",
-          "model_hi": "Fishing communities and informal workers."
+          "model_hi": "मछुआरा समुदाय और अनौपचारिक श्रमिक।"
         },
         {
           "id": "rc02_q3",
           "q": "What dual approach can improve community ownership of adaptation?",
-          "q_hi": "What dual approach can improve community ownership of adaptation?",
+          "q_hi": "अनुकूलन के सामुदायिक स्वामित्व को सुधारने वाला दोहरा दृष्टिकोण क्या है?",
           "model": "Integrating traditional ecological knowledge with scientific forecasting.",
-          "model_hi": "Integrating traditional ecological knowledge with scientific forecasting."
+          "model_hi": "पारंपरिक पारिस्थितिक ज्ञान को वैज्ञानिक पूर्वानुमान से जोड़ना।"
         },
         {
           "id": "rc02_q4",
           "q": "Why does the author call coastal resilience a development issue?",
-          "q_hi": "Why does the author call coastal resilience a development issue?",
+          "q_hi": "लेखक तटीय लचीलापन को विकास मुद्दा क्यों कहता है?",
           "model": "Because protecting coasts protects jobs, food security, and national infrastructure.",
-          "model_hi": "Because protecting coasts protects jobs, food security, and national infrastructure."
+          "model_hi": "क्योंकि तटों की रक्षा रोज़गार, खाद्य सुरक्षा और राष्ट्रीय अवसंरचना की रक्षा करती है।"
         },
         {
           "id": "rc02_q5",
           "q": "What constraints on adaptation does the passage mention?",
-          "q_hi": "What constraints on adaptation does the passage mention?",
+          "q_hi": "गद्यांश अनुकूलन की कौन-सी बाधाएँ बताता है?",
           "model": "Inadequate adaptation finance and weak technical capacity in local governments.",
-          "model_hi": "Inadequate adaptation finance and weak technical capacity in local governments."
+          "model_hi": "अपर्याप्त अनुकूलन वित्त और स्थानीय सरकारों में कमज़ोर तकनीकी क्षमता।"
         }
-      ]
+      ],
+      "theme_hi": "पर्यावरण",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc03",
@@ -150,40 +154,42 @@
           "model": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two)."
         }
       ],
-      "passage_hi": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
-      "title_hi": "The Gig Economy and Social Protection",
+      "passage_hi": "प्लेटफ़ॉर्म-आधारित कार्य लचीलापन और नई आय धाराएँ प्रदान करता है, विशेषकर युवाओं और महिलाओं के लिए जो अंशकालिक अवसर खोजते हैं। राइडर, डिलीवरी पार्टनर और फ्रीलांसर बढ़ते कार्यबल का हिस्सा हैं जो पारंपरिक नियोक्ता-कर्मचारी मॉडल से बाहर बैठते हैं। यह अस्पष्टता सामाजिक सुरक्षा को जटिल बनाती है: स्वास्थ्य बीमा, दुर्घटना कवर या कौशल उन्नयन का खर्च कौन वहन करे? कुछ प्लेटफ़ॉर्म सूक्ष्म-बीमा और प्रशिक्षण आज़माते हैं; नियामक ऐसे कोड तलाशते हैं जो उद्यमिता नष्ट किए बिना प्लेटफ़ॉर्म श्रमिकों को मान्यता दें। चुनौती संतुलन की है। अति-नियमन अवसर घटा सकता है; कम-नियमन अनिश्चितता बढ़ा सकता है। व्यावहारिक मार्ग पोर्टेबल लाभ, पारदर्शी अनुबंध, विवाद समाधान और अपने प्रदर्शन संबंधी डेटा तक श्रमिक पहुँच को जोड़ता है। काम का भविष्य पूर्णतः औपचारिक या पूर्णतः गिग नहीं होगा—वह एक सातत्य होगा जिसे नीति को निष्पक्षता के साथ नेविगेट करना होगा। कौशल प्रमाणन, सामूहिक सौदेबाजी के नए रूप और जिला-स्तरीय सहायता केंद्र भी इस संतुलन में सहायक हो सकते हैं।",
+      "title_hi": "गिग अर्थव्यवस्था और सामाजिक सुरक्षा",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc03_q1",
           "q": "What advantage of gig work does the passage emphasise?",
-          "q_hi": "What advantage of gig work does the passage emphasise?",
+          "q_hi": "गद्यांश गिग कार्य का कौन-सा लाभ रेखांकित करता है?",
           "model": "Flexibility and new income streams, especially for youth and women seeking part-time work.",
-          "model_hi": "Flexibility and new income streams, especially for youth and women seeking part-time work."
+          "model_hi": "लचीलापन और नई आय धाराएँ, विशेषकर अंशकालिक कार्य चाहने वाले युवाओं और महिलाओं के लिए।"
         },
         {
           "id": "rc03_q2",
           "q": "Why is social protection complicated for platform workers?",
-          "q_hi": "Why is social protection complicated for platform workers?",
+          "q_hi": "प्लेटफ़ॉर्म श्रमिकों के लिए सामाजिक सुरक्षा जटिल क्यों है?",
           "model": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training.",
-          "model_hi": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training."
+          "model_hi": "वे पारंपरिक नियोक्ता-कर्मचारी मॉडल से बाहर हैं, जिससे बीमा और प्रशिक्षण के वित्तपोषण पर अस्पष्टता बनती है।"
         },
         {
           "id": "rc03_q3",
           "q": "What risk does over-regulation pose according to the author?",
-          "q_hi": "What risk does over-regulation pose according to the author?",
+          "q_hi": "लेखक के अनुसार अति-नियमन का क्या जोखिम है?",
           "model": "It may shrink opportunities / entrepreneurship.",
-          "model_hi": "It may shrink opportunities / entrepreneurship."
+          "model_hi": "यह अवसर / उद्यमिता घटा सकता है।"
         },
         {
           "id": "rc03_q4",
           "q": "Suggest two elements of the \"pragmatic path\" mentioned.",
-          "q_hi": "Suggest two elements of the \"pragmatic path\" mentioned.",
+          "q_hi": "उल्लिखित \"व्यावहारिक मार्ग\" के दो तत्व सुझाइए।",
           "model": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two).",
-          "model_hi": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two)."
+          "model_hi": "पोर्टेबल लाभ, पारदर्शी अनुबंध, विवाद समाधान, श्रमिक-सुलभ प्रदर्शन डेटा (कोई दो)।"
         }
-      ]
+      ],
+      "theme_hi": "अर्थव्यवस्था",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc04",
@@ -208,40 +214,42 @@
           "model": "Whether schools, hospitals, and roads work."
         }
       ],
-      "passage_hi": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
-      "title_hi": "Federalism Under Stress",
+      "passage_hi": "भारत का संविधान मजबूत केंद्र के साथ राज्यों को महत्वपूर्ण स्वायत्तता देता है—इस मॉडल को अक्सर अर्ध-संघीय कहा जाता है। व्यवहार में राजकोषीय हस्तांतरण, समवर्ती सूची के विषय और आपातकालीन प्रावधान निरंतर बातचीत पैदा करते हैं। सहकारी संघवाद तब फलता-फूलता है जब GST परिषद और अंतर-राज्य परिषद जैसी संस्थाएँ विश्वास के साथ काम करें। प्रतिस्पर्धी संघवाद सुधार को प्रोत्साहित कर सकता है जब राज्य व्यापार सुगमता सुधारने की होड़ करें। तनाव तब प्रकट होता है जब राजनीतिक प्रोत्साहन अलग हों: योजनाओं पर दोषारोपण, कर हिस्से पर विवाद या असमान आपदा प्रतिक्रिया। स्वस्थ संघवाद संघर्ष समाप्त नहीं करता; वह संघर्ष को नियमों, डेटा और संवाद के माध्यम से चलाता है। नागरिक संघवाद को सिद्धांत के रूप में नहीं, बल्कि इस रूप में अनुभव करते हैं कि स्कूल, अस्पताल और सड़कें काम करती हैं या नहीं। इसलिए राज्य क्षमता मजबूत करना उतना ही महत्वपूर्ण है जितना केंद्र-राज्य सीमाएँ स्पष्ट करना। वित्तीय अनुशासन, डेटा साझाकरण और आपदा समन्वय विश्वास बढ़ाने वाले व्यावहारिक क्षेत्र हैं।",
+      "title_hi": "तनाव में संघवाद",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc04_q1",
           "q": "How does the passage describe India's federal model?",
-          "q_hi": "How does the passage describe India's federal model?",
+          "q_hi": "गद्यांश भारत के संघीय मॉडल का वर्णन कैसे करता है?",
           "model": "Quasi-federal: a strong Centre with significant State autonomy.",
-          "model_hi": "Quasi-federal: a strong Centre with significant State autonomy."
+          "model_hi": "अर्ध-संघीय: मजबूत केंद्र के साथ राज्यों की महत्वपूर्ण स्वायत्तता।"
         },
         {
           "id": "rc04_q2",
           "q": "Distinguish cooperative and competitive federalism as used here.",
-          "q_hi": "Distinguish cooperative and competitive federalism as used here.",
+          "q_hi": "यहाँ प्रयुक्त सहकारी और प्रतिस्पर्धी संघवाद में अंतर स्पष्ट कीजिए।",
           "model": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business.",
-          "model_hi": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business."
+          "model_hi": "सहकारी: विश्वास-आधारित संयुक्त संस्थाएँ (जैसे GST परिषद)। प्रतिस्पर्धी: निवेश/व्यापार सुगमता के लिए राज्यों द्वारा सुधार।"
         },
         {
           "id": "rc04_q3",
           "q": "When does stress in federalism appear?",
-          "q_hi": "When does stress in federalism appear?",
+          "q_hi": "संघवाद में तनाव कब प्रकट होता है?",
           "model": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response.",
-          "model_hi": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response."
+          "model_hi": "जब राजनीतिक प्रोत्साहन अलग हों—दोषारोपण, कर-हिस्से विवाद, असमान आपदा प्रतिक्रिया।"
         },
         {
           "id": "rc04_q4",
           "q": "What do citizens experience as the real test of federalism?",
-          "q_hi": "What do citizens experience as the real test of federalism?",
+          "q_hi": "नागरिक संघवाद की वास्तविक परीक्षा के रूप में क्या अनुभव करते हैं?",
           "model": "Whether schools, hospitals, and roads work.",
-          "model_hi": "Whether schools, hospitals, and roads work."
+          "model_hi": "यह कि स्कूल, अस्पताल और सड़कें काम करती हैं या नहीं।"
         }
-      ]
+      ],
+      "theme_hi": "राजव्यवस्था",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc05",
@@ -266,480 +274,504 @@
           "model": "Pause, verify, and refuse to become a node in a rumour chain."
         }
       ],
-      "passage_hi": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
-      "title_hi": "Misinformation and Public Order",
+      "passage_hi": "अफवाहें तथ्यों से तेज़ यात्रा करती हैं। नेटवर्कयुक्त समाज में एक अग्रेषित संदेश सत्यापन से पहले दहशत, बहिष्कार या हिंसा भड़का सकता है। प्लेटफ़ॉर्म पहुँच बढ़ाते हैं; गुमनामी जवाबदेही घटाती है। फिर भी अकेला सेंसरशिप एक कठोर उपकरण है जो वैध अभिव्यक्ति को भी दबा सकता है। लचीली प्रतिक्रिया तीन परतों को मिलाती है: प्लेटफ़ॉर्म डिज़ाइन जो असत्यापित दावों की वायरलता धीमी करे, जानबूझकर उकसावे के विरुद्ध कानूनी उपकरण, और नागरिक मीडिया साक्षरता जो साझा करने से पहले ठहराव पैदा करे। पुलिस और जिला प्रशासन तनाव शांत करने के लिए तथ्य-जाँच प्रकोष्ठ और सामुदायिक प्रभावशाली व्यक्तियों का उपयोग बढ़ा रहे हैं। नागरिकों का नैतिक कर्तव्य सरल पर कठिन है: रुकें, सत्यापित करें, और अफवाह श्रृंखला की कड़ी बनने से इनकार करें। डिजिटल युग में लोक व्यवस्था व्यक्तिगत संयम से शुरू होती है। स्कूलों में मीडिया साक्षरता और स्थानीय भाषा में तथ्य-जाँच पहुँच इस संस्कृति को मजबूत कर सकती है।",
+      "title_hi": "गलत सूचना और लोक व्यवस्था",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc05_q1",
           "q": "Why do rumours pose a special challenge today?",
-          "q_hi": "Why do rumours pose a special challenge today?",
+          "q_hi": "आज अफवाहें विशेष चुनौती क्यों पैदा करती हैं?",
           "model": "They travel faster than facts; networked forwarding can trigger harm before verification.",
-          "model_hi": "They travel faster than facts; networked forwarding can trigger harm before verification."
+          "model_hi": "वे तथ्यों से तेज़ फैलती हैं; नेटवर्क अग्रेषण सत्यापन से पहले नुकसान पहुँचा सकता है।"
         },
         {
           "id": "rc05_q2",
           "q": "Why is censorship alone insufficient?",
-          "q_hi": "Why is censorship alone insufficient?",
+          "q_hi": "अकेला सेंसरशिप पर्याप्त क्यों नहीं है?",
           "model": "It is blunt and can chill legitimate speech.",
-          "model_hi": "It is blunt and can chill legitimate speech."
+          "model_hi": "यह कठोर है और वैध अभिव्यक्ति को दबा सकता है।"
         },
         {
           "id": "rc05_q3",
           "q": "List the three layers of a resilient response mentioned.",
-          "q_hi": "List the three layers of a resilient response mentioned.",
+          "q_hi": "लचीली प्रतिक्रिया की उल्लिखित तीन परतें सूचीबद्ध कीजिए।",
           "model": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy.",
-          "model_hi": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy."
+          "model_hi": "असत्यापित वायरलता धीमी करने वाला प्लेटफ़ॉर्म डिज़ाइन; जानबूझकर उकसावे के विरुद्ध कानूनी उपकरण; नागरिक मीडिया साक्षरता।"
         },
         {
           "id": "rc05_q4",
           "q": "What ethical duty does the author assign to citizens?",
-          "q_hi": "What ethical duty does the author assign to citizens?",
+          "q_hi": "लेखक नागरिकों को कौन-सा नैतिक कर्तव्य सौंपता है?",
           "model": "Pause, verify, and refuse to become a node in a rumour chain.",
-          "model_hi": "Pause, verify, and refuse to become a node in a rumour chain."
+          "model_hi": "रुकें, सत्यापित करें, और अफवाह श्रृंखला की कड़ी बनने से इनकार करें।"
         }
-      ]
+      ],
+      "theme_hi": "समाज",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc06",
       "title": "Space Economy and Strategic Tech",
-      "title_hi": "Space Economy and Strategic Tech",
+      "title_hi": "अंतरिक्ष अर्थव्यवस्था और रणनीतिक तकनीक",
       "theme": "Science",
       "passage": "India's space programme has moved from pure science to commercial launch services and satellite applications for agriculture, disaster warning, and connectivity. Private startups now join ISRO's ecosystem, creating jobs and export potential. Strategic technologies, however, demand careful dual-use controls and resilient supply chains. International partnerships expand capability but also raise questions of autonomy. Investing in STEM education and ground infrastructure ensures that space is not only a prestige project but a public utility for development.",
-      "passage_hi": "India's space programme has moved from pure science to commercial launch services and satellite applications for agriculture, disaster warning, and connectivity. Private startups now join ISRO's ecosystem, creating jobs and export potential. Strategic technologies, however, demand careful dual-use controls and resilient supply chains. International partnerships expand capability but also raise questions of autonomy. Investing in STEM education and ground infrastructure ensures that space is not only a prestige project but a public utility for development.",
+      "passage_hi": "भारत का अंतरिक्ष कार्यक्रम शुद्ध विज्ञान से आगे बढ़कर वाणिज्यिक प्रक्षेपण सेवाओं और कृषि, आपदा चेतावनी तथा कनेक्टिविटी के लिए उपग्रह अनुप्रयोगों तक पहुँच गया है। निजी स्टार्टअप अब ISRO की पारिस्थितिकी से जुड़कर रोज़गार और निर्यात क्षमता बना रहे हैं। यह बदलाव केवल तकनीकी गौरव नहीं, बल्कि विकास नीति का हिस्सा है: सटीक मौसम पूर्वानुमान, फसल निगरानी और दूरस्थ क्षेत्रों में कनेक्टिविटी सार्वजनिक सेवाओं को बेहतर बनाती है। फिर भी रणनीतिक तकनीकें सावधानीपूर्ण दोहरे-उपयोग नियंत्रण और लचीली आपूर्ति श्रृंखलाएँ माँगती हैं। अंतरराष्ट्रीय साझेदारियाँ क्षमता बढ़ाती हैं, पर स्वायत्तता के प्रश्न भी उठाती हैं—कौन-सी तकनीक स्वयं विकसित करें और कहाँ सहयोग करें, यह नीति चुनाव है। STEM शिक्षा, अनुसंधान प्रयोगशालाएँ और ग्राउंड अवसंरचना में निवेश सुनिश्चित करता है कि अंतरिक्ष केवल प्रतिष्ठा परियोजना न रहकर विकास का सार्वजनिक उपयोग बने। साइबर सुरक्षा, डेटा साझाकरण मानक और छोटे उद्यमों के लिए अवसर भी पारिस्थितिकी को समावेशी बनाते हैं। इस प्रकार अंतरिक्ष अर्थव्यवस्था रणनीतिक स्वायत्तता और समावेशी विकास दोनों से जुड़ी है। नीति को नवाचार प्रोत्साहित करते हुए सुरक्षा और सार्वजनिक हित का संतुलन रखना चाहिए।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc06_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that space economy and strategic tech matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that space economy and strategic tech matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "भारत की अंतरिक्ष अर्थव्यवस्था वाणिज्यिक और विकास अनुप्रयोगों तक फैल रही है। स्थायी लाभ के लिए स्वायत्तता, आपूर्ति सुरक्षा और STEM क्षमता के साथ संतुलित नीति आवश्यक है।"
         },
         {
           "id": "rc06_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: निजी स्टार्टअप, निर्यात और उपग्रह अनुप्रयोग। चुनौती: दोहरे-उपयोग नियंत्रण, आपूर्ति श्रृंखला और स्वायत्तता के प्रश्न।"
         },
         {
           "id": "rc06_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "गद्यांश के अनुसार नागरिकों/समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "STEM शिक्षा और कौशल से मानव पूंजी बनाना; अंतरिक्ष सेवाओं (कृषि/आपदा) के अंतिम उपयोगकर्ता के रूप में लाभ उठाना।"
         },
         {
           "id": "rc06_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "लेखक के स्वर के अनुरूप व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "नवाचार के साथ सुरक्षा मानक, शिक्षा निवेश और सार्वजनिक उपयोग पर बल देते हुए संतुलित नीति।"
         }
-      ]
+      ],
+      "theme_hi": "विज्ञान",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc07",
       "title": "Public Health After Pandemics",
-      "title_hi": "Public Health After Pandemics",
+      "title_hi": "महामारियों के बाद सार्वजनिक स्वास्थ्य",
       "theme": "Health",
       "passage": "Pandemics exposed both strengths and gaps in India's health system: rapid vaccine manufacturing capacity on one side, and uneven primary care and oxygen logistics on the other. Building resilience means strengthening district hospitals, disease surveillance, and community health workers. Health is also economic policy—productive workforces need preventive care. One Health approaches that link human, animal, and environmental health help prevent future zoonoses. Equity must guide every reform so that rural and urban poor are not last in line.",
-      "passage_hi": "Pandemics exposed both strengths and gaps in India's health system: rapid vaccine manufacturing capacity on one side, and uneven primary care and oxygen logistics on the other. Building resilience means strengthening district hospitals, disease surveillance, and community health workers. Health is also economic policy—productive workforces need preventive care. One Health approaches that link human, animal, and environmental health help prevent future zoonoses. Equity must guide every reform so that rural and urban poor are not last in line.",
+      "passage_hi": "महामारियों ने भारत की स्वास्थ्य प्रणाली की शक्तियाँ और कमियाँ दोनों उजागर कीं: एक ओर तेज़ वैक्सीन विनिर्माण क्षमता, दूसरी ओर असमान प्राथमिक देखभाल और ऑक्सीजन लॉजिस्टिक्स। लचीलापन बनाने का अर्थ है जिला अस्पताल, रोग निगरानी और सामुदायिक स्वास्थ्य कार्यकर्ताओं को मजबूत करना। स्वास्थ्य आर्थिक नीति भी है—उत्पादक कार्यबल को निवारक देखभाल चाहिए। वन हेल्थ दृष्टिकोण जो मानव, पशु और पर्यावरणीय स्वास्थ्य को जोड़ते हैं, भविष्य के ज़ूनोसिस रोकने में मदद करते हैं। प्रत्येक सुधार में समानता मार्गदर्शक होनी चाहिए ताकि ग्रामीण और शहरी गरीब कतार में अंतिम न रहें। स्वास्थ्य डेटा प्रणालियाँ, आपूर्ति श्रृंखला भंडार और आपातकालीन ड्रिल नियमित तैयारी का हिस्सा बनें। मानसिक स्वास्थ्य और गैर-संचारी रोगों को भी महामारी के बाद की प्राथमिकताओं में जगह मिलनी चाहिए। सार्वजनिक स्वास्थ्य निवेश केवल संकट प्रतिक्रिया नहीं, बल्कि दीर्घकालिक मानव पूंजी निर्माण है। समुदाय आधारित निगरानी और भरोसेमंद संचार गलत सूचना के समय जान बचा सकते हैं।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc07_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that public health after pandemics matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that public health after pandemics matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "महामारियों ने स्वास्थ्य प्रणाली की क्षमता और अंतराल दोनों दिखाए। लचीलापन जिला क्षमता, निगरानी, समानता और वन हेल्थ दृष्टिकोण से आता है।"
         },
         {
           "id": "rc07_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: वैक्सीन विनिर्माण क्षमता। चुनौती: असमान प्राथमिक देखभाल और लॉजिस्टिक्स अंतराल।"
         },
         {
           "id": "rc07_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "गद्यांश में समुदायों/नागरिकों की क्या भूमिका झलकती है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "सामुदायिक स्वास्थ्य कार्यकर्ता और भरोसेमंद संचार के माध्यम से निगरानी व सेवा पहुँच में भूमिका।"
         },
         {
           "id": "rc07_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "लेखक के स्वर के अनुरूप व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "जिला अस्पताल, निगरानी, समानता और वन हेल्थ को मजबूत करते हुए निवारक सार्वजनिक स्वास्थ्य निवेश।"
         }
-      ]
+      ],
+      "theme_hi": "स्वास्थ्य",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc08",
       "title": "Sports Culture and National Soft Power",
-      "title_hi": "Sports Culture and National Soft Power",
+      "title_hi": "खेल संस्कृति और राष्ट्रीय सॉफ्ट पावर",
       "theme": "Society",
       "passage": "Sport builds character, community, and national pride. India's rising medals tally reflects better coaching systems and private sponsorship, yet grassroots facilities remain uneven. Gender inclusion and para-sports expand the meaning of excellence. Hosting events can boost tourism and infrastructure if planning is transparent and sustainable. Beyond medals, a sporting culture that values participation over only podium finishes strengthens public health and social cohesion.",
-      "passage_hi": "Sport builds character, community, and national pride. India's rising medals tally reflects better coaching systems and private sponsorship, yet grassroots facilities remain uneven. Gender inclusion and para-sports expand the meaning of excellence. Hosting events can boost tourism and infrastructure if planning is transparent and sustainable. Beyond medals, a sporting culture that values participation over only podium finishes strengthens public health and social cohesion.",
+      "passage_hi": "खेल चरित्र, समुदाय और राष्ट्रीय गर्व का निर्माण करते हैं। भारत की बढ़ती पदक संख्या बेहतर कोचिंग प्रणालियों और निजी प्रायोजन को दर्शाती है, फिर भी जमीनी सुविधाएँ असमान हैं। लैंगिक समावेशन और पैरा-स्पोर्ट्स उत्कृष्टता के अर्थ का विस्तार करते हैं। आयोजनों की मेजबानी पर्यटन और अवसंरचना बढ़ा सकती है यदि नियोजन पारदर्शी और सतत हो। पदकों से परे, ऐसी खेल संस्कृति जो केवल पोडियम नहीं बल्कि भागीदारी को महत्व दे, सार्वजनिक स्वास्थ्य और सामाजिक एकजुटता मजबूत करती है। स्कूल खेल, सुरक्षित प्रशिक्षण स्थान और पोषण सहायता युवा प्रतिभा को आगे लाती है। खेल कूटनीति सांस्कृतिक संपर्क और सॉफ्ट पावर भी बढ़ाती है। नीति को अभिजात केंद्रों के साथ ग्रामीण और छोटे शहर की सुविधाओं पर समान ध्यान देना चाहिए। अंततः खेल राष्ट्र निर्माण का मानवीय चेहरा है—अनुशासन, सम्मान और सामूहिक प्रयास का।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc08_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that sports culture and national soft power matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that sports culture and national soft power matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "खेल सॉफ्ट पावर, स्वास्थ्य और सामाजिक एकजुटता बढ़ाते हैं। पदकों के साथ जमीनी सुविधाएँ, समावेशन और सतत मेजबानी आवश्यक हैं।"
         },
         {
           "id": "rc08_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: बेहतर कोचिंग, प्रायोजन और मेजबानी से पर्यटन। चुनौती: असमान जमीनी सुविधाएँ।"
         },
         {
           "id": "rc08_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "गद्यांश में समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "भागीदारी-केंद्रित खेल संस्कृति, स्कूल खेल और स्थानीय सुविधाओं के माध्यम से समुदाय स्वास्थ्य व एकजुटता बनाते हैं।"
         },
         {
           "id": "rc08_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "जमीनी सुविधाएँ, लैंगिक/पैरा समावेशन और पारदर्शी सतत आयोजन नियोजन पर बल।"
         }
-      ]
+      ],
+      "theme_hi": "समाज",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc09",
       "title": "Artificial Intelligence and the Future of Work",
-      "title_hi": "Artificial Intelligence and the Future of Work",
+      "title_hi": "कृत्रिम बुद्धिमत्ता और काम का भविष्य",
       "theme": "Tech",
       "passage": "Artificial intelligence can automate routine tasks and augment professional judgment. For developing economies, the opportunity is leapfrogging in services and diagnostics; the risk is concentrated job displacement without reskilling pathways. Policy should encourage innovation while mandating transparency in high-stakes decisions such as credit and hiring. Public datasets, ethical guidelines, and lifelong learning ecosystems will decide whether AI widens or narrows opportunity.",
-      "passage_hi": "Artificial intelligence can automate routine tasks and augment professional judgment. For developing economies, the opportunity is leapfrogging in services and diagnostics; the risk is concentrated job displacement without reskilling pathways. Policy should encourage innovation while mandating transparency in high-stakes decisions such as credit and hiring. Public datasets, ethical guidelines, and lifelong learning ecosystems will decide whether AI widens or narrows opportunity.",
+      "passage_hi": "कृत्रिम बुद्धिमत्ता नियमित कार्यों को स्वचालित कर सकती है और पेशेवर निर्णय को समर्थन दे सकती है। विकासशील अर्थव्यवस्थाओं के लिए अवसर सेवाओं और निदान में छलांग लगाने का है; जोखिम पुनःकौशल मार्गों के बिना केंद्रित रोज़गार विस्थापन का है। नीति को नवाचार प्रोत्साहित करते हुए ऋण और भर्ती जैसे उच्च-दांव निर्णयों में पारदर्शिता अनिवार्य करनी चाहिए। सार्वजनिक डेटासेट, नैतिक दिशानिर्देश और आजीवन शिक्षा पारिस्थितिकी तय करेंगे कि AI अवसर बढ़ाए या घटाए। MSME के लिए किफायती उपकरण, शिक्षक प्रशिक्षण और स्थानीय भाषा AI समावेशन के लिए महत्वपूर्ण हैं। श्रम बाजार नीतियों को प्रभावित क्षेत्रों में सामाजिक सुरक्षा और पुनःप्रशिक्षण से जोड़ना चाहिए। अंततः AI साधन है; मूल्य, विनियमन और मानव क्षमता तय करते हैं कि वह सार्वजनिक हित की सेवा करे। परीक्षा उत्तरों में संतुलित स्वर—उत्साह और सावधानी दोनों—अपेक्षित है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc09_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that artificial intelligence and the future of work matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that artificial intelligence and the future of work matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "AI उत्पादकता बढ़ा सकता है पर रोज़गार विस्थापन का जोखिम भी रखता है। पारदर्शिता, नैतिक दिशानिर्देश और आजीवन शिक्षा तय करती हैं कि लाभ समावेशी हों।"
         },
         {
           "id": "rc09_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: सेवाओं/निदान में छलांग। चुनौती: बिना पुनःकौशल के रोज़गार विस्थापन।"
         },
         {
           "id": "rc09_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "नागरिकों/समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "आजीवन शिक्षा और डिजिटल कौशल अपनाकर परिवर्तन के अनुकूल होना; जवाबदेह AI की माँग करना।"
         },
         {
           "id": "rc09_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "नवाचार के साथ उच्च-दांव निर्णयों में पारदर्शिता, नैतिक दिशानिर्देश और पुनःकौशल पारिस्थितिकी।"
         }
-      ]
+      ],
+      "theme_hi": "तकनीक",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc10",
       "title": "River Rejuvenation and Community Stewardship",
-      "title_hi": "River Rejuvenation and Community Stewardship",
+      "title_hi": "नदी पुनरुद्धार और सामुदायिक संरक्षण",
       "theme": "Environment",
       "passage": "Rivers are cultural and ecological lifelines. Pollution, encroachment, and sand mining degrade them faster than engineering projects alone can restore. Successful rejuvenation combines sewage treatment, wetland protection, and behavioural change. Community stewardship—local monitoring, religious institutions as allies, and school programmes—creates ownership. Interstate coordination is essential because rivers ignore administrative boundaries. Clean rivers are indicators of civilisational care for the commons.",
-      "passage_hi": "Rivers are cultural and ecological lifelines. Pollution, encroachment, and sand mining degrade them faster than engineering projects alone can restore. Successful rejuvenation combines sewage treatment, wetland protection, and behavioural change. Community stewardship—local monitoring, religious institutions as allies, and school programmes—creates ownership. Interstate coordination is essential because rivers ignore administrative boundaries. Clean rivers are indicators of civilisational care for the commons.",
+      "passage_hi": "नदियाँ सांस्कृतिक और पारिस्थितिक जीवनरेखाएँ हैं। प्रदूषण, अतिक्रमण और बालू खनन उन्हें इतनी तेज़ी से क्षय करते हैं कि केवल इंजीनियरिंग परियोजनाएँ पुनर्स्थापन नहीं कर सकतीं। सफल पुनरुद्धार सीवेज उपचार, आर्द्रभूमि संरक्षण और व्यवहार परिवर्तन को जोड़ता है। सामुदायिक संरक्षण—स्थानीय निगरानी, सहयोगी धार्मिक संस्थान और स्कूल कार्यक्रम—स्वामित्व पैदा करता है। अंतर्राज्यीय समन्वय आवश्यक है क्योंकि नदियाँ प्रशासनिक सीमाएँ नहीं मानतीं। स्वच्छ नदियाँ सार्वजनिक संसाधनों के प्रति सभ्यतागत देखभाल के संकेतक हैं। औद्योगिक बहिःस्राव नियंत्रण, ठोस अपशिष्ट प्रबंधन और बाढ़ मैदान संरक्षण भी एजेंडे का हिस्सा होने चाहिए। नमामि गंगे जैसे कार्यक्रम ढाँचा देते हैं, पर परिणाम स्थानीय क्रियान्वयन और नागरिक भागीदारी पर निर्भर करते हैं। जल गुणवत्ता डेटा सार्वजनिक हो तो जवाबदेही बढ़ती है। नदी स्वास्थ्य अंततः शासन, संस्कृति और पर्यावरण का संगम है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc10_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that river rejuvenation and community stewardship matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that river rejuvenation and community stewardship matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "नदी पुनरुद्धार केवल इंजीनियरिंग नहीं, सीवेज उपचार, व्यवहार परिवर्तन और सामुदायिक स्वामित्व माँगता है। अंतर्राज्यीय समन्वय और सार्वजनिक जवाबदेही आवश्यक हैं।"
         },
         {
           "id": "rc10_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: सामुदायिक संरक्षण और स्कूल कार्यक्रम। चुनौती: प्रदूषण, अतिक्रमण और बालू खनन।"
         },
         {
           "id": "rc10_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "नागरिकों/समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "स्थानीय निगरानी, व्यवहार परिवर्तन और स्वामित्व के माध्यम से संरक्षण में सक्रिय भागीदारी।"
         },
         {
           "id": "rc10_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "सीवेज उपचार, आर्द्रभूमि संरक्षण, सामुदायिक निगरानी और अंतर्राज्यीय समन्वय का संयोजन।"
         }
-      ]
+      ],
+      "theme_hi": "पर्यावरण",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc11",
       "title": "Judicial Delays and Access to Justice",
-      "title_hi": "Judicial Delays and Access to Justice",
+      "title_hi": "न्यायिक विलंब और न्याय तक पहुँच",
       "theme": "Governance",
       "passage": "Justice delayed is justice denied remains a lived reality for many litigants. Case pendency strains courts, businesses, and citizens seeking remedies. Technology—e-filing, virtual hearings, and case management—can help, but vacancies and procedural complexity matter more. Alternative dispute resolution and specialised tribunals ease load when well designed. Access to justice also means affordable legal aid and understandable procedures for the poor. Speedy, fair justice underpins the rule of law.",
-      "passage_hi": "Justice delayed is justice denied remains a lived reality for many litigants. Case pendency strains courts, businesses, and citizens seeking remedies. Technology—e-filing, virtual hearings, and case management—can help, but vacancies and procedural complexity matter more. Alternative dispute resolution and specialised tribunals ease load when well designed. Access to justice also means affordable legal aid and understandable procedures for the poor. Speedy, fair justice underpins the rule of law.",
+      "passage_hi": "न्याय में देरी न्याय से वंचित के समान है—यह कई वादियों की जीवित वास्तविकता है। लंबित मामले न्यायालयों, व्यवसायों और उपचार चाहने वाले नागरिकों पर दबाव डालते हैं। तकनीक—ई-फाइलिंग, वर्चुअल सुनवाई और केस प्रबंधन—मदद कर सकती है, पर रिक्तियाँ और प्रक्रियात्मक जटिलता अधिक मायने रखती हैं। वैकल्पिक विवाद समाधान और specialised न्यायाधिकरण भार घटाते हैं यदि अच्छी तरह डिज़ाइन हों। न्याय तक पहुँच का अर्थ गरीबों के लिए किफायती विधिक सहायता और समझने योग्य प्रक्रियाएँ भी है। तेज़, निष्पक्ष न्याय विधि शासन का आधार है। न्यायाधीश-जनसंख्या अनुपात सुधारना, बुनियादी अवसंरचना और केस-प्रवाह सुधार नीति प्राथमिकताएँ होनी चाहिए। नागरिकों को भी अनावश्यक मुकदमेबाजी कम करने और मध्यस्थता अपनाने के लिए प्रोत्साहित किया जा सकता है। अंततः न्याय प्रणाली विश्वास की संस्था है; विलंब उस विश्वास को क्षीण करता है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc11_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that judicial delays and access to justice matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that judicial delays and access to justice matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "न्यायिक विलंब विधि शासन और नागरिक विश्वास को कमजोर करता है। तकनीक सहायक है, पर रिक्तियाँ, प्रक्रिया सरलीकरण, ADR और विधिक सहायता अधिक निर्णायक हैं।"
         },
         {
           "id": "rc11_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: ई-फाइलिंग, वर्चुअल सुनवाई, ADR। चुनौती: रिक्तियाँ, प्रक्रिया जटिलता और लंबित मामले।"
         },
         {
           "id": "rc11_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "नागरिकों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "मध्यस्थता अपनाना, अनावश्यक मुकदमेबाजी कम करना और विधिक सहायता प्रणालियों का उपयोग करना।"
         },
         {
           "id": "rc11_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "रिक्तियाँ भरना, प्रक्रिया सरलीकरण, ADR विस्तार और किफायती विधिक सहायता।"
         }
-      ]
+      ],
+      "theme_hi": "शासन",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc12",
       "title": "Tourism, Heritage and Local Economies",
-      "title_hi": "Tourism, Heritage and Local Economies",
+      "title_hi": "पर्यटन, विरासत और स्थानीय अर्थव्यवस्थाएँ",
       "theme": "Economy",
       "passage": "Heritage tourism can convert cultural capital into local livelihoods if communities share benefits. Homestays, crafts, and guided conservation create jobs beyond hotel chains. Over-tourism risks damaging monuments and neighbourhoods; carrying-capacity planning is essential. Skill training for guides and digital marketing help smaller destinations. Sustainable tourism aligns pride in heritage with environmental limits and inclusive growth.",
-      "passage_hi": "Heritage tourism can convert cultural capital into local livelihoods if communities share benefits. Homestays, crafts, and guided conservation create jobs beyond hotel chains. Over-tourism risks damaging monuments and neighbourhoods; carrying-capacity planning is essential. Skill training for guides and digital marketing help smaller destinations. Sustainable tourism aligns pride in heritage with environmental limits and inclusive growth.",
+      "passage_hi": "विरासत पर्यटन सांस्कृतिक पूंजी को स्थानीय आजीविका में बदल सकता है यदि समुदाय लाभ साझा करें। होमस्टे, शिल्प और निर्देशित संरक्षण होटल श्रृंखलाओं से परे रोज़गार बनाते हैं। अति-पर्यटन स्मारकों और पड़ोस को नुकसान पहुँचा सकता है; वहन क्षमता नियोजन आवश्यक है। गाइडों के लिए कौशल प्रशिक्षण और डिजिटल मार्केटिंग छोटे गंतव्यों की मदद करती है। सतत पर्यटन विरासत पर गर्व को पर्यावरणीय सीमाओं और समावेशी विकास से जोड़ता है। स्थानीय स्वशासन, स्वच्छता और यातायात प्रबंधन अनुभव की गुणवत्ता तय करते हैं। नीति को मौसमी निर्भरता घटाने और महिलाओं व कारीगरों की आय बढ़ाने पर ध्यान देना चाहिए। इस प्रकार पर्यटन केवल विदेशी मुद्रा नहीं, बल्कि सामुदायिक गर्व और रोज़गार का माध्यम है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc12_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that tourism, heritage and local economies matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that tourism, heritage and local economies matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "विरासत पर्यटन स्थानीय आजीविका बढ़ा सकता है यदि लाभ साझा हों। अति-पर्यटन रोकने के लिए वहन क्षमता और सतत नियोजन आवश्यक हैं।"
         },
         {
           "id": "rc12_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: होमस्टे, शिल्प, डिजिटल मार्केटिंग। चुनौती: अति-पर्यटन से स्मारक/पड़ोस को नुकसान।"
         },
         {
           "id": "rc12_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "लाभ साझाकरण, होमस्टे/शिल्प और संरक्षण में भागीदारी के माध्यम से स्थानीय स्वामित्व।"
         },
         {
           "id": "rc12_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "वहन क्षमता नियोजन, कौशल प्रशिक्षण और समावेशी सतत पर्यटन।"
         }
-      ]
+      ],
+      "theme_hi": "अर्थव्यवस्था",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc13",
       "title": "Youth Aspirations and Skill Mismatch",
-      "title_hi": "Youth Aspirations and Skill Mismatch",
+      "title_hi": "युवा आकांक्षाएँ और कौशल असंगति",
       "theme": "Society",
       "passage": "India's youth bulge is a demographic opportunity only if skills match market needs. Degrees without employability create frustration; short-term courses without depth create underemployment. Industry-academia partnerships, apprenticeships, and counselling can close gaps. Soft skills, digital fluency, and ethical grounding matter as much as technical certificates. Channeling aspiration into productive enterprise is a national priority for social stability and growth.",
-      "passage_hi": "India's youth bulge is a demographic opportunity only if skills match market needs. Degrees without employability create frustration; short-term courses without depth create underemployment. Industry-academia partnerships, apprenticeships, and counselling can close gaps. Soft skills, digital fluency, and ethical grounding matter as much as technical certificates. Channeling aspiration into productive enterprise is a national priority for social stability and growth.",
+      "passage_hi": "भारत की युवा जनसंख्या जनसांख्यिकीय अवसर तभी है जब कौशल बाज़ार की आवश्यकताओं से मेल खाएँ। रोज़गार क्षमता के बिना डिग्री निराशा पैदा करती है; गहराई के बिना अल्पकालिक पाठ्यक्रम अल्परोज़गार बनाते हैं। उद्योग-अकादमी साझेदारी, अप्रेंटिसशिप और परामर्श अंतराल बंद कर सकते हैं। सॉफ्ट स्किल्स, डिजिटल दक्षता और नैतिक आधार तकनीकी प्रमाणपत्रों जितने ही महत्वपूर्ण हैं। आकांक्षा को उत्पादक उद्यम में बदलना सामाजिक स्थिरता और विकास की राष्ट्रीय प्राथमिकता है। करियर काउंसलिंग, इंटर्नशिप और क्षेत्रीय रोज़गार डेटा युवाओं को सूचित विकल्प देने में मदद करते हैं। महिलाओं की सुरक्षा और गतिशीलता कौशल को रोज़गार में बदलने के लिए आवश्यक हैं। नीति को केवल डिग्री संख्या नहीं, बल्कि सीखने के परिणाम और रोज़गार गुणवत्ता मापनी चाहिए।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc13_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that youth aspirations and skill mismatch matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that youth aspirations and skill mismatch matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "युवा लाभांश तभी फलता है जब कौशल बाज़ार से मेल खाएँ। उद्योग साझेदारी, अप्रेंटिसशिप और सॉफ्ट स्किल्स असंगति दूर करते हैं।"
         },
         {
           "id": "rc13_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: जनसांख्यिकीय युवा बल। चुनौती: डिग्री-रोज़गार और कौशल असंगति।"
         },
         {
           "id": "rc13_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "समुदायों/नागरिकों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "युवा आकांक्षा को कौशल, परामर्श और उद्यमिता के माध्यम से उत्पादक मार्गों में निर्देशित करना।"
         },
         {
           "id": "rc13_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "उद्योग-अकादमी साझेदारी, अप्रेंटिसशिप, परामर्श और परिणाम-आधारित कौशल नीति।"
         }
-      ]
+      ],
+      "theme_hi": "समाज",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc14",
       "title": "Food Security Beyond Calories",
-      "title_hi": "Food Security Beyond Calories",
+      "title_hi": "कैलोरी से परे खाद्य सुरक्षा",
       "theme": "Agriculture",
       "passage": "Food security once meant enough grain. Today it also means nutrition, safety, and climate-resilient supply chains. Public distribution has reduced hunger, yet micronutrient deficiencies persist. Diversifying crops, strengthening cold chains, and empowering women farmers improve outcomes. Biofortification and behavioural nutrition education complement production policies. A secure food system nourishes health and reduces long-term healthcare costs.",
-      "passage_hi": "Food security once meant enough grain. Today it also means nutrition, safety, and climate-resilient supply chains. Public distribution has reduced hunger, yet micronutrient deficiencies persist. Diversifying crops, strengthening cold chains, and empowering women farmers improve outcomes. Biofortification and behavioural nutrition education complement production policies. A secure food system nourishes health and reduces long-term healthcare costs.",
+      "passage_hi": "खाद्य सुरक्षा कभी पर्याप्त अनाज का अर्थ रखती थी। आज इसमें पोषण, सुरक्षा और जलवायु-लचीली आपूर्ति श्रृंखलाएँ भी शामिल हैं। सार्वजनिक वितरण ने भूख घटाई है, फिर भी सूक्ष्म पोषक तत्वों की कमी बनी हुई है। फसल विविधीकरण, कोल्ड चेन सुदृढ़ीकरण और महिला किसानों का सशक्तिकरण परिणाम सुधारते हैं। बायोफोर्टिफिकेशन और व्यवहारिक पोषण शिक्षा उत्पादन नीतियों की पूरक हैं। सुरक्षित खाद्य प्रणाली स्वास्थ्य पोषित करती है और दीर्घकालिक स्वास्थ्य लागत घटाती है। खाद्य अपव्यय कम करना और स्थानीय बाज़ार मजबूत करना भी एजेंडे का हिस्सा हैं। जलवायु झटकों के बीच बीमा और भंडारण गरीब परिवारों की रक्षा करते हैं। इस प्रकार खाद्य सुरक्षा कृषि, स्वास्थ्य और सामाजिक नीति का संगम है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc14_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that food security beyond calories matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that food security beyond calories matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "आधुनिक खाद्य सुरक्षा अनाज से आगे पोषण, सुरक्षा और लचीली आपूर्ति माँगती है। विविधीकरण, कोल्ड चेन और पोषण शिक्षा परिणाम सुधारते हैं।"
         },
         {
           "id": "rc14_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: PDS से भूख कमी, बायोफोर्टिफिकेशन। चुनौती: सूक्ष्म पोषक तत्वों की कमी और जलवायु जोखिम।"
         },
         {
           "id": "rc14_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "महिला किसानों का सशक्तिकरण और व्यवहारिक पोषण शिक्षा के माध्यम से बेहतर आहार अभ्यास।"
         },
         {
           "id": "rc14_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "फसल विविधीकरण, कोल्ड चेन, पोषण शिक्षा और जलवायु-लचीली आपूर्ति श्रृंखलाएँ।"
         }
-      ]
+      ],
+      "theme_hi": "कृषि",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc15",
       "title": "Maritime Security in the Indian Ocean",
-      "title_hi": "Maritime Security in the Indian Ocean",
+      "title_hi": "हिंद महासागर में समुद्री सुरक्षा",
       "theme": "Security",
       "passage": "The Indian Ocean carries energy and trade vital to India's economy. Piracy, illegal fishing, and great-power naval competition shape the maritime commons. India's partnerships, coastal radar chains, and information fusion centres enhance domain awareness. Blue economy goals—ports, fisheries, renewables—require secure seas. Maritime security is thus both a defence and a development agenda, best pursued through cooperation and international law.",
-      "passage_hi": "The Indian Ocean carries energy and trade vital to India's economy. Piracy, illegal fishing, and great-power naval competition shape the maritime commons. India's partnerships, coastal radar chains, and information fusion centres enhance domain awareness. Blue economy goals—ports, fisheries, renewables—require secure seas. Maritime security is thus both a defence and a development agenda, best pursued through cooperation and international law.",
+      "passage_hi": "हिंद महासागर भारत की अर्थव्यवस्था के लिए महत्वपूर्ण ऊर्जा और व्यापार वहन करता है। समुद्री डकैती, अवैध मत्स्यन और महाशक्ति नौसैनिक प्रतिस्पर्धा समुद्री सार्वजनिक क्षेत्र को आकार देते हैं। भारत की साझेदारियाँ, तटीय रडार श्रृंखलाएँ और सूचना संलयन केंद्र क्षेत्र जागरूकता बढ़ाते हैं। ब्लू इकॉनमी लक्ष्य—बंदरगाह, मत्स्य, नवीकरणीय—सुरक्षित समुद्र माँगते हैं। इस प्रकार समुद्री सुरक्षा रक्षा और विकास दोनों का एजेंडा है, जो सहयोग और अंतरराष्ट्रीय कानून से सर्वश्रेष्ठ साधा जाता है। तटीय समुदायों की सुरक्षा, पर्यावरण संरक्षण और आपदा राहत भी इसी ढाँचे का हिस्सा हैं। SAGAR जैसी दृष्टि क्षेत्रीय विश्वास बनाती है। परीक्षा उत्तरों में तथ्यात्मक, शांत और अधिकार-सचेत भाषा अपेक्षित है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc15_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that maritime security in the indian ocean matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that maritime security in the indian ocean matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "हिंद महासागर व्यापार-ऊर्जा मार्गों के कारण रणनीतिक है। समुद्री सुरक्षा सहयोग, कानून और क्षेत्र जागरूकता से रक्षा व विकास दोनों साधती है।"
         },
         {
           "id": "rc15_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: ब्लू इकॉनमी और साझेदारियाँ। चुनौती: डकैती, अवैध मत्स्यन और नौसैनिक प्रतिस्पर्धा।"
         },
         {
           "id": "rc15_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "समुदायों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "तटीय समुदाय आजीविका और पर्यावरण संरक्षण के हितधारक हैं; सुरक्षित समुद्र उनके विकास से जुड़े हैं।"
         },
         {
           "id": "rc15_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "क्षेत्र जागरूकता, क्षेत्रीय साझेदारी और अंतरराष्ट्रीय कानून पर आधारित सहयोगात्मक समुद्री सुरक्षा।"
         }
-      ]
+      ],
+      "theme_hi": "सुरक्षा",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     },
     {
       "id": "rc16",
       "title": "Urban Informal Sector and Dignity of Labour",
-      "title_hi": "Urban Informal Sector and Dignity of Labour",
+      "title_hi": "शहरी अनौपचारिक क्षेत्र और श्रम की गरिमा",
       "theme": "Socio-political",
       "passage": "Street vendors, waste pickers, and construction workers sustain city life yet often lack secure tenure, social security, and safety. Formalisation should expand rights without criminalising livelihoods. Identity documents, affordable credit, and vending zones improve dignity. Cities that plan with informal workers become more resilient and humane. Recognising their economic contribution is the first step toward fair urban policy.",
-      "passage_hi": "Street vendors, waste pickers, and construction workers sustain city life yet often lack secure tenure, social security, and safety. Formalisation should expand rights without criminalising livelihoods. Identity documents, affordable credit, and vending zones improve dignity. Cities that plan with informal workers become more resilient and humane. Recognising their economic contribution is the first step toward fair urban policy.",
+      "passage_hi": "सड़क विक्रेता, कचरा बीनने वाले और निर्माण श्रमिक शहरी जीवन चलाते हैं, फिर भी अक्सर सुरक्षित अधिकार, सामाजिक सुरक्षा और सुरक्षा से वंचित रहते हैं। औपचारिकीकरण अधिकार बढ़ाए, आजीविका को अपराधी न बनाए। पहचान दस्तावेज, किफायती ऋण और विक्रय क्षेत्र गरिमा सुधारते हैं। जो शहर अनौपचारिक श्रमिकों के साथ योजना बनाते हैं वे अधिक लचीले और मानवीय बनते हैं। उनके आर्थिक योगदान को पहचानना निष्पक्ष शहरी नीति की पहली सीढ़ी है। स्वच्छता, व्यावसायिक सुरक्षा और बाल श्रम रोकथाम भी एजेंडे में होने चाहिए। महिलाओं की सुरक्षा और शौचालय पहुँच कार्य दिवस की गुणवत्ता तय करती है। शहरी नियोजन में उनकी आवाज़ सुने बिना स्मार्ट सिटी अधूरी रहती है। श्रम की गरिमा संवैधानिक मूल्य और व्यावहारिक शासन दोनों है।",
       "suggestedMinutes": 12,
       "wordGuide": "Answer in 40–80 words each unless asked otherwise",
       "questions": [
         {
           "id": "rc16_q1",
           "q": "Summarise the central argument of the passage in two sentences.",
-          "q_hi": "Summarise the central argument of the passage in two sentences.",
+          "q_hi": "गद्यांश के केंद्रीय तर्क का दो वाक्यों में सार लिखिए।",
           "model": "The passage argues that urban informal sector and dignity of labour matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential.",
-          "model_hi": "The passage argues that urban informal sector and dignity of labour matters for development and governance, and that balanced policy—combining opportunity with equity and capacity—is essential."
+          "model_hi": "अनौपचारिक श्रमिक शहर चलाते हैं पर अक्सर सुरक्षा और सामाजिक सुरक्षा से वंचित हैं। औपचारिकीकरण अधिकार बढ़ाए और आजीविका अपराधीकरण से बचे।"
         },
         {
           "id": "rc16_q2",
           "q": "Identify one opportunity and one challenge mentioned or implied.",
-          "q_hi": "Identify one opportunity and one challenge mentioned or implied.",
+          "q_hi": "एक अवसर और एक चुनौती पहचानिए।",
           "model": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text.",
-          "model_hi": "Opportunity: progress through policy/innovation/partnerships. Challenge: capacity gaps, equity, or implementation constraints discussed in the text."
+          "model_hi": "अवसर: पहचान, ऋण और विक्रय क्षेत्र से गरिमा। चुनौती: असुरक्षित अधिकार और सामाजिक सुरक्षा की कमी।"
         },
         {
           "id": "rc16_q3",
           "q": "What role do citizens or communities play according to the passage?",
-          "q_hi": "What role do citizens or communities play according to the passage?",
+          "q_hi": "समुदायों/श्रमिकों की क्या भूमिका है?",
           "model": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone.",
-          "model_hi": "Communities/citizens are stakeholders whose participation, skills, or stewardship improve outcomes beyond top-down measures alone."
+          "model_hi": "वे आर्थिक योगदानकर्ता और नियोजन के हितधारक हैं; उनकी भागीदारी शहर को लचीला बनाती है।"
         },
         {
           "id": "rc16_q4",
           "q": "Suggest a practical way forward consistent with the author's tone.",
-          "q_hi": "Suggest a practical way forward consistent with the author's tone.",
+          "q_hi": "व्यावहारिक आगे का मार्ग सुझाइए।",
           "model": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness.",
-          "model_hi": "A balanced, inclusive, capacity-building approach that pairs institutions with last-mile implementation and fairness."
+          "model_hi": "अधिकार-आधारित औपचारिकीकरण, विक्रय क्षेत्र, सामाजिक सुरक्षा और श्रमिकों के साथ सहभागी नियोजन।"
         }
-      ]
+      ],
+      "theme_hi": "सामाजिक-राजनीतिक",
+      "wordGuide_hi": "अन्यथा न कहा जाए तो प्रत्येक उत्तर लगभग 40–80 शब्दों में लिखें"
     }
   ]
 }

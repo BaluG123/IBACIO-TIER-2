@@ -164,8 +164,10 @@ Copy this template, fill EN (and HI when ready), save as e.g. `2026-07-21.json`.
 | `date` | Must match filename |
 | `longAnswers` | Prefer **exactly 2** (exam section is 2 × 10) |
 | `comprehension.questions` | 4–6 descriptive Qs |
-| `*_hi` | Optional but recommended for UI language toggle |
+| `*_hi` | **Required for Hindi UI** — real Devanagari, not English copies |
 | Images | Prefer **none** (copyright-safe). Do not add image URLs unless you own rights |
+
+When the app language is Hindi, every `title`, `hints`, `question`, `passage`, `modelAnswer`, and `tipOfDay` is shown from the matching `*_hi` field.
 
 ### Domains / categories (keep consistent)
 

@@ -15,6 +15,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {useNavigation, useRoute} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
+import {getLocalized, localizeLabel} from '../utils/localize';
 
 type EssayTopic = {
   id: string;
@@ -32,12 +33,19 @@ type EssayTopic = {
 const topicsData = require('../assets/essays/topics.json');
 const ALL_TOPICS: EssayTopic[] = topicsData.topics || [];
 
+const DEFAULT_STRUCTURE = [
+  'Introduction (context + thesis)',
+  'Body (2–3 analytical paragraphs with facts)',
+  'Conclusion (balanced way forward)',
+];
+
 export default function EssayTopicScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const route = useRoute<any>();
   const insets = useSafeAreaInsets();
   const [showOutline, setShowOutline] = useState(false);
+  const lang = i18n.language;
 
   const topic = useMemo(
     () => ALL_TOPICS.find(x => x.id === route.params?.topicId),
@@ -47,10 +55,17 @@ export default function EssayTopicScreen() {
   if (!topic) {
     return (
       <View style={[styles.container, styles.center]}>
-        <Text style={{color: '#fff'}}>Topic not found</Text>
+        <Text style={{color: '#fff'}}>{t('topic_not_found')}</Text>
       </View>
     );
   }
+
+  const title = getLocalized<string>(topic, 'title', lang);
+  const difficulty = getLocalized<string>(topic, 'difficulty', lang);
+  const hints = getLocalized<string[]>(topic, 'hints', lang) || [];
+  const structure =
+    getLocalized<string[]>(topic, 'structure', lang) || DEFAULT_STRUCTURE;
+  const outline = getLocalized<string>(topic, 'outline', lang);
 
   return (
     <View style={styles.container}>
@@ -75,14 +90,14 @@ export default function EssayTopicScreen() {
           padding: wp('4%'),
           paddingBottom: insets.bottom + hp('4%'),
         }}>
-        <Text style={styles.cat}>{topic.category}</Text>
-        <Text style={styles.title}>{topic.title}</Text>
+        <Text style={styles.cat}>{localizeLabel(topic.category, lang)}</Text>
+        <Text style={styles.title}>{title}</Text>
 
         <View style={styles.metaRow}>
           <View style={styles.metaChip}>
             <Icon name="speedometer" size={wp('4%')} color="#fbbf24" />
             <Text style={styles.metaText}>
-              {t('difficulty')}: {topic.difficulty}
+              {t('difficulty')}: {localizeLabel(difficulty, lang)}
             </Text>
           </View>
           <View style={styles.metaChip}>
@@ -93,13 +108,15 @@ export default function EssayTopicScreen() {
           </View>
           <View style={styles.metaChip}>
             <Icon name="timer-outline" size={wp('4%')} color="#10b981" />
-            <Text style={styles.metaText}>{topic.suggestedMinutes} min</Text>
+            <Text style={styles.metaText}>
+              {topic.suggestedMinutes} {t('min_label')}
+            </Text>
           </View>
         </View>
 
         <Text style={styles.section}>{t('hints')}</Text>
         <View style={styles.card}>
-          {(topic.hints || []).map((h, i) => (
+          {hints.map((h, i) => (
             <Text key={i} style={styles.hint}>
               • {h}
             </Text>
@@ -108,11 +125,7 @@ export default function EssayTopicScreen() {
 
         <Text style={styles.section}>{t('suggested_structure')}</Text>
         <View style={styles.card}>
-          {(topic.structure || [
-            'Introduction (context + thesis)',
-            'Body (2–3 analytical paragraphs with facts)',
-            'Conclusion (balanced way forward)',
-          ]).map((s, i) => (
+          {structure.map((s, i) => (
             <Text key={i} style={styles.hint}>
               {i + 1}. {s}
             </Text>
@@ -124,8 +137,6 @@ export default function EssayTopicScreen() {
           onPress={() =>
             navigation.navigate('EssayWrite', {
               topicId: topic.id,
-              title: topic.title,
-              outline: topic.outline,
               wordTargetMin: topic.wordTargetMin,
               wordTargetMax: topic.wordTargetMax,
               suggestedMinutes: topic.suggestedMinutes,
@@ -144,7 +155,7 @@ export default function EssayTopicScreen() {
         </TouchableOpacity>
         {showOutline && (
           <View style={styles.card}>
-            <Text style={styles.outline}>{topic.outline}</Text>
+            <Text style={styles.outline}>{outline}</Text>
           </View>
         )}
       </ScrollView>

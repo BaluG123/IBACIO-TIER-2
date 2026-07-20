@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React, {useEffect, useMemo, useRef, useState} from 'react';
 import {
   View,
   ScrollView,
@@ -21,19 +21,35 @@ import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {countWords, formatTimer, timerColor} from '../utils/timer';
 import {saveDraft, loadDraft, recordWritingDay} from '../utils/storage';
+import {getLocalized} from '../utils/localize';
+
+const data = require('../assets/long-answers/questions.json');
+const QUESTIONS: any[] = data.questions || [];
 
 export default function LongAnswerWriteScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const route = useRoute<any>();
   const insets = useSafeAreaInsets();
+  const lang = i18n.language;
 
   const questionId = route.params?.questionId || 'laq_unknown';
-  const question = route.params?.question || 'Long Answer';
-  const modelAnswer = route.params?.modelAnswer || '';
-  const wordMin = route.params?.wordTargetMin || 150;
-  const wordMax = route.params?.wordTargetMax || 200;
-  const minutes = route.params?.suggestedMinutes || 12;
+  const laq = useMemo(
+    () => QUESTIONS.find((q: any) => q.id === questionId),
+    [questionId],
+  );
+
+  const question =
+    getLocalized<string>(laq, 'question', lang) ||
+    route.params?.question ||
+    t('long_answers');
+  const modelAnswer = getLocalized<string>(laq, 'modelAnswer', lang) || '';
+  const wordMin =
+    laq?.wordTargetMin || route.params?.wordTargetMin || 150;
+  const wordMax =
+    laq?.wordTargetMax || route.params?.wordTargetMax || 200;
+  const minutes =
+    laq?.suggestedMinutes || route.params?.suggestedMinutes || 12;
   const totalSeconds = minutes * 60;
 
   const [text, setText] = useState('');
@@ -152,7 +168,7 @@ export default function LongAnswerWriteScreen() {
           <TextInput
             style={styles.input}
             multiline
-            placeholder="Write your answer (150–200 words)..."
+            placeholder={t('placeholder_laq')}
             placeholderTextColor="#6b7280"
             value={text}
             onChangeText={setText}

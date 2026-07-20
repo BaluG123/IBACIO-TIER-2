@@ -4,7 +4,7 @@
   "editionTitle_hi": "टियर-2 डेली डेस्क",
   "essayTopic": {
     "title": "Social Media, Free Speech and Democratic Discourse",
-    "title_hi": "Social Media, Free Speech and Democratic Discourse",
+    "title_hi": "सोशल मीडिया, अभिव्यक्ति की स्वतंत्रता और लोकतांत्रिक संवाद",
     "category": "Socio-political",
     "hints": [
       "Art 19 reasonable restrictions",
@@ -13,20 +13,20 @@
       "Digital literacy"
     ],
     "hints_hi": [
-      "Art 19 reasonable restrictions",
-      "Misinformation & polarisation",
-      "Platform accountability",
-      "Digital literacy"
+      "अनुच्छेद 19 की युक्तियुक्त निर्बंधन",
+      "गलत सूचना और ध्रुवीकरण",
+      "प्लेटफ़ॉर्म जवाबदेही",
+      "डिजिटल साक्षरता"
     ],
     "modelOutline": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility.",
-    "modelOutline_hi": "Intro: public sphere online. Body: rights vs harm, IT rules debate. Conclusion: democratic dialogue needs responsibility."
+    "modelOutline_hi": "परिचय: ऑनलाइन सार्वजनिक क्षेत्र। मुख्य भाग: अधिकार बनाम नुकसान, IT नियम बहस। निष्कर्ष: लोकतांत्रिक संवाद को जिम्मेदारी चाहिए।"
   },
   "longAnswers": [
     {
       "id": "la08",
       "domain": "Current Affairs",
       "question": "Explain how Digital India initiatives have impacted financial inclusion.",
-      "question_hi": "Explain how Digital India initiatives have impacted financial inclusion.",
+      "question_hi": "डिजिटल इंडिया पहलों ने वित्तीय समावेशन को कैसे प्रभावित किया है, समझाइए।",
       "keyPoints": [
         "JAM trinity",
         "UPI & DBT",
@@ -34,19 +34,20 @@
         "Consumer protection"
       ],
       "keyPoints_hi": [
-        "JAM trinity",
-        "UPI & DBT",
-        "Last-mile challenges",
-        "Consumer protection"
+        "JAM त्रयी",
+        "UPI और DBT",
+        "लास्ट-माइल चुनौतियाँ",
+        "उपभोक्ता संरक्षण"
       ],
       "modelAnswer": "Explain how Digital India initiatives have impacted financial inclusion. Key dimensions include: JAM trinity; UPI & DBT; Last-mile challenges; Consumer protection. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Explain how Digital India initiatives have impacted financial inclusion. Key dimensions include: JAM trinity; UPI & DBT; Last-mile challenges; Consumer protection. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "जन धन–आधार–मोबाइल (JAM) त्रयी, UPI और प्रत्यक्ष लाभ हस्तांतरण (DBT) ने वित्तीय समावेशन को तेज़ी से आगे बढ़ाया है। लीकेज घटे और सेवा पहुँच सुधरी है। फिर भी डिजिटल साक्षरता, कनेक्टिविटी और साइबर धोखाधड़ी लास्ट-माइल चुनौतियाँ बनी हुई हैं। उपभोक्ता संरक्षण, शिकायत निवारण और ऑफलाइन विकल्प आवश्यक हैं। संतुलित दृष्टिकोण नवाचार के साथ विश्वास और समावेशन सुनिश्चित करता है।",
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la33",
       "domain": "Socio-political",
       "question": "Discuss gender equality beyond legal reforms.",
-      "question_hi": "Discuss gender equality beyond legal reforms.",
+      "question_hi": "कानूनी सुधारों से परे लैंगिक समानता की चर्चा कीजिए।",
       "keyPoints": [
         "Social norms",
         "Economic participation",
@@ -54,45 +55,46 @@
         "Representation"
       ],
       "keyPoints_hi": [
-        "Social norms",
-        "Economic participation",
-        "Safety & mobility",
-        "Representation"
+        "सामाजिक मानदंड",
+        "आर्थिक भागीदारी",
+        "सुरक्षा और गतिशीलता",
+        "प्रतिनिधित्व"
       ],
       "modelAnswer": "Discuss gender equality beyond legal reforms. Key dimensions include: Social norms; Economic participation; Safety & mobility; Representation. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Discuss gender equality beyond legal reforms. Key dimensions include: Social norms; Economic participation; Safety & mobility; Representation. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "कानून आवश्यक हैं, पर लैंगिक समानता सामाजिक मानदंड, आर्थिक भागीदारी, सुरक्षा और प्रतिनिधित्व से भी तय होती है। घरेलू श्रम का बँटवारा, कार्यस्थल सुरक्षा और राजनीतिक स्थान सुधारने होंगे। शिक्षा और मीडिया दृष्टिकोण बदलने में भूमिका निभाते हैं। वास्तविक समानता अधिकार और व्यवहार दोनों में झलकनी चाहिए।",
+      "domain_hi": "सामाजिक-राजनीतिक"
     }
   ],
   "comprehension": {
     "passage": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
-    "passage_hi": "Rumours travel faster than facts. In a networked society, a forwarded message can trigger panic, boycotts, or violence before verification is possible. Platforms amplify reach; anonymity lowers accountability. Yet censorship alone is a blunt instrument that can chill legitimate speech. A resilient response blends three layers: platform design that slows virality of unverified claims, legal tools against deliberate incitement, and citizen media literacy that builds hesitation before sharing. Police and district administrations increasingly use fact-check cells and community influencers to calm tensions. The ethical duty of citizens is simple but hard: pause, verify, and refuse to become a node in a rumour chain. Public order in the digital age begins with personal restraint.",
+    "passage_hi": "अफवाहें तथ्यों से तेज़ यात्रा करती हैं। नेटवर्कयुक्त समाज में एक अग्रेषित संदेश सत्यापन से पहले दहशत, बहिष्कार या हिंसा भड़का सकता है। प्लेटफ़ॉर्म पहुँच बढ़ाते हैं; गुमनामी जवाबदेही घटाती है। फिर भी अकेला सेंसरशिप एक कठोर उपकरण है जो वैध अभिव्यक्ति को भी दबा सकता है। लचीली प्रतिक्रिया तीन परतों को मिलाती है: प्लेटफ़ॉर्म डिज़ाइन जो असत्यापित दावों की वायरलता धीमी करे, जानबूझकर उकसावे के विरुद्ध कानूनी उपकरण, और नागरिक मीडिया साक्षरता जो साझा करने से पहले ठहराव पैदा करे। पुलिस और जिला प्रशासन तनाव शांत करने के लिए तथ्य-जाँच प्रकोष्ठ और सामुदायिक प्रभावशाली व्यक्तियों का उपयोग बढ़ा रहे हैं। नागरिकों का नैतिक कर्तव्य सरल पर कठिन है: रुकें, सत्यापित करें, और अफवाह श्रृंखला की कड़ी बनने से इनकार करें। डिजिटल युग में लोक व्यवस्था व्यक्तिगत संयम से शुरू होती है। स्कूलों में मीडिया साक्षरता और स्थानीय भाषा में तथ्य-जाँच पहुँच इस संस्कृति को मजबूत कर सकती है।",
     "questions": [
       {
         "q": "Why do rumours pose a special challenge today?",
-        "q_hi": "Why do rumours pose a special challenge today?",
+        "q_hi": "आज अफवाहें विशेष चुनौती क्यों पैदा करती हैं?",
         "model": "They travel faster than facts; networked forwarding can trigger harm before verification.",
-        "model_hi": "They travel faster than facts; networked forwarding can trigger harm before verification."
+        "model_hi": "वे तथ्यों से तेज़ फैलती हैं; नेटवर्क अग्रेषण सत्यापन से पहले नुकसान पहुँचा सकता है।"
       },
       {
         "q": "Why is censorship alone insufficient?",
-        "q_hi": "Why is censorship alone insufficient?",
+        "q_hi": "अकेला सेंसरशिप पर्याप्त क्यों नहीं है?",
         "model": "It is blunt and can chill legitimate speech.",
-        "model_hi": "It is blunt and can chill legitimate speech."
+        "model_hi": "यह कठोर है और वैध अभिव्यक्ति को दबा सकता है।"
       },
       {
         "q": "List the three layers of a resilient response mentioned.",
-        "q_hi": "List the three layers of a resilient response mentioned.",
+        "q_hi": "लचीली प्रतिक्रिया की उल्लिखित तीन परतें सूचीबद्ध कीजिए।",
         "model": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy.",
-        "model_hi": "Platform design to slow unverified virality; legal tools against deliberate incitement; citizen media literacy."
+        "model_hi": "असत्यापित वायरलता धीमी करने वाला प्लेटफ़ॉर्म डिज़ाइन; जानबूझकर उकसावे के विरुद्ध कानूनी उपकरण; नागरिक मीडिया साक्षरता।"
       },
       {
         "q": "What ethical duty does the author assign to citizens?",
-        "q_hi": "What ethical duty does the author assign to citizens?",
+        "q_hi": "लेखक नागरिकों को कौन-सा नैतिक कर्तव्य सौंपता है?",
         "model": "Pause, verify, and refuse to become a node in a rumour chain.",
-        "model_hi": "Pause, verify, and refuse to become a node in a rumour chain."
+        "model_hi": "रुकें, सत्यापित करें, और अफवाह श्रृंखला की कड़ी बनने से इनकार करें।"
       }
     ]
   },
   "tipOfDay": "In comprehension, quote or paraphrase the passage — do not invent outside facts.",
-  "tipOfDay_hi": "In comprehension, quote or paraphrase the passage — do not invent outside facts."
+  "tipOfDay_hi": "अपठित में गद्यांश से उद्धृत या भावार्थ लिखें — बाहर के तथ्य न गढ़ें।"
 }

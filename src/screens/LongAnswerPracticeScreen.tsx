@@ -16,6 +16,7 @@ import {useNavigation} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {getDomainColor} from '../services/dailyPromptService';
+import {getLocalized, localizeLabel} from '../utils/localize';
 
 type LAQ = {
   id: string;
@@ -33,11 +34,12 @@ const data = require('../assets/long-answers/questions.json');
 const QUESTIONS: LAQ[] = data.questions || [];
 
 export default function LongAnswerPracticeScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const insets = useSafeAreaInsets();
   const [domain, setDomain] = useState('All');
   const [pair, setPair] = useState<LAQ[] | null>(null);
+  const lang = i18n.language;
 
   const domains = useMemo(() => {
     const set = new Set(QUESTIONS.map(q => q.domain));
@@ -68,7 +70,9 @@ export default function LongAnswerPracticeScreen() {
         </TouchableOpacity>
         <View style={{flex: 1}}>
           <Text style={styles.headerTitle}>{t('long_answers')}</Text>
-          <Text style={styles.headerSub}>{QUESTIONS.length}+ questions</Text>
+          <Text style={styles.headerSub}>
+            {QUESTIONS.length}+ {t('questions_short')}
+          </Text>
         </View>
       </View>
 
@@ -92,8 +96,12 @@ export default function LongAnswerPracticeScreen() {
               onPress={() =>
                 navigation.navigate('LongAnswerDetail', {questionId: q.id})
               }>
-              <Text style={styles.domain}>{q.domain}</Text>
-              <Text style={styles.q}>{q.question}</Text>
+              <Text style={styles.domain}>
+                {localizeLabel(q.domain, lang)}
+              </Text>
+              <Text style={styles.q}>
+                {getLocalized<string>(q, 'question', lang)}
+              </Text>
             </TouchableOpacity>
           ))}
         </View>
@@ -116,7 +124,7 @@ export default function LongAnswerPracticeScreen() {
                   domain === d && styles.chipTextActive,
                 ]}
                 numberOfLines={1}>
-                {d === 'All' ? t('domain') : d}
+                {d === 'All' ? t('all_filter') : localizeLabel(d, lang)}
               </Text>
             </TouchableOpacity>
           ))}
@@ -138,16 +146,21 @@ export default function LongAnswerPracticeScreen() {
             }>
             <View style={styles.row}>
               <Text style={[styles.domain, {color: getDomainColor(q.domain)}]}>
-                {q.domain}
+                {localizeLabel(q.domain, lang)}
               </Text>
               <Text style={styles.marks}>
                 {q.marks} {t('marks')}
               </Text>
             </View>
-            <Text style={styles.q}>{q.question}</Text>
+            <Text style={styles.q}>
+              {getLocalized<string>(q, 'question', lang)}
+            </Text>
             <Text style={styles.meta}>
-              {q.wordTargetMin}–{q.wordTargetMax} words · {q.suggestedMinutes}{' '}
-              min
+              {t('words_min_meta', {
+                minWords: q.wordTargetMin,
+                maxWords: q.wordTargetMax,
+                min: q.suggestedMinutes,
+              })}
             </Text>
           </TouchableOpacity>
         ))}

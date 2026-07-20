@@ -18,6 +18,13 @@
         "Comprehension — 10 marks",
         "Two long answers (~150–200 words each) — 10+10 marks",
         "Write in clear English; remain factual and balanced."
+      ],
+      "instructions_hi": [
+        "कुल समय: 60 मिनट। लिखने से पहले योजना बनाएँ।",
+        "निबंध (लगभग 400–500 शब्द) — 20 अंक",
+        "अपठित गद्यांश — 10 अंक",
+        "दो दीर्घ उत्तरीय प्रश्न (प्रत्येक लगभग 150–200 शब्द) — 10+10 अंक",
+        "स्पष्ट भाषा में लिखें; तथ्यात्मक और संतुलित रहें।"
       ]
     },
     {
@@ -36,6 +43,11 @@
         "Simulate exam conditions: no phone, continuous writing.",
         "Leave 3–4 minutes to review each section.",
         "Self-score honestly using the rubric after submission."
+      ],
+      "instructions_hi": [
+        "परीक्षा जैसी स्थितियाँ अपनाएँ: फोन बंद, लगातार लेखन।",
+        "प्रत्येक खंड की समीक्षा के लिए 3–4 मिनट छोड़ें।",
+        "जमा करने के बाद रुब्रिक से ईमानदारी से स्व-मूल्यांकन करें।"
       ]
     },
     {
@@ -54,6 +66,11 @@
         "Focus on structure: Intro–Body–Conclusion for essay.",
         "For LAQs, open with a definition/context sentence.",
         "Avoid political rants; prefer balanced analysis."
+      ],
+      "instructions_hi": [
+        "संरचना पर ध्यान दें: निबंध के लिए परिचय–मुख्य भाग–निष्कर्ष।",
+        "दीर्घ उत्तरीय प्रश्नों में परिभाषा/संदर्भ वाक्य से शुरू करें।",
+        "राजनीतिक भाषण से बचें; संतुलित विश्लेषण अपनाएँ।"
       ]
     }
   ]

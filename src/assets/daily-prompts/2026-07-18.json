@@ -4,7 +4,7 @@
   "editionTitle_hi": "टियर-2 डेली डेस्क",
   "essayTopic": {
     "title": "Internal Security Challenges in a Digital Age",
-    "title_hi": "Internal Security Challenges in a Digital Age",
+    "title_hi": "डिजिटल युग में आंतरिक सुरक्षा चुनौतियाँ",
     "category": "Security & Governance",
     "hints": [
       "Cybercrime & radicalisation online",
@@ -13,20 +13,20 @@
       "Cooperative federalism in security"
     ],
     "hints_hi": [
-      "Cybercrime & radicalisation online",
-      "Critical infrastructure",
-      "Police modernisation",
-      "Cooperative federalism in security"
+      "साइबर अपराध और ऑनलाइन उग्रवाद",
+      "महत्वपूर्ण अवसंरचना",
+      "पुलिस आधुनिकीकरण",
+      "सुरक्षा में सहकारी संघवाद"
     ],
     "modelOutline": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security.",
-    "modelOutline_hi": "Intro: evolving threat landscape. Body: cyber, left-wing extremism residual, communal harmony. Conclusion: prevention + rights-based security."
+    "modelOutline_hi": "परिचय: बदलता खतरा परिदृश्य। मुख्य भाग: साइबर, अवशिष्ट वामपंथी उग्रवाद, सांप्रदायिक सद्भाव। निष्कर्ष: रोकथाम + अधिकार-आधारित सुरक्षा।"
   },
   "longAnswers": [
     {
       "id": "la03",
       "domain": "Current Affairs",
       "question": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
-      "question_hi": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
+      "question_hi": "भारत की इंडो-पैसिफिक रणनीति में Quad की भूमिका का मूल्यांकन कीजिए।",
       "keyPoints": [
         "Maritime security & HADR",
         "Supply chain resilience",
@@ -34,19 +34,20 @@
         "Strategic autonomy caveats"
       ],
       "keyPoints_hi": [
-        "Maritime security & HADR",
-        "Supply chain resilience",
-        "Technology cooperation",
-        "Strategic autonomy caveats"
+        "समुद्री सुरक्षा और HADR",
+        "आपूर्ति श्रृंखला लचीलापन",
+        "प्रौद्योगिकी सहयोग",
+        "रणनीतिक स्वायत्तता की सावधानियाँ"
       ],
       "modelAnswer": "Evaluate the role of Quad in India's Indo-Pacific strategy. Key dimensions include: Maritime security & HADR; Supply chain resilience; Technology cooperation; Strategic autonomy caveats. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Evaluate the role of Quad in India's Indo-Pacific strategy. Key dimensions include: Maritime security & HADR; Supply chain resilience; Technology cooperation; Strategic autonomy caveats. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "Quad भारत की इंडो-पैसिफिक दृष्टि का एक महत्वपूर्ण स्तंभ है, जो समुद्री सुरक्षा, मानवीय सहायता एवं आपदा राहत (HADR), आपूर्ति श्रृंखला लचीलापन और प्रौद्योगिकी सहयोग पर केंद्रित है। यह साझेदारी क्षमता बढ़ाती है, पर भारत इसे सैन्य गुट के रूप में नहीं देखता। रणनीतिक स्वायत्तता बनाए रखते हुए बहु-संरेखण अपनाना उसकी नीति का मूल है। ASEAN केंद्रियता और अंतरराष्ट्रीय कानून पर बल देने से क्षेत्रीय विश्वास बना रहता है। मूल्यांकन में अवसरों के साथ निर्भरता और धारणा संबंधी जोखिम भी उल्लेखनीय हैं। आगे का मार्ग स्पष्टता, पारदर्शिता और विकास-केंद्रित सहयोग है।",
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la22",
       "domain": "Economics",
       "question": "Evaluate the potential of the green economy for job creation.",
-      "question_hi": "Evaluate the potential of the green economy for job creation.",
+      "question_hi": "रोज़गार सृजन के लिए हरित अर्थव्यवस्था की क्षमता का मूल्यांकन कीजिए।",
       "keyPoints": [
         "Renewables & EVs",
         "Circular economy",
@@ -54,45 +55,46 @@
         "Just transition finance"
       ],
       "keyPoints_hi": [
-        "Renewables & EVs",
-        "Circular economy",
-        "Reskilling needs",
-        "Just transition finance"
+        "नवीकरणीय और EV",
+        "परिपत्र अर्थव्यवस्था",
+        "पुनःकौशल आवश्यकताएँ",
+        "न्यायसंगत संक्रमण वित्त"
       ],
       "modelAnswer": "Evaluate the potential of the green economy for job creation. Key dimensions include: Renewables & EVs; Circular economy; Reskilling needs; Just transition finance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Evaluate the potential of the green economy for job creation. Key dimensions include: Renewables & EVs; Circular economy; Reskilling needs; Just transition finance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "हरित अर्थव्यवस्था—नवीकरणीय ऊर्जा, EV, अपशिष्ट प्रबंधन और परिपत्र अर्थव्यवस्था—नए रोज़गार खोल सकती है। पर पारंपरिक क्षेत्रों से संक्रमण में पुनःकौशल और वित्त आवश्यक हैं। न्यायसंगत संक्रमण सुनिश्चित किए बिना सामाजिक तनाव बढ़ सकता है। मूल्यांकन में रोज़गार संख्या के साथ गुणवत्ता और क्षेत्रीय संतुलन भी देखना चाहिए।",
+      "domain_hi": "अर्थशास्त्र"
     }
   ],
   "comprehension": {
     "passage": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
-    "passage_hi": "India's Constitution designs a strong Centre with significant State autonomy—a model often called quasi-federal. In practice, fiscal transfers, concurrent list subjects, and emergency provisions create continuous negotiation. Cooperative federalism thrives when institutions like the GST Council and Inter-State Council function with trust. Competitive federalism can spur reform when States race to improve ease of doing business. Stress appears when political incentives diverge: blame games over schemes, disputes on tax shares, or uneven disaster response. Healthy federalism does not eliminate conflict; it channels conflict through rules, data, and dialogue. Citizens experience federalism not as theory but as whether schools, hospitals, and roads work. Strengthening State capacity is therefore as important as clarifying Centre-State boundaries.",
+    "passage_hi": "भारत का संविधान मजबूत केंद्र के साथ राज्यों को महत्वपूर्ण स्वायत्तता देता है—इस मॉडल को अक्सर अर्ध-संघीय कहा जाता है। व्यवहार में राजकोषीय हस्तांतरण, समवर्ती सूची के विषय और आपातकालीन प्रावधान निरंतर बातचीत पैदा करते हैं। सहकारी संघवाद तब फलता-फूलता है जब GST परिषद और अंतर-राज्य परिषद जैसी संस्थाएँ विश्वास के साथ काम करें। प्रतिस्पर्धी संघवाद सुधार को प्रोत्साहित कर सकता है जब राज्य व्यापार सुगमता सुधारने की होड़ करें। तनाव तब प्रकट होता है जब राजनीतिक प्रोत्साहन अलग हों: योजनाओं पर दोषारोपण, कर हिस्से पर विवाद या असमान आपदा प्रतिक्रिया। स्वस्थ संघवाद संघर्ष समाप्त नहीं करता; वह संघर्ष को नियमों, डेटा और संवाद के माध्यम से चलाता है। नागरिक संघवाद को सिद्धांत के रूप में नहीं, बल्कि इस रूप में अनुभव करते हैं कि स्कूल, अस्पताल और सड़कें काम करती हैं या नहीं। इसलिए राज्य क्षमता मजबूत करना उतना ही महत्वपूर्ण है जितना केंद्र-राज्य सीमाएँ स्पष्ट करना। वित्तीय अनुशासन, डेटा साझाकरण और आपदा समन्वय विश्वास बढ़ाने वाले व्यावहारिक क्षेत्र हैं।",
     "questions": [
       {
         "q": "How does the passage describe India's federal model?",
-        "q_hi": "How does the passage describe India's federal model?",
+        "q_hi": "गद्यांश भारत के संघीय मॉडल का वर्णन कैसे करता है?",
         "model": "Quasi-federal: a strong Centre with significant State autonomy.",
-        "model_hi": "Quasi-federal: a strong Centre with significant State autonomy."
+        "model_hi": "अर्ध-संघीय: मजबूत केंद्र के साथ राज्यों की महत्वपूर्ण स्वायत्तता।"
       },
       {
         "q": "Distinguish cooperative and competitive federalism as used here.",
-        "q_hi": "Distinguish cooperative and competitive federalism as used here.",
+        "q_hi": "यहाँ प्रयुक्त सहकारी और प्रतिस्पर्धी संघवाद में अंतर स्पष्ट कीजिए।",
         "model": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business.",
-        "model_hi": "Cooperative: trust-based joint institutions (e.g. GST Council). Competitive: States reforming to attract investment/ease of business."
+        "model_hi": "सहकारी: विश्वास-आधारित संयुक्त संस्थाएँ (जैसे GST परिषद)। प्रतिस्पर्धी: निवेश/व्यापार सुगमता के लिए राज्यों द्वारा सुधार।"
       },
       {
         "q": "When does stress in federalism appear?",
-        "q_hi": "When does stress in federalism appear?",
+        "q_hi": "संघवाद में तनाव कब प्रकट होता है?",
         "model": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response.",
-        "model_hi": "When political incentives diverge—blame games, tax-share disputes, uneven disaster response."
+        "model_hi": "जब राजनीतिक प्रोत्साहन अलग हों—दोषारोपण, कर-हिस्से विवाद, असमान आपदा प्रतिक्रिया।"
       },
       {
         "q": "What do citizens experience as the real test of federalism?",
-        "q_hi": "What do citizens experience as the real test of federalism?",
+        "q_hi": "नागरिक संघवाद की वास्तविक परीक्षा के रूप में क्या अनुभव करते हैं?",
         "model": "Whether schools, hospitals, and roads work.",
-        "model_hi": "Whether schools, hospitals, and roads work."
+        "model_hi": "यह कि स्कूल, अस्पताल और सड़कें काम करती हैं या नहीं।"
       }
     ]
   },
   "tipOfDay": "Keep security answers factual and rights-aware — avoid alarmist language.",
-  "tipOfDay_hi": "Keep security answers factual and rights-aware — avoid alarmist language."
+  "tipOfDay_hi": "सुरक्षा उत्तर तथ्यात्मक और अधिकार-सचेत रखें — सनसनीखेज भाषा से बचें।"
 }

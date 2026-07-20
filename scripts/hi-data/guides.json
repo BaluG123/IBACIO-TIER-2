@@ -1,12 +1,5 @@
 {
   "essayStructure": {
-    "title": "Essay Structure That Scores",
-    "points": [
-      "Introduction: define the theme + give a clear thesis in 40–60 words.",
-      "Body: 2–3 paragraphs — causes/dimensions, analysis with facts, counterpoint.",
-      "Conclusion: balanced way forward; avoid sudden new arguments.",
-      "Target 400–500 words; quality over length."
-    ],
     "title_hi": "अंक दिलाने वाली निबंध संरचना",
     "points_hi": [
       "परिचय: विषय परिभाषित करें और 40–60 शब्दों में स्पष्ट मुख्य तर्क दें।",
@@ -16,13 +9,6 @@
     ]
   },
   "examinerLens": {
-    "title": "How Examiners Read Descriptive Answers",
-    "points": [
-      "Clarity of thought and organisation matter as much as content.",
-      "Relevant, recent, factual examples strengthen arguments.",
-      "Balance and maturity of tone — especially for socio-political topics.",
-      "Language: simple, precise English; avoid slang and extreme adjectives."
-    ],
     "title_hi": "परीक्षक वर्णनात्मक उत्तर कैसे पढ़ते हैं",
     "points_hi": [
       "विचार की स्पष्टता और संगठन सामग्री जितना ही महत्वपूर्ण है।",
@@ -32,14 +18,6 @@
     ]
   },
   "commonMistakes": {
-    "title": "Common Mistakes to Avoid",
-    "points": [
-      "Starting without a plan — leads to repetition and weak conclusions.",
-      "One-sided political rants instead of multi-dimensional analysis.",
-      "Inventing statistics; better to use well-known schemes/institutions.",
-      "Ignoring the question's directive words (discuss, examine, critically).",
-      "Poor handwriting practice for pen-paper exam (practice on paper too)."
-    ],
     "title_hi": "बचने योग्य सामान्य गलतियाँ",
     "points_hi": [
       "बिना योजना शुरू करना — दोहराव और कमज़ोर निष्कर्ष की ओर ले जाता है।",
@@ -50,17 +28,6 @@
     ]
   },
   "dosDonts": {
-    "title": "Do's & Don'ts — IB Descriptive Tone",
-    "dos": [
-      "Stay factual, calm, and constitutionally grounded.",
-      "Acknowledge complexity; offer practical reforms.",
-      "Use Intro–Body–Conclusion discipline every time."
-    ],
-    "donts": [
-      "Do not sensationalise security or communal issues.",
-      "Do not attack communities or parties; critique policies/institutions.",
-      "Do not pad with irrelevant quotations."
-    ],
     "title_hi": "करें और न करें — IB वर्णनात्मक स्वर",
     "dos_hi": [
       "तथ्यात्मक, शांत और संवैधानिक आधार पर रहें।",
@@ -74,63 +41,40 @@
     ]
   },
   "vocab": {
-    "title": "Useful Vocabulary — Governance & Economy",
+    "title_hi": "उपयोगी शब्दावली — शासन और अर्थव्यवस्था",
     "words": [
       {
-        "term": "Fiscal consolidation",
-        "meaning": "Reducing deficit sustainably while protecting growth",
         "term_hi": "राजकोषीय समेकन",
         "meaning_hi": "विकास की रक्षा करते हुए घाटे को स्थायी रूप से कम करना"
       },
       {
-        "term": "Inclusive growth",
-        "meaning": "Growth that expands opportunities across sections",
         "term_hi": "समावेशी विकास",
         "meaning_hi": "ऐसा विकास जो सभी वर्गों के अवसर बढ़ाए"
       },
       {
-        "term": "Strategic autonomy",
-        "meaning": "Independent decision-making amid partnerships",
         "term_hi": "रणनीतिक स्वायत्तता",
         "meaning_hi": "साझेदारियों के बीच स्वतंत्र निर्णय लेने की क्षमता"
       },
       {
-        "term": "Last-mile delivery",
-        "meaning": "Ensuring schemes reach the intended beneficiary",
         "term_hi": "लास्ट-माइल डिलीवरी",
         "meaning_hi": "यह सुनिश्चित करना कि योजनाएँ लक्षित लाभार्थी तक पहुँचें"
       },
       {
-        "term": "Cooperative federalism",
-        "meaning": "Centre-State collaboration for shared goals",
         "term_hi": "सहकारी संघवाद",
         "meaning_hi": "साझा लक्ष्यों के लिए केंद्र-राज्य सहयोग"
       },
       {
-        "term": "Demographic dividend",
-        "meaning": "Growth potential from a young working-age population",
         "term_hi": "जनसांख्यिकीय लाभांश",
         "meaning_hi": "युवा कार्यशील आबादी से विकास क्षमता"
       },
       {
-        "term": "Climate resilience",
-        "meaning": "Capacity to absorb and recover from climate shocks",
         "term_hi": "जलवायु लचीलापन",
         "meaning_hi": "जलवायु झटकों को सहने और उनसे उबरने की क्षमता"
       },
       {
-        "term": "Digital public goods",
-        "meaning": "Open digital systems serving public interest",
         "term_hi": "डिजिटल सार्वजनिक वस्तुएँ",
         "meaning_hi": "सार्वजनिक हित की सेवा करने वाली खुली डिजिटल प्रणालियाँ"
       }
-    ],
-    "title_hi": "उपयोगी शब्दावली — शासन और अर्थव्यवस्था"
-  },
-  "sampleEssayIds": [
-    "e01",
-    "e07",
-    "e19",
-    "e25"
-  ]
+    ]
+  }
 }

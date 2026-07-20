@@ -19,6 +19,7 @@ import {useNavigation, useRoute} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {formatTimer, timerColor} from '../utils/timer';
+import {getLocalized} from '../utils/localize';
 
 type Passage = {
   id: string;
@@ -33,10 +34,11 @@ const data = require('../assets/comprehension/passages.json');
 const PASSAGES: Passage[] = data.passages || [];
 
 export default function PassageDetailScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const route = useRoute<any>();
   const insets = useSafeAreaInsets();
+  const lang = i18n.language;
 
   const passage = useMemo(
     () => PASSAGES.find(p => p.id === route.params?.passageId),
@@ -63,10 +65,13 @@ export default function PassageDetailScreen() {
   if (!passage) {
     return (
       <View style={[styles.container, styles.center]}>
-        <Text style={{color: '#fff'}}>Passage not found</Text>
+        <Text style={{color: '#fff'}}>{t('passage_not_found')}</Text>
       </View>
     );
   }
+
+  const title = getLocalized<string>(passage, 'title', lang);
+  const passageText = getLocalized<string>(passage, 'passage', lang);
 
   return (
     <KeyboardAvoidingView
@@ -85,7 +90,7 @@ export default function PassageDetailScreen() {
         </TouchableOpacity>
         <View style={{flex: 1}}>
           <Text style={styles.headerTitle} numberOfLines={1}>
-            {passage.title}
+            {title}
           </Text>
         </View>
         <View style={styles.timerChip}>
@@ -105,35 +110,40 @@ export default function PassageDetailScreen() {
           paddingBottom: insets.bottom + hp('4%'),
         }}>
         <View style={styles.passageCard}>
-          <Text style={styles.passage}>{passage.passage}</Text>
+          <Text style={styles.passage}>{passageText}</Text>
           {!!passage.wordGuide && (
             <Text style={styles.guide}>{passage.wordGuide}</Text>
           )}
         </View>
 
-        {(passage.questions || []).map((q, i) => (
-          <View key={q.id || i} style={styles.qCard}>
-            <Text style={styles.qText}>
-              Q{i + 1}. {q.q}
-            </Text>
-            <TextInput
-              style={styles.input}
-              multiline
-              placeholder="Your answer..."
-              placeholderTextColor="#6b7280"
-              value={answers[q.id] || ''}
-              onChangeText={val =>
-                setAnswers(prev => ({...prev, [q.id]: val}))
-              }
-              textAlignVertical="top"
-            />
-            {showModels && (
-              <Text style={styles.model}>
-                {t('model_answer')}: {q.model}
+        {(passage.questions || []).map((q, i) => {
+          const qText = getLocalized<string>(q, 'q', lang);
+          const model = getLocalized<string>(q, 'model', lang);
+
+          return (
+            <View key={q.id || i} style={styles.qCard}>
+              <Text style={styles.qText}>
+                Q{i + 1}. {qText}
               </Text>
-            )}
-          </View>
-        ))}
+              <TextInput
+                style={styles.input}
+                multiline
+                placeholder={t('placeholder_answer')}
+                placeholderTextColor="#6b7280"
+                value={answers[q.id] || ''}
+                onChangeText={val =>
+                  setAnswers(prev => ({...prev, [q.id]: val}))
+                }
+                textAlignVertical="top"
+              />
+              {showModels && (
+                <Text style={styles.model}>
+                  {t('model_answer')}: {model}
+                </Text>
+              )}
+            </View>
+          );
+        })}
 
         <TouchableOpacity
           style={styles.revealBtn}

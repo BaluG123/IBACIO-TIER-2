@@ -241,10 +241,7 @@ export default function PreviousYearPapersScreen() {
                 onLoadEnd={() => setLoading(false)}
                 onError={() => {
                   setLoading(false);
-                  Alert.alert(
-                    'Error',
-                    'Failed to load PDF. Please check your internet connection.',
-                  );
+                  Alert.alert(t('pdf_error_title'), t('pdf_error_msg'));
                 }}
               />
             </>

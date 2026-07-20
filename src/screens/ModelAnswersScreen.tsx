@@ -16,20 +16,32 @@ import {useNavigation} from '@react-navigation/native';
 import {useAppDrawer} from '../navigation/DrawerNavigator';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
+import {getLocalized, localizeLabel} from '../utils/localize';
 
 const guides = require('../assets/essays/guides.json');
 const topicsData = require('../assets/essays/topics.json');
 
 export default function ModelAnswersScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const {openDrawer} = useAppDrawer();
   const insets = useSafeAreaInsets();
+  const lang = i18n.language;
 
   const samples = useMemo(() => {
     const ids: string[] = guides.sampleEssayIds || [];
     return (topicsData.topics || []).filter((x: any) => ids.includes(x.id));
   }, []);
+
+  const essayStructurePoints =
+    getLocalized<string[]>(guides.essayStructure, 'points', lang) || [];
+  const examinerLensPoints =
+    getLocalized<string[]>(guides.examinerLens, 'points', lang) || [];
+  const commonMistakesPoints =
+    getLocalized<string[]>(guides.commonMistakes, 'points', lang) || [];
+  const dos = getLocalized<string[]>(guides.dosDonts, 'dos', lang) || [];
+  const donts = getLocalized<string[]>(guides.dosDonts, 'donts', lang) || [];
+  const vocabWords = guides.vocab?.words || [];
 
   return (
     <View style={styles.container}>
@@ -58,35 +70,49 @@ export default function ModelAnswersScreen() {
         <Section
           icon="file-tree"
           color="#38bdf8"
-          title={t('essay_structure')}
-          points={guides.essayStructure?.points || []}
+          title={
+            getLocalized<string>(guides.essayStructure, 'title', lang) ||
+            t('essay_structure')
+          }
+          points={essayStructurePoints}
         />
         <Section
           icon="eye-check"
           color="#a78bfa"
-          title={t('examiner_lens')}
-          points={guides.examinerLens?.points || []}
+          title={
+            getLocalized<string>(guides.examinerLens, 'title', lang) ||
+            t('examiner_lens')
+          }
+          points={examinerLensPoints}
         />
         <Section
           icon="alert-circle"
           color="#ef4444"
-          title={t('common_mistakes')}
-          points={guides.commonMistakes?.points || []}
+          title={
+            getLocalized<string>(guides.commonMistakes, 'title', lang) ||
+            t('common_mistakes')
+          }
+          points={commonMistakesPoints}
         />
 
         <View style={styles.card}>
           <View style={styles.cardHead}>
             <Icon name="check-decagram" size={wp('6%')} color="#10b981" />
-            <Text style={styles.cardTitle}>{t('dos_donts')}</Text>
+            <Text style={styles.cardTitle}>
+              {getLocalized<string>(guides.dosDonts, 'title', lang) ||
+                t('dos_donts')}
+            </Text>
           </View>
-          <Text style={styles.subHead}>Do's</Text>
-          {(guides.dosDonts?.dos || []).map((d: string, i: number) => (
+          <Text style={styles.subHead}>{t('dos_label')}</Text>
+          {dos.map((d: string, i: number) => (
             <Text key={`d${i}`} style={styles.point}>
               ✓ {d}
             </Text>
           ))}
-          <Text style={[styles.subHead, {marginTop: hp('1.5%')}]}>Don'ts</Text>
-          {(guides.dosDonts?.donts || []).map((d: string, i: number) => (
+          <Text style={[styles.subHead, {marginTop: hp('1.5%')}]}>
+            {t('donts_label')}
+          </Text>
+          {donts.map((d: string, i: number) => (
             <Text key={`n${i}`} style={styles.point}>
               ✗ {d}
             </Text>
@@ -96,16 +122,21 @@ export default function ModelAnswersScreen() {
         <View style={styles.card}>
           <View style={styles.cardHead}>
             <Icon name="book-alphabet" size={wp('6%')} color="#f59e0b" />
-            <Text style={styles.cardTitle}>{t('vocabulary')}</Text>
+            <Text style={styles.cardTitle}>
+              {getLocalized<string>(guides.vocab, 'title', lang) ||
+                t('vocabulary')}
+            </Text>
           </View>
-          {(guides.vocab?.words || []).map(
-            (w: {term: string; meaning: string}, i: number) => (
-              <View key={i} style={styles.vocabRow}>
-                <Text style={styles.term}>{w.term}</Text>
-                <Text style={styles.meaning}>{w.meaning}</Text>
-              </View>
-            ),
-          )}
+          {vocabWords.map((w: Record<string, any>, i: number) => (
+            <View key={i} style={styles.vocabRow}>
+              <Text style={styles.term}>
+                {getLocalized<string>(w, 'term', lang)}
+              </Text>
+              <Text style={styles.meaning}>
+                {getLocalized<string>(w, 'meaning', lang)}
+              </Text>
+            </View>
+          ))}
         </View>
 
         <Text style={styles.section}>{t('sample_essays')}</Text>
@@ -116,10 +147,14 @@ export default function ModelAnswersScreen() {
             onPress={() =>
               navigation.navigate('EssayTopic', {topicId: s.id})
             }>
-            <Text style={styles.sampleCat}>{s.category}</Text>
-            <Text style={styles.sampleTitle}>{s.title}</Text>
+            <Text style={styles.sampleCat}>
+              {localizeLabel(s.category, lang)}
+            </Text>
+            <Text style={styles.sampleTitle}>
+              {getLocalized<string>(s, 'title', lang)}
+            </Text>
             <Text style={styles.sampleOutline} numberOfLines={3}>
-              {s.outline}
+              {getLocalized<string>(s, 'outline', lang)}
             </Text>
           </TouchableOpacity>
         ))}

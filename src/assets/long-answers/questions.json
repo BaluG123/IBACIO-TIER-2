@@ -4,7 +4,7 @@
       "id": "la01",
       "domain": "Current Affairs",
       "question": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
-      "question_hi": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
+      "question_hi": "ग्लोबल साउथ कूटनीति के लिए भारत की G20 अध्यक्षता के महत्व की चर्चा कीजिए।",
       "keyPoints": [
         "Inclusive agenda-setting",
         "Voice for developing nations",
@@ -12,23 +12,24 @@
         "Continuity in multilateral engagement"
       ],
       "keyPoints_hi": [
-        "Inclusive agenda-setting",
-        "Voice for developing nations",
-        "DPI and climate finance narratives",
-        "Continuity in multilateral engagement"
+        "समावेशी एजेंडा-निर्धारण",
+        "विकासशील देशों की आवाज़",
+        "DPI और जलवायु वित्त कथाएँ",
+        "बहुपक्षीय संलग्नता की निरंतरता"
       ],
       "modelAnswer": "Discuss the significance of India's G20 presidency for Global South diplomacy. Key dimensions include: Inclusive agenda-setting; Voice for developing nations; DPI and climate finance narratives; Continuity in multilateral engagement. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "भारत की G20 अध्यक्षता ने विकासशील देशों की प्राथमिकताओं को वैश्विक मंच पर केंद्र में लाने का अवसर दिया। समावेशी एजेंडा-निर्धारण के माध्यम से खाद्य सुरक्षा, डिजिटल सार्वजनिक अवसंरचना और जलवायु वित्त जैसे मुद्दों को आवाज़ मिली। ग्लोबल साउथ के लिए यह संकेत था कि बहुपक्षीय मंच केवल विकसित अर्थव्यवस्थाओं के हितों तक सीमित नहीं रहना चाहिए। DPI अनुभव और वैक्सीन/स्वास्थ्य सहयोग की कथा ने भारत की सॉफ्ट पावर को मजबूत किया। साथ ही, निरंतरता बनाए रखना आवश्यक है ताकि अध्यक्षता के लाभ केवल एक वर्ष तक सीमित न रहें। संतुलित उत्तर में उपलब्धियों के साथ कार्यान्वयन की सीमाएँ भी स्वीकार करनी चाहिए और आगे व्यावहारिक सहयोग का मार्ग सुझाना चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la02",
       "domain": "Current Affairs",
       "question": "Examine India's approach to the Israel-Palestine conflict in light of strategic autonomy.",
-      "question_hi": "Examine India's approach to the Israel-Palestine conflict in light of strategic autonomy.",
+      "question_hi": "रणनीतिक स्वायत्तता के आलोक में इज़राइल-फिलिस्तीन संघर्ष के प्रति भारत के दृष्टिकोण की जाँच कीजिए।",
       "keyPoints": [
         "Historical positions",
         "Evacuation & diaspora safety",
@@ -36,23 +37,24 @@
         "Call for dialogue under UN framework"
       ],
       "keyPoints_hi": [
-        "Historical positions",
-        "Evacuation & diaspora safety",
-        "Energy and defence ties balance",
-        "Call for dialogue under UN framework"
+        "ऐतिहासिक अवस्थितियाँ",
+        "निकासी और प्रवासी सुरक्षा",
+        "ऊर्जा व रक्षा संबंधों का संतुलन",
+        "संयुक्त राष्ट्र ढाँचे में संवाद का आह्वान"
       ],
       "modelAnswer": "Examine India's approach to the Israel-Palestine conflict in light of strategic autonomy. Key dimensions include: Historical positions; Evacuation & diaspora safety; Energy and defence ties balance; Call for dialogue under UN framework. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "भारत का दृष्टिकोण ऐतिहासिक रूप से दो-राज्य समाधान और मानवीय चिंताओं के प्रति संवेदनशीलता पर आधारित रहा है, साथ ही अपनी रणनीतिक स्वायत्तता की रक्षा भी करता है। संघर्ष के दौरान प्रवासियों की सुरक्षा और निकासी संचालन राष्ट्रीय प्राथमिकता बनते हैं। ऊर्जा व रक्षा संबंधों को संतुलित रखते हुए भारत संवाद और अंतरराष्ट्रीय कानून के पक्ष में खड़ा रहता है। संयुक्त राष्ट्र ढाँचे में शांतिपूर्ण समाधान का आह्वान उसकी नीति का मूल तत्व है। आलोचनात्मक दृष्टि से देखें तो जटिल भू-राजनीति में तटस्थता बनाए रखना चुनौतीपूर्ण है, फिर भी तथ्यात्मक, शांत और संविधान-संगत भाषा में उत्तर देना परीक्षा के लिए उपयुक्त है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la03",
       "domain": "Current Affairs",
       "question": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
-      "question_hi": "Evaluate the role of Quad in India's Indo-Pacific strategy.",
+      "question_hi": "भारत की इंडो-पैसिफिक रणनीति में Quad की भूमिका का मूल्यांकन कीजिए।",
       "keyPoints": [
         "Maritime security & HADR",
         "Supply chain resilience",
@@ -60,23 +62,24 @@
         "Strategic autonomy caveats"
       ],
       "keyPoints_hi": [
-        "Maritime security & HADR",
-        "Supply chain resilience",
-        "Technology cooperation",
-        "Strategic autonomy caveats"
+        "समुद्री सुरक्षा और HADR",
+        "आपूर्ति श्रृंखला लचीलापन",
+        "प्रौद्योगिकी सहयोग",
+        "रणनीतिक स्वायत्तता की सावधानियाँ"
       ],
       "modelAnswer": "Evaluate the role of Quad in India's Indo-Pacific strategy. Key dimensions include: Maritime security & HADR; Supply chain resilience; Technology cooperation; Strategic autonomy caveats. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "Quad भारत की इंडो-पैसिफिक दृष्टि का एक महत्वपूर्ण स्तंभ है, जो समुद्री सुरक्षा, मानवीय सहायता एवं आपदा राहत (HADR), आपूर्ति श्रृंखला लचीलापन और प्रौद्योगिकी सहयोग पर केंद्रित है। यह साझेदारी क्षमता बढ़ाती है, पर भारत इसे सैन्य गुट के रूप में नहीं देखता। रणनीतिक स्वायत्तता बनाए रखते हुए बहु-संरेखण अपनाना उसकी नीति का मूल है। ASEAN केंद्रियता और अंतरराष्ट्रीय कानून पर बल देने से क्षेत्रीय विश्वास बना रहता है। मूल्यांकन में अवसरों के साथ निर्भरता और धारणा संबंधी जोखिम भी उल्लेखनीय हैं। आगे का मार्ग स्पष्टता, पारदर्शिता और विकास-केंद्रित सहयोग है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la04",
       "domain": "Current Affairs",
       "question": "What are the key features and challenges of the National Education Policy 2020 implementation?",
-      "question_hi": "What are the key features and challenges of the National Education Policy 2020 implementation?",
+      "question_hi": "राष्ट्रीय शिक्षा नीति 2020 के क्रियान्वयन की प्रमुख विशेषताएँ और चुनौतियाँ क्या हैं?",
       "keyPoints": [
         "Multidisciplinary & flexibility",
         "Foundational literacy push",
@@ -84,23 +87,24 @@
         "Federal coordination"
       ],
       "keyPoints_hi": [
-        "Multidisciplinary & flexibility",
-        "Foundational literacy push",
-        "Teacher training & funding",
-        "Federal coordination"
+        "बहुविषयकता और लचीलापन",
+        "आधारभूत साक्षरता पर बल",
+        "शिक्षक प्रशिक्षण और वित्तपोषण",
+        "संघीय समन्वय"
       ],
       "modelAnswer": "What are the key features and challenges of the National Education Policy 2020 implementation. Key dimensions include: Multidisciplinary & flexibility; Foundational literacy push; Teacher training & funding; Federal coordination. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "NEP 2020 बहुविषयक शिक्षा, लचीले पाठ्यक्रम और आधारभूत साक्षरता-संख्यात्मकता पर बल देती है। इसका लक्ष्य ज्ञान अर्थव्यवस्था के अनुरूप कौशल और मूल्यों का विकास है। क्रियान्वयन में शिक्षक प्रशिक्षण, वित्तपोषण और राज्य-केंद्र समन्वय बड़ी चुनौतियाँ हैं। डिजिटल विभाजन और ग्रामीण स्कूल क्षमता भी अंतराल पैदा करती है। सफलता मापने के लिए केवल नीति दस्तावेज नहीं, बल्कि सीखने के परिणाम और समान पहुँच निर्णायक हैं। व्यावहारिक मार्ग चरणबद्ध क्रियान्वयन, शिक्षक समर्थन और संघीय सहयोग है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la05",
       "domain": "Current Affairs",
       "question": "Analyse the implications of India's rising space economy.",
-      "question_hi": "Analyse the implications of India's rising space economy.",
+      "question_hi": "भारत की बढ़ती अंतरिक्ष अर्थव्यवस्था के निहितार्थों का विश्लेषण कीजिए।",
       "keyPoints": [
         "Commercial launches",
         "Satellite applications",
@@ -108,23 +112,24 @@
         "Strategic & export potential"
       ],
       "keyPoints_hi": [
-        "Commercial launches",
-        "Satellite applications",
-        "Private sector ecosystem",
-        "Strategic & export potential"
+        "वाणिज्यिक प्रक्षेपण",
+        "उपग्रह अनुप्रयोग",
+        "निजी क्षेत्र पारिस्थितिकी",
+        "रणनीतिक और निर्यात क्षमता"
       ],
       "modelAnswer": "Analyse the implications of India's rising space economy. Key dimensions include: Commercial launches; Satellite applications; Private sector ecosystem; Strategic & export potential. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "भारत की अंतरिक्ष अर्थव्यवस्था शुद्ध विज्ञान से आगे बढ़कर वाणिज्यिक प्रक्षेपण और कृषि, आपदा चेतावनी व कनेक्टिविटी जैसे अनुप्रयोगों तक पहुँची है। निजी स्टार्टअप ISRO पारिस्थितिकी से जुड़कर रोज़गार और निर्यात संभावनाएँ बढ़ा रहे हैं। रणनीतिक तकनीक दोहरे उपयोग नियंत्रण और आपूर्ति श्रृंखला सुरक्षा मांगती है। अंतरराष्ट्रीय साझेदारियाँ क्षमता बढ़ाती हैं, पर स्वायत्तता के प्रश्न भी उठाती हैं। STEM शिक्षा और ग्राउंड अवसंरचना में निवेश से अंतरिक्ष केवल प्रतिष्ठा परियोजना नहीं, विकास का सार्वजनिक उपयोग बनता है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la06",
       "domain": "Current Affairs",
       "question": "Discuss India's renewable energy targets and the road to energy security.",
-      "question_hi": "Discuss India's renewable energy targets and the road to energy security.",
+      "question_hi": "भारत के नवीकरणीय ऊर्जा लक्ष्यों और ऊर्जा सुरक्षा के मार्ग की चर्चा कीजिए।",
       "keyPoints": [
         "Solar/wind scale-up",
         "Storage & grid challenges",
@@ -132,23 +137,24 @@
         "Just transition"
       ],
       "keyPoints_hi": [
-        "Solar/wind scale-up",
-        "Storage & grid challenges",
-        "Green hydrogen",
-        "Just transition"
+        "सौर/पवन विस्तार",
+        "भंडारण और ग्रिड चुनौतियाँ",
+        "ग्रीन हाइड्रोजन",
+        "न्यायसंगत संक्रमण"
       ],
       "modelAnswer": "Discuss India's renewable energy targets and the road to energy security. Key dimensions include: Solar/wind scale-up; Storage & grid challenges; Green hydrogen; Just transition. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "भारत ने सौर और पवन क्षमता के विस्तार से नवीकरणीय ऊर्जा लक्ष्यों की दिशा में उल्लेखनीय प्रगति की है। ऊर्जा सुरक्षा के लिए भंडारण, ग्रिड आधुनिकीकरण और विश्वसनीय आपूर्ति आवश्यक है। ग्रीन हाइड्रोजन कठिन-से-कम करने वाले उद्योगों के डीकार्बनाइज़ेशन में मदद कर सकता है। साथ ही, न्यायसंगत संक्रमण सुनिश्चित करना चाहिए ताकि प्रभावित समुदायों और श्रमिकों को कौशल व रोज़गार मिलें। नीति, निवेश और स्थानीय क्षमता का संयोजन ही सतत ऊर्जा सुरक्षा का मार्ग है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la07",
       "domain": "Current Affairs",
       "question": "Assess the importance of BIMSTEC for India's Act East and Neighbourhood First policies.",
-      "question_hi": "Assess the importance of BIMSTEC for India's Act East and Neighbourhood First policies.",
+      "question_hi": "भारत की एक्ट ईस्ट और नेबरहुड फर्स्ट नीतियों के लिए BIMSTEC के महत्व का आकलन कीजिए।",
       "keyPoints": [
         "Bay of Bengal connectivity",
         "SAARC limitations context",
@@ -156,23 +162,24 @@
         "Implementation gaps"
       ],
       "keyPoints_hi": [
-        "Bay of Bengal connectivity",
-        "SAARC limitations context",
-        "Trade and security cooperation",
-        "Implementation gaps"
+        "बंगाल की खाड़ी कनेक्टिविटी",
+        "SAARC सीमाओं का संदर्भ",
+        "व्यापार और सुरक्षा सहयोग",
+        "क्रियान्वयन अंतराल"
       ],
       "modelAnswer": "Assess the importance of BIMSTEC for India's Act East and Neighbourhood First policies. Key dimensions include: Bay of Bengal connectivity; SAARC limitations context; Trade and security cooperation; Implementation gaps. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "BIMSTEC बंगाल की खाड़ी क्षेत्र में कनेक्टिविटी, व्यापार और सुरक्षा सहयोग का मंच प्रदान करता है, जो भारत की एक्ट ईस्ट और नेबरहुड फर्स्ट नीतियों से मेल खाता है। SAARC की सीमाओं के संदर्भ में यह व्यावहारिक विकल्प बनता है। परियोजनाओं की सफलता क्रियान्वयन, वित्तपोषण और आपसी विश्वास पर निर्भर है। आकलन में क्षमता के साथ अंतराल भी स्वीकार करने चाहिए। आगे का मार्ग प्राथमिकता परियोजनाओं पर ध्यान और लोगों के बीच संपर्क मजबूत करना है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la08",
       "domain": "Current Affairs",
       "question": "Explain how Digital India initiatives have impacted financial inclusion.",
-      "question_hi": "Explain how Digital India initiatives have impacted financial inclusion.",
+      "question_hi": "डिजिटल इंडिया पहलों ने वित्तीय समावेशन को कैसे प्रभावित किया है, समझाइए।",
       "keyPoints": [
         "JAM trinity",
         "UPI & DBT",
@@ -180,23 +187,24 @@
         "Consumer protection"
       ],
       "keyPoints_hi": [
-        "JAM trinity",
-        "UPI & DBT",
-        "Last-mile challenges",
-        "Consumer protection"
+        "JAM त्रयी",
+        "UPI और DBT",
+        "लास्ट-माइल चुनौतियाँ",
+        "उपभोक्ता संरक्षण"
       ],
       "modelAnswer": "Explain how Digital India initiatives have impacted financial inclusion. Key dimensions include: JAM trinity; UPI & DBT; Last-mile challenges; Consumer protection. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "जन धन–आधार–मोबाइल (JAM) त्रयी, UPI और प्रत्यक्ष लाभ हस्तांतरण (DBT) ने वित्तीय समावेशन को तेज़ी से आगे बढ़ाया है। लीकेज घटे और सेवा पहुँच सुधरी है। फिर भी डिजिटल साक्षरता, कनेक्टिविटी और साइबर धोखाधड़ी लास्ट-माइल चुनौतियाँ बनी हुई हैं। उपभोक्ता संरक्षण, शिकायत निवारण और ऑफलाइन विकल्प आवश्यक हैं। संतुलित दृष्टिकोण नवाचार के साथ विश्वास और समावेशन सुनिश्चित करता है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la09",
       "domain": "Current Affairs",
       "question": "Critically examine the debate around simultaneous elections in India.",
-      "question_hi": "Critically examine the debate around simultaneous elections in India.",
+      "question_hi": "भारत में एक साथ चुनाव की बहस की आलोचनात्मक जाँच कीजिए।",
       "keyPoints": [
         "Cost and governance arguments",
         "Federal and accountability concerns",
@@ -204,23 +212,24 @@
         "Phased options"
       ],
       "keyPoints_hi": [
-        "Cost and governance arguments",
-        "Federal and accountability concerns",
-        "Constitutional amendments",
-        "Phased options"
+        "लागत और शासन संबंधी तर्क",
+        "संघीय और जवाबदेही चिंताएँ",
+        "संवैधानिक संशोधन",
+        "चरणबद्ध विकल्प"
       ],
       "modelAnswer": "Critically examine the debate around simultaneous elections in India. Key dimensions include: Cost and governance arguments; Federal and accountability concerns; Constitutional amendments; Phased options. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "एक साथ चुनाव के समर्थक लागत बचत, नीति निरंतरता और बार-बार आचार संहिता से राहत का तर्क देते हैं। आलोचक संघवाद, क्षेत्रीय मुद्दों की अवहेलना और जवाबदेही कम होने की आशंका जताते हैं। क्रियान्वयन के लिए संवैधानिक संशोधन और व्यापक सहमति आवश्यक है। चरणबद्ध दृष्टिकोण तनाव कम कर सकता है। आलोचनात्मक उत्तर दोनों पक्षों को तथ्यात्मक ढंग से रखे और सहमति-आधारित मार्ग सुझाए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la10",
       "domain": "Current Affairs",
       "question": "Discuss India's vaccine diplomacy and its soft power outcomes.",
-      "question_hi": "Discuss India's vaccine diplomacy and its soft power outcomes.",
+      "question_hi": "भारत की वैक्सीन कूटनीति और उसके सॉफ्ट पावर परिणामों की चर्चा कीजिए।",
       "keyPoints": [
         "Manufacturing capacity",
         "Global South outreach",
@@ -228,23 +237,24 @@
         "Health diplomacy brand"
       ],
       "keyPoints_hi": [
-        "Manufacturing capacity",
-        "Global South outreach",
-        "Supply constraints lessons",
-        "Health diplomacy brand"
+        "विनिर्माण क्षमता",
+        "ग्लोबल साउथ आउटरीच",
+        "आपूर्ति बाधाओं के सबक",
+        "स्वास्थ्य कूटनीति ब्रांड"
       ],
       "modelAnswer": "Discuss India's vaccine diplomacy and its soft power outcomes. Key dimensions include: Manufacturing capacity; Global South outreach; Supply constraints lessons; Health diplomacy brand. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "वैक्सीन कूटनीति ने भारत की विनिर्माण क्षमता और ग्लोबल साउथ के प्रति सहभागिता को रेखांकित किया। स्वास्थ्य सहायता ने सॉफ्ट पावर और विश्वास बढ़ाया। साथ ही, घरेलू मांग और आपूर्ति बाधाओं ने सबक दिए कि कूटनीति घरेलू तैयारी से जुड़ी होनी चाहिए। आगे, स्थायी स्वास्थ्य साझेदारी और अनुसंधान सहयोग इस ब्रांड को मजबूत कर सकते हैं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la11",
       "domain": "Current Affairs",
       "question": "What steps can strengthen India's disaster preparedness against extreme weather?",
-      "question_hi": "What steps can strengthen India's disaster preparedness against extreme weather?",
+      "question_hi": "चरम मौसम के विरुद्ध भारत की आपदा तैयारी मजबूत करने के लिए क्या कदम उठाए जा सकते हैं?",
       "keyPoints": [
         "Early warning systems",
         "Infrastructure resilience",
@@ -252,23 +262,24 @@
         "Insurance & recovery"
       ],
       "keyPoints_hi": [
-        "Early warning systems",
-        "Infrastructure resilience",
-        "Local capacity & NDMA",
-        "Insurance & recovery"
+        "पूर्व चेतावनी प्रणाली",
+        "अवसंरचना लचीलापन",
+        "स्थानीय क्षमता और NDMA",
+        "बीमा और पुनर्प्राप्ति"
       ],
       "modelAnswer": "What steps can strengthen India's disaster preparedness against extreme weather. Key dimensions include: Early warning systems; Infrastructure resilience; Local capacity & NDMA; Insurance & recovery. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "चरम मौसम की बढ़ती आवृत्ति के कारण पूर्व चेतावनी, लचीली अवसंरचना और स्थानीय क्षमता अनिवार्य हैं। NDMA ढाँचे के साथ जिला स्तर की तैयारी निर्णायक है। बीमा और शीघ्र पुनर्प्राप्ति कमज़ोर वर्गों की रक्षा करते हैं। पारंपरिक ज्ञान और वैज्ञानिक पूर्वानुमान का संयोजन सामुदायिक स्वामित्व बढ़ाता है। आपदा तैयारी विकास निवेश का अभिन्न अंग होनी चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la12",
       "domain": "Current Affairs",
       "question": "Analyse the strategic importance of the Indian Ocean Region for India.",
-      "question_hi": "Analyse the strategic importance of the Indian Ocean Region for India.",
+      "question_hi": "भारत के लिए हिंद महासागर क्षेत्र के रणनीतिक महत्व का विश्लेषण कीजिए।",
       "keyPoints": [
         "Trade & energy routes",
         "Maritime domain awareness",
@@ -276,23 +287,24 @@
         "Blue economy"
       ],
       "keyPoints_hi": [
-        "Trade & energy routes",
-        "Maritime domain awareness",
-        "Partnerships & SAGAR",
-        "Blue economy"
+        "व्यापार और ऊर्जा मार्ग",
+        "समुद्री क्षेत्र जागरूकता",
+        "साझेदारियाँ और SAGAR",
+        "ब्लू इकॉनमी"
       ],
       "modelAnswer": "Analyse the strategic importance of the Indian Ocean Region for India. Key dimensions include: Trade & energy routes; Maritime domain awareness; Partnerships & SAGAR; Blue economy. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "हिंद महासागर ऊर्जा और व्यापार मार्गों का केंद्र है, जो भारत की अर्थव्यवस्था के लिए निर्णायक हैं। समुद्री क्षेत्र जागरूकता, तटीय निगरानी और क्षेत्रीय साझेदारियाँ सुरक्षा बढ़ाती हैं। SAGAR दृष्टि सहयोग और अंतरराष्ट्रीय कानून पर बल देती है। ब्लू इकॉनमी—बंदरगाह, मत्स्य और नवीकरणीय ऊर्जा—विकास एजेंडे से जुड़ी है। इस प्रकार समुद्री सुरक्षा रक्षा और विकास दोनों का विषय है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la13",
       "domain": "Current Affairs",
       "question": "Discuss challenges in implementing women's reservation in legislatures.",
-      "question_hi": "Discuss challenges in implementing women's reservation in legislatures.",
+      "question_hi": "विधायिकाओं में महिला आरक्षण लागू करने की चुनौतियों की चर्चा कीजिए।",
       "keyPoints": [
         "Delimitation linkage",
         "Party ticket dynamics",
@@ -300,23 +312,24 @@
         "Social barriers"
       ],
       "keyPoints_hi": [
-        "Delimitation linkage",
-        "Party ticket dynamics",
-        "Capacity building",
-        "Social barriers"
+        "परिसीमन से जुड़ाव",
+        "दल टिकट गतिशीलता",
+        "क्षमता निर्माण",
+        "सामाजिक बाधाएँ"
       ],
       "modelAnswer": "Discuss challenges in implementing women's reservation in legislatures. Key dimensions include: Delimitation linkage; Party ticket dynamics; Capacity building; Social barriers. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "महिला आरक्षण अधिनियम प्रतिनिधित्व बढ़ाने की दिशा में महत्वपूर्ण कदम है, पर क्रियान्वयन परिसीमन और राजनीतिक इच्छाशक्ति पर निर्भर है। दलों द्वारा टिकट वितरण, क्षमता निर्माण और सामाजिक बाधाएँ वास्तविक भागीदारी तय करती हैं। संख्या बढ़ना पर्याप्त नहीं; एजेंसी और सुरक्षित राजनीतिक स्थान भी आवश्यक हैं। आगे, प्रशिक्षण, स्थानीय नेतृत्व अनुभव और सामाजिक परिवर्तन मिलकर समावेशी प्रतिनिधित्व सुनिश्चित करेंगे।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la14",
       "domain": "Current Affairs",
       "question": "Evaluate India's semiconductor mission in the context of supply-chain security.",
-      "question_hi": "Evaluate India's semiconductor mission in the context of supply-chain security.",
+      "question_hi": "आपूर्ति श्रृंखला सुरक्षा के संदर्भ में भारत के सेमीकंडक्टर मिशन का मूल्यांकन कीजिए।",
       "keyPoints": [
         "Strategic tech autonomy",
         "Incentive schemes",
@@ -324,23 +337,24 @@
         "Geopolitical risks"
       ],
       "keyPoints_hi": [
-        "Strategic tech autonomy",
-        "Incentive schemes",
-        "Skill & fab ecosystem",
-        "Geopolitical risks"
+        "रणनीतिक तकनीकी स्वायत्तता",
+        "प्रोत्साहन योजनाएँ",
+        "कौशल और फैब पारिस्थितिकी",
+        "भू-राजनीतिक जोखिम"
       ],
       "modelAnswer": "Evaluate India's semiconductor mission in the context of supply-chain security. Key dimensions include: Strategic tech autonomy; Incentive schemes; Skill & fab ecosystem; Geopolitical risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "सेमीकंडक्टर मिशन रणनीतिक तकनीकी स्वायत्तता और आपूर्ति श्रृंखला सुरक्षा से जुड़ा है। प्रोत्साहन योजनाएँ निवेश आकर्षित करती हैं, पर कौशल, फैब पारिस्थितिकी और दीर्घकालिक प्रतिबद्धता आवश्यक हैं। भू-राजनीतिक जोखिमों के बीच साझेदारियाँ उपयोगी हैं, पर निर्भरता का प्रबंधन जरूरी है। मूल्यांकन में औद्योगिक नीति, अनुसंधान और मानव पूंजी को एक साथ देखना चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la15",
       "domain": "Economics",
       "question": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
-      "question_hi": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
+      "question_hi": "राजकोषीय घाटे की अवधारणा और भारतीय अर्थव्यवस्था पर उसके प्रभाव समझाइए।",
       "keyPoints": [
         "Definition & financing",
         "Crowding out vs growth",
@@ -348,23 +362,24 @@
         "Quality of expenditure"
       ],
       "keyPoints_hi": [
-        "Definition & financing",
-        "Crowding out vs growth",
-        "FRBM discipline",
-        "Quality of expenditure"
+        "परिभाषा और वित्तपोषण",
+        "क्राउडिंग आउट बनाम विकास",
+        "FRBM अनुशासन",
+        "व्यय की गुणवत्ता"
       ],
       "modelAnswer": "Explain the concept of fiscal deficit and its implications for the Indian economy. Key dimensions include: Definition & financing; Crowding out vs growth; FRBM discipline; Quality of expenditure. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "राजकोषीय घाटा सरकार की कुल प्राप्तियों और कुल व्यय के अंतर को दर्शाता है। इसका वित्तपोषण उधार से होता है, जो ब्याज भार बढ़ा सकता है। एक ओर घाटा विकास व्यय के लिए आवश्यक हो सकता है; दूसरी ओर अत्यधिक घाटा निजी निवेश को क्राउड आउट कर सकता है। FRBM अनुशासन स्थिरता के लिए महत्वपूर्ण है। निर्णायक प्रश्न घाटे का आकार ही नहीं, बल्कि व्यय की गुणवत्ता—पूंजी निर्माण बनाम राजस्व व्यय—है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la16",
       "domain": "Economics",
       "question": "Discuss the role of MSMEs in employment generation in India.",
-      "question_hi": "Discuss the role of MSMEs in employment generation in India.",
+      "question_hi": "भारत में रोज़गार सृजन में MSME की भूमिका की चर्चा कीजिए।",
       "keyPoints": [
         "Employment share",
         "Credit & formalisation",
@@ -372,23 +387,24 @@
         "Policy support"
       ],
       "keyPoints_hi": [
-        "Employment share",
-        "Credit & formalisation",
-        "Market access/export",
-        "Policy support"
+        "रोज़गार हिस्सेदारी",
+        "ऋण और औपचारिकीकरण",
+        "बाज़ार पहुँच/निर्यात",
+        "नीति समर्थन"
       ],
       "modelAnswer": "Discuss the role of MSMEs in employment generation in India. Key dimensions include: Employment share; Credit & formalisation; Market access/export; Policy support. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "MSME भारतीय अर्थव्यवस्था में रोज़गार का बड़ा हिस्सा प्रदान करते हैं और समावेशी विकास की रीढ़ हैं। ऋण पहुँच, औपचारिकीकरण और बाज़ार पहुँच प्रमुख चुनौतियाँ हैं। निर्यात क्षमता और डिजिटल अपनाने से प्रतिस्पर्धा बढ़ सकती है। नीति समर्थन—क्रेडिट गारंटी, कौशल और खरीद प्राथमिकता—सहायक हैं। लक्ष्य लचीलापन खोए बिना उद्यमों को पैमाना और उत्पादकता बढ़ाने में सक्षम बनाना होना चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la17",
       "domain": "Economics",
       "question": "Examine the challenges of agricultural price realisation for Indian farmers.",
-      "question_hi": "Examine the challenges of agricultural price realisation for Indian farmers.",
+      "question_hi": "भारतीय किसानों के लिए कृषि मूल्य प्राप्ति की चुनौतियों की जाँच कीजिए।",
       "keyPoints": [
         "Market fragmentation",
         "MSP debates",
@@ -396,23 +412,24 @@
         "Value chains"
       ],
       "keyPoints_hi": [
-        "Market fragmentation",
-        "MSP debates",
-        "FPOs & e-NAM",
-        "Value chains"
+        "बाज़ार विखंडन",
+        "MSP बहस",
+        "FPO और e-NAM",
+        "मूल्य श्रृंखलाएँ"
       ],
       "modelAnswer": "Examine the challenges of agricultural price realisation for Indian farmers. Key dimensions include: Market fragmentation; MSP debates; FPOs & e-NAM; Value chains. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "किसानों को उचित मूल्य न मिलना बाज़ार विखंडन, बिचौलियों और सूचना असमानता से जुड़ा है। MSP बहस सुरक्षा जाल और राजकोषीय स्थिरता दोनों उठाती है। FPO और e-NAM सामूहिक सौदेबाजी व पारदर्शी बाज़ार में मदद कर सकते हैं। मूल्य श्रृंखला—प्रसंस्करण, भंडारण, ब्रांडिंग—से मूल्य प्राप्ति सुधरती है। आगे का मार्ग बाजार सुधारों के साथ जलवायु-लचीली खेती और किसान सुरक्षा जाल का संतुलन है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la18",
       "domain": "Economics",
       "question": "What is inflation targeting? Assess RBI's role in price stability.",
-      "question_hi": "What is inflation targeting? Assess RBI's role in price stability.",
+      "question_hi": "मुद्रास्फीति लक्ष्यीकरण क्या है? मूल्य स्थिरता में RBI की भूमिका का आकलन कीजिए।",
       "keyPoints": [
         "MPC framework",
         "Instruments",
@@ -420,23 +437,24 @@
         "Growth-inflation trade-off"
       ],
       "keyPoints_hi": [
-        "MPC framework",
-        "Instruments",
-        "Supply-side shocks",
-        "Growth-inflation trade-off"
+        "MPC ढाँचा",
+        "उपकरण",
+        "आपूर्ति पक्ष झटके",
+        "विकास-मुद्रास्फीति व्यापार-संतुलन"
       ],
       "modelAnswer": "What is inflation targeting? Assess RBI's role in price stability. Key dimensions include: MPC framework; Instruments; Supply-side shocks; Growth-inflation trade-off. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "मुद्रास्फीति लक्ष्यीकरण वह ढाँचा है जिसमें केंद्रीय बैंक घोषित लक्ष्य सीमा के भीतर मुद्रास्फीति रखने का प्रयास करता है। भारत में मौद्रिक नीति समिति (MPC) रेपो दर जैसे उपकरणों से नीति निर्धारित करती है। आपूर्ति पक्ष झटके—खाद्य, ईंधन—चुनौती पैदा करते हैं क्योंकि मौद्रिक नीति की पहुँच सीमित होती है। RBI को विकास और मूल्य स्थिरता के बीच संतुलन साधना होता है। पारदर्शिता और विश्वसनीयता इस ढाँचे की सफलता की कुंजी हैं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la19",
       "domain": "Economics",
       "question": "Analyse the impact of GST on cooperative federalism.",
-      "question_hi": "Analyse the impact of GST on cooperative federalism.",
+      "question_hi": "सहकारी संघवाद पर GST के प्रभाव का विश्लेषण कीजिए।",
       "keyPoints": [
         "GST Council",
         "Revenue certainty issues",
@@ -444,23 +462,24 @@
         "Reform agenda"
       ],
       "keyPoints_hi": [
-        "GST Council",
-        "Revenue certainty issues",
-        "Compliance simplification",
-        "Reform agenda"
+        "GST परिषद",
+        "राजस्व निश्चितता मुद्दे",
+        "अनुपालन सरलीकरण",
+        "सुधार एजेंडा"
       ],
       "modelAnswer": "Analyse the impact of GST on cooperative federalism. Key dimensions include: GST Council; Revenue certainty issues; Compliance simplification; Reform agenda. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "GST ने कर व्यवस्था को एकीकृत कर सहकारी संघवाद का संस्थागत मंच—GST परिषद—दिया। इससे अनुपालन सरलीकरण और राष्ट्रीय बाज़ार को बल मिला। साथ ही, राजस्व निश्चितता, मुआवज़ा और दर संरचना पर तनाव भी देखे गए। विश्लेषण में उपलब्धियों और संघीय विवाद दोनों को रखना चाहिए। आगे डेटा-आधारित सुधार और विश्वास से सहकारी संघवाद मजबूत होगा।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la20",
       "domain": "Economics",
       "question": "Discuss unemployment types relevant to India and policy responses.",
-      "question_hi": "Discuss unemployment types relevant to India and policy responses.",
+      "question_hi": "भारत के लिए प्रासंगिक बेरोज़गारी के प्रकारों और नीति प्रतिक्रियाओं की चर्चा कीजिए।",
       "keyPoints": [
         "Structural/frictional/disguised",
         "Skilling & PLFS insights",
@@ -468,23 +487,24 @@
         "Female LFPR"
       ],
       "keyPoints_hi": [
-        "Structural/frictional/disguised",
-        "Skilling & PLFS insights",
-        "Labour-intensive sectors",
-        "Female LFPR"
+        "संरचनात्मक/घर्षणात्मक/प्रच्छन्न",
+        "कौशल और PLFS अंतर्दृष्टि",
+        "श्रम-प्रधान क्षेत्र",
+        "महिला LFPR"
       ],
       "modelAnswer": "Discuss unemployment types relevant to India and policy responses. Key dimensions include: Structural/frictional/disguised; Skilling & PLFS insights; Labour-intensive sectors; Female LFPR. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "भारत में संरचनात्मक, घर्षणात्मक और प्रच्छन्न बेरोज़गारी महत्वपूर्ण हैं। शिक्षा-रोज़गार अंतराल और कौशल कमी संरचनात्मक समस्या बढ़ाती है। PLFS आँकड़े नीति को दिशा देते हैं। श्रम-प्रधान क्षेत्रों—निर्माण, पर्यटन, MSME—में निवेश और महिला श्रम बल भागीदारी बढ़ाना आवश्यक है। कौशल, इंटर्नशिप और सामाजिक सुरक्षा मिलकर गुणवत्तापूर्ण रोज़गार का मार्ग बनाते हैं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la21",
       "domain": "Economics",
       "question": "Explain the significance of foreign direct investment for India's growth.",
-      "question_hi": "Explain the significance of foreign direct investment for India's growth.",
+      "question_hi": "भारत के विकास के लिए प्रत्यक्ष विदेशी निवेश के महत्व को समझाइए।",
       "keyPoints": [
         "Capital & technology",
         "Sectoral FDI policy",
@@ -492,23 +512,24 @@
         "Strategic sectors caution"
       ],
       "keyPoints_hi": [
-        "Capital & technology",
-        "Sectoral FDI policy",
-        "Ease of doing business",
-        "Strategic sectors caution"
+        "पूंजी और प्रौद्योगिकी",
+        "क्षेत्रीय FDI नीति",
+        "व्यापार सुगमता",
+        "रणनीतिक क्षेत्रों में सावधानी"
       ],
       "modelAnswer": "Explain the significance of foreign direct investment for India's growth. Key dimensions include: Capital & technology; Sectoral FDI policy; Ease of doing business; Strategic sectors caution. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "FDI पूंजी, प्रौद्योगिकी और प्रबंधन प्रथाएँ लाकर उत्पादकता बढ़ा सकता है। क्षेत्रीय नीति और व्यापार सुगमता प्रवाह तय करती हैं। रणनीतिक क्षेत्रों में सुरक्षा और स्वायत्तता का ध्यान रखना आवश्यक है। FDI विकास का साधन है, लक्ष्य नहीं; घरेलू क्षमता और नवाचार के साथ इसका संतुलन चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la22",
       "domain": "Economics",
       "question": "Evaluate the potential of the green economy for job creation.",
-      "question_hi": "Evaluate the potential of the green economy for job creation.",
+      "question_hi": "रोज़गार सृजन के लिए हरित अर्थव्यवस्था की क्षमता का मूल्यांकन कीजिए।",
       "keyPoints": [
         "Renewables & EVs",
         "Circular economy",
@@ -516,23 +537,24 @@
         "Just transition finance"
       ],
       "keyPoints_hi": [
-        "Renewables & EVs",
-        "Circular economy",
-        "Reskilling needs",
-        "Just transition finance"
+        "नवीकरणीय और EV",
+        "परिपत्र अर्थव्यवस्था",
+        "पुनःकौशल आवश्यकताएँ",
+        "न्यायसंगत संक्रमण वित्त"
       ],
       "modelAnswer": "Evaluate the potential of the green economy for job creation. Key dimensions include: Renewables & EVs; Circular economy; Reskilling needs; Just transition finance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "हरित अर्थव्यवस्था—नवीकरणीय ऊर्जा, EV, अपशिष्ट प्रबंधन और परिपत्र अर्थव्यवस्था—नए रोज़गार खोल सकती है। पर पारंपरिक क्षेत्रों से संक्रमण में पुनःकौशल और वित्त आवश्यक हैं। न्यायसंगत संक्रमण सुनिश्चित किए बिना सामाजिक तनाव बढ़ सकता है। मूल्यांकन में रोज़गार संख्या के साथ गुणवत्ता और क्षेत्रीय संतुलन भी देखना चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la23",
       "domain": "Economics",
       "question": "Discuss financial inclusion beyond account opening.",
-      "question_hi": "Discuss financial inclusion beyond account opening.",
+      "question_hi": "खाता खोलने से परे वित्तीय समावेशन की चर्चा कीजिए।",
       "keyPoints": [
         "Credit & insurance",
         "Digital payments safety",
@@ -540,23 +562,24 @@
         "Last-mile banking"
       ],
       "keyPoints_hi": [
-        "Credit & insurance",
-        "Digital payments safety",
-        "Literacy",
-        "Last-mile banking"
+        "ऋण और बीमा",
+        "डिजिटल भुगतान सुरक्षा",
+        "साक्षरता",
+        "लास्ट-माइल बैंकिंग"
       ],
       "modelAnswer": "Discuss financial inclusion beyond account opening. Key dimensions include: Credit & insurance; Digital payments safety; Literacy; Last-mile banking. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "वित्तीय समावेशन केवल खाता खोलना नहीं, बल्कि उपयोगी ऋण, बीमा, बचत और सुरक्षित डिजिटल भुगतान तक पहुँच है। वित्तीय साक्षरता और उपभोक्ता संरक्षण विश्वास बढ़ाते हैं। लास्ट-माइल बैंकिंग और महिला/ग्रामीण पहुँच निर्णायक हैं। लक्ष्य सशक्तिकरण है, न कि केवल आँकड़ों में खातों की संख्या।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la24",
       "domain": "Economics",
       "question": "What are the key constraints facing India's manufacturing push?",
-      "question_hi": "What are the key constraints facing India's manufacturing push?",
+      "question_hi": "भारत के विनिर्माण अभियान की प्रमुख बाधाएँ क्या हैं?",
       "keyPoints": [
         "Logistics & land",
         "Skills",
@@ -564,23 +587,24 @@
         "PLI lessons"
       ],
       "keyPoints_hi": [
-        "Logistics & land",
-        "Skills",
-        "Global value chains",
-        "PLI lessons"
+        "लॉजिस्टिक्स और भूमि",
+        "कौशल",
+        "वैश्विक मूल्य श्रृंखलाएँ",
+        "PLI सबक"
       ],
       "modelAnswer": "What are the key constraints facing India's manufacturing push. Key dimensions include: Logistics & land; Skills; Global value chains; PLI lessons. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "विनिर्माण विस्तार में लॉजिस्टिक्स लागत, भूमि उपलब्धता, कौशल अंतराल और वैश्विक मूल्य श्रृंखलाओं में प्रवेश बाधाएँ हैं। PLI जैसी योजनाएँ निवेश आकर्षित करती हैं, पर आपूर्तिकर्ता पारिस्थितिकी और निरंतरता महत्वपूर्ण हैं। सुधारों का लक्ष्य प्रतिस्पर्धा, गुणवत्ता और रोज़गार सृजन एक साथ होना चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la25",
       "domain": "Economics",
       "question": "Examine the role of the Finance Commission in Centre-State fiscal relations.",
-      "question_hi": "Examine the role of the Finance Commission in Centre-State fiscal relations.",
+      "question_hi": "केंद्र-राज्य राजकोषीय संबंधों में वित्त आयोग की भूमिका की जाँच कीजिए।",
       "keyPoints": [
         "Tax devolution",
         "Grants",
@@ -588,23 +612,24 @@
         "Recommendations vs politics"
       ],
       "keyPoints_hi": [
-        "Tax devolution",
-        "Grants",
-        "Horizontal equity",
-        "Recommendations vs politics"
+        "कर हस्तांतरण",
+        "अनुदान",
+        "क्षैतिज समानता",
+        "सिफारिशें बनाम राजनीति"
       ],
       "modelAnswer": "Examine the role of the Finance Commission in Centre-State fiscal relations. Key dimensions include: Tax devolution; Grants; Horizontal equity; Recommendations vs politics. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "वित्त आयोग कर हस्तांतरण और अनुदान के माध्यम से ऊर्ध्वाधर व क्षैतिज असंतुलन दूर करने का संवैधानिक तंत्र है। क्षैतिज समानता कमज़ोर राज्यों की सहायता करती है। सिफारिशों का प्रभाव राजनीतिक स्वीकार्यता और क्रियान्वयन पर भी निर्भर करता है। मजबूत संघवाद के लिए डेटा-आधारित, पारदर्शी हस्तांतरण आवश्यक है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la26",
       "domain": "Economics",
       "question": "Discuss the informal sector's contribution and formalisation challenges.",
-      "question_hi": "Discuss the informal sector's contribution and formalisation challenges.",
+      "question_hi": "अनौपचारिक क्षेत्र के योगदान और औपचारिकीकरण की चुनौतियों की चर्चा कीजिए।",
       "keyPoints": [
         "Employment cushion",
         "Productivity gaps",
@@ -612,23 +637,24 @@
         "Incentives to formalise"
       ],
       "keyPoints_hi": [
-        "Employment cushion",
-        "Productivity gaps",
-        "Social security codes",
-        "Incentives to formalise"
+        "रोज़गार कुशन",
+        "उत्पादकता अंतराल",
+        "सामाजिक सुरक्षा संहिताएँ",
+        "औपचारिक होने के प्रोत्साहन"
       ],
       "modelAnswer": "Discuss the informal sector's contribution and formalisation challenges. Key dimensions include: Employment cushion; Productivity gaps; Social security codes; Incentives to formalise. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "अनौपचारिक क्षेत्र रोज़गार कुशन प्रदान करता है, पर उत्पादकता और सामाजिक सुरक्षा कमज़ोर रहती है। औपचारिकीकरण अधिकार बढ़ाए, आजीविका अपराधीकरण न करे। सरलीकृत अनुपालन, किफायती ऋण और सामाजिक सुरक्षा संहिताएँ प्रोत्साहन दे सकती हैं। नीति का लक्ष्य गरिमा और उत्पादकता दोनों होना चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la27",
       "domain": "Economics",
       "question": "Analyse India's demographic dividend: conditions for success.",
-      "question_hi": "Analyse India's demographic dividend: conditions for success.",
+      "question_hi": "भारत के जनसांख्यिकीय लाभांश का विश्लेषण कीजिए: सफलता की शर्तें।",
       "keyPoints": [
         "Education & health",
         "Jobs",
@@ -636,23 +662,24 @@
         "Window of opportunity"
       ],
       "keyPoints_hi": [
-        "Education & health",
-        "Jobs",
-        "Female participation",
-        "Window of opportunity"
+        "शिक्षा और स्वास्थ्य",
+        "रोज़गार",
+        "महिला भागीदारी",
+        "अवसर की खिड़की"
       ],
       "modelAnswer": "Analyse India's demographic dividend: conditions for success. Key dimensions include: Education & health; Jobs; Female participation; Window of opportunity. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "जनसांख्यिकीय लाभांश युवा कार्यशील आबादी से विकास क्षमता है, पर स्वतः नहीं मिलता। शिक्षा, स्वास्थ्य, गुणवत्तापूर्ण रोज़गार और महिला भागीदारी सफलता की शर्तें हैं। अवसर की खिड़की सीमित समय की है। कौशल और उत्पादक रोज़गार में निवेश ही लाभांश को वास्तविक विकास में बदलता है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la28",
       "domain": "Economics",
       "question": "Explain how digital public infrastructure can boost economic productivity.",
-      "question_hi": "Explain how digital public infrastructure can boost economic productivity.",
+      "question_hi": "डिजिटल सार्वजनिक अवसंरचना आर्थिक उत्पादकता कैसे बढ़ा सकती है, समझाइए।",
       "keyPoints": [
         "Low transaction costs",
         "Formalisation",
@@ -660,23 +687,24 @@
         "Inclusion risks"
       ],
       "keyPoints_hi": [
-        "Low transaction costs",
-        "Formalisation",
-        "Innovation platforms",
-        "Inclusion risks"
+        "कम लेन-देन लागत",
+        "औपचारिकीकरण",
+        "नवाचार प्लेटफ़ॉर्म",
+        "समावेशन जोखिम"
       ],
       "modelAnswer": "Explain how digital public infrastructure can boost economic productivity. Key dimensions include: Low transaction costs; Formalisation; Innovation platforms; Inclusion risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "DPI लेन-देन लागत घटाकर, पहचान और भुगतान को सरल बनाकर उत्पादकता बढ़ाती है। औपचारिकीकरण और नवाचार प्लेटफ़ॉर्म MSME व स्टार्टअप को लाभ देते हैं। पर डिजिटल बहिष्करण और गोपनीयता जोखिमों का प्रबंधन जरूरी है। अधिकार-सम्मानित, अंतर-संचालनीय DPI ही स्थायी उत्पादकता का आधार है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la29",
       "domain": "Socio-political",
       "question": "Discuss the constitutional ideal of fraternity and its relevance today.",
-      "question_hi": "Discuss the constitutional ideal of fraternity and its relevance today.",
+      "question_hi": "बंधुत्व के संवैधानिक आदर्श और आज इसकी प्रासंगिकता की चर्चा कीजिए।",
       "keyPoints": [
         "Preamble values",
         "Social harmony",
@@ -684,23 +712,24 @@
         "Civic education"
       ],
       "keyPoints_hi": [
-        "Preamble values",
-        "Social harmony",
-        "Hate speech challenge",
-        "Civic education"
+        "प्रस्तावना के मूल्य",
+        "सामाजिक सद्भाव",
+        "घृणा भाषण चुनौती",
+        "नागरिक शिक्षा"
       ],
       "modelAnswer": "Discuss the constitutional ideal of fraternity and its relevance today. Key dimensions include: Preamble values; Social harmony; Hate speech challenge; Civic education. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "बंधुत्व संविधान की प्रस्तावना का मूल मूल्य है, जो स्वतंत्रता और समानता को सामाजिक सद्भाव से जोड़ता है। आज ध्रुवीकरण और घृणा भाषण इस आदर्श को चुनौती देते हैं। नागरिक शिक्षा, संस्थागत जवाबदेही और संवैधानिक नैतिकता इसकी रक्षा करते हैं। बंधुत्व केवल भावना नहीं, लोकतांत्रिक सह-अस्तित्व की शर्त है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la30",
       "domain": "Socio-political",
       "question": "Examine urbanisation challenges and the idea of inclusive cities.",
-      "question_hi": "Examine urbanisation challenges and the idea of inclusive cities.",
+      "question_hi": "शहरीकरण की चुनौतियों और समावेशी शहरों के विचार की जाँच कीजिए।",
       "keyPoints": [
         "Housing & transit",
         "Informal workers",
@@ -708,23 +737,24 @@
         "Participatory planning"
       ],
       "keyPoints_hi": [
-        "Housing & transit",
-        "Informal workers",
-        "Environment",
-        "Participatory planning"
+        "आवास और परिवहन",
+        "अनौपचारिक श्रमिक",
+        "पर्यावरण",
+        "सहभागी नियोजन"
       ],
       "modelAnswer": "Examine urbanisation challenges and the idea of inclusive cities. Key dimensions include: Housing & transit; Informal workers; Environment; Participatory planning. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "तेज़ शहरीकरण आवास, परिवहन, अपशिष्ट और जल पर दबाव डालता है। अनौपचारिक श्रमिक शहर चलाते हैं, पर अक्सर सुरक्षा और सामाजिक सुरक्षा से वंचित रहते हैं। समावेशी शहर गरीबों के साथ योजना बनाते हैं, केवल उनके लिए नहीं। सहभागी नियोजन और जलवायु लचीलापन आवश्यक हैं। लक्ष्य उत्पादक और मानवीय शहरी जीवन है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la31",
       "domain": "Socio-political",
       "question": "What measures can improve mental health outcomes among Indian youth?",
-      "question_hi": "What measures can improve mental health outcomes among Indian youth?",
+      "question_hi": "भारतीय युवाओं में मानसिक स्वास्थ्य परिणाम सुधारने के लिए क्या उपाय किए जा सकते हैं?",
       "keyPoints": [
         "Stigma reduction",
         "School programmes",
@@ -732,23 +762,24 @@
         "Digital risks"
       ],
       "keyPoints_hi": [
-        "Stigma reduction",
-        "School programmes",
-        "Workforce capacity",
-        "Digital risks"
+        "कलंक कम करना",
+        "स्कूल कार्यक्रम",
+        "कार्यबल क्षमता",
+        "डिजिटल जोखिम"
       ],
       "modelAnswer": "What measures can improve mental health outcomes among Indian youth. Key dimensions include: Stigma reduction; School programmes; Workforce capacity; Digital risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "युवा मानसिक स्वास्थ्य सुधार के लिए कलंक कम करना, स्कूल परामर्श, और मानसिक स्वास्थ्य कार्यबल बढ़ाना आवश्यक है। डिजिटल जोखिम—साइबर उत्पीड़न, नींद बाधा—को भी संबोधित करना चाहिए। सामुदायिक देखभाल और किफायती सेवाएँ पहुँच बढ़ाती हैं। मानसिक स्वास्थ्य सार्वजनिक स्वास्थ्य प्राथमिकता है, व्यक्तिगत कमजोरी नहीं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la32",
       "domain": "Socio-political",
       "question": "Analyse the role of civil society in deepening democracy.",
-      "question_hi": "Analyse the role of civil society in deepening democracy.",
+      "question_hi": "लोकतंत्र को गहरा करने में नागरिक समाज की भूमिका का विश्लेषण कीजिए।",
       "keyPoints": [
         "Accountability & service delivery",
         "RTI spirit",
@@ -756,23 +787,24 @@
         "Participatory governance"
       ],
       "keyPoints_hi": [
-        "Accountability & service delivery",
-        "RTI spirit",
-        "Regulation balance",
-        "Participatory governance"
+        "जवाबदेही और सेवा वितरण",
+        "RTI की भावना",
+        "विनियमन संतुलन",
+        "सहभागी शासन"
       ],
       "modelAnswer": "Analyse the role of civil society in deepening democracy. Key dimensions include: Accountability & service delivery; RTI spirit; Regulation balance; Participatory governance. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "नागरिक समाज जवाबदेही, सेवा वितरण और हाशिए की आवाज़ों को मंच देता है। RTI की भावना पारदर्शिता बढ़ाती है। विनियमन आवश्यक है, पर स्वतंत्रता और सहयोग का संतुलन रखना चाहिए। सहभागी शासन में नागरिक समाज पुल का काम करता है। स्वस्थ लोकतंत्र राज्य, बाज़ार और नागरिक समाज के संतुलन पर टिका है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la33",
       "domain": "Socio-political",
       "question": "Discuss gender equality beyond legal reforms.",
-      "question_hi": "Discuss gender equality beyond legal reforms.",
+      "question_hi": "कानूनी सुधारों से परे लैंगिक समानता की चर्चा कीजिए।",
       "keyPoints": [
         "Social norms",
         "Economic participation",
@@ -780,23 +812,24 @@
         "Representation"
       ],
       "keyPoints_hi": [
-        "Social norms",
-        "Economic participation",
-        "Safety & mobility",
-        "Representation"
+        "सामाजिक मानदंड",
+        "आर्थिक भागीदारी",
+        "सुरक्षा और गतिशीलता",
+        "प्रतिनिधित्व"
       ],
       "modelAnswer": "Discuss gender equality beyond legal reforms. Key dimensions include: Social norms; Economic participation; Safety & mobility; Representation. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "कानून आवश्यक हैं, पर लैंगिक समानता सामाजिक मानदंड, आर्थिक भागीदारी, सुरक्षा और प्रतिनिधित्व से भी तय होती है। घरेलू श्रम का बँटवारा, कार्यस्थल सुरक्षा और राजनीतिक स्थान सुधारने होंगे। शिक्षा और मीडिया दृष्टिकोण बदलने में भूमिका निभाते हैं। वास्तविक समानता अधिकार और व्यवहार दोनों में झलकनी चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la34",
       "domain": "Socio-political",
       "question": "Evaluate the impact of social media on political mobilisation.",
-      "question_hi": "Evaluate the impact of social media on political mobilisation.",
+      "question_hi": "राजनीतिक लामबंदी पर सोशल मीडिया के प्रभाव का मूल्यांकन कीजिए।",
       "keyPoints": [
         "Awareness & campaigns",
         "Misinformation",
@@ -804,23 +837,24 @@
         "Digital literacy"
       ],
       "keyPoints_hi": [
-        "Awareness & campaigns",
-        "Misinformation",
-        "Polarisation",
-        "Digital literacy"
+        "जागरूकता और अभियान",
+        "गलत सूचना",
+        "ध्रुवीकरण",
+        "डिजिटल साक्षरता"
       ],
       "modelAnswer": "Evaluate the impact of social media on political mobilisation. Key dimensions include: Awareness & campaigns; Misinformation; Polarisation; Digital literacy. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "सोशल मीडिया जागरूकता और अभियान पहुँच बढ़ाता है, पर गलत सूचना और ध्रुवीकरण भी फैला सकता है। प्लेटफ़ॉर्म जवाबदेही और डिजिटल साक्षरता संतुलन के लिए आवश्यक हैं। मूल्यांकन में लोकतांत्रिक भागीदारी के लाभ और सामाजिक सद्भाव के जोखिम दोनों रखें। जिम्मेदार उपयोग और तथ्यात्मक संवाद आगे का मार्ग हैं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la35",
       "domain": "Socio-political",
       "question": "Explain the importance of linguistic diversity in Indian nation-building.",
-      "question_hi": "Explain the importance of linguistic diversity in Indian nation-building.",
+      "question_hi": "भारतीय राष्ट्र निर्माण में भाषाई विविधता के महत्व को समझाइए।",
       "keyPoints": [
         "Eighth Schedule spirit",
         "Education medium",
@@ -828,23 +862,24 @@
         "Unity in diversity"
       ],
       "keyPoints_hi": [
-        "Eighth Schedule spirit",
-        "Education medium",
-        "Administrative balance",
-        "Unity in diversity"
+        "आठवीं अनुसूची की भावना",
+        "शिक्षा माध्यम",
+        "प्रशासनिक संतुलन",
+        "विविधता में एकता"
       ],
       "modelAnswer": "Explain the importance of linguistic diversity in Indian nation-building. Key dimensions include: Eighth Schedule spirit; Education medium; Administrative balance; Unity in diversity. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "भाषाई विविधता भारत की पहचान और लोकतांत्रिक समावेशन का आधार है। आठवीं अनुसूची की भावना सम्मान और संरक्षण दर्शाती है। शिक्षा माध्यम और प्रशासनिक भाषा नीति में संतुलन क्षेत्रीय आकांक्षाओं को जगह देता है। विविधता में एकता थोपने से नहीं, संवाद और समान सम्मान से मजबूत होती है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la36",
       "domain": "Socio-political",
       "question": "Discuss challenges of elderly care in an ageing society.",
-      "question_hi": "Discuss challenges of elderly care in an ageing society.",
+      "question_hi": "वृद्ध होती समाज में वृद्ध देखभाल की चुनौतियों की चर्चा कीजिए।",
       "keyPoints": [
         "Family structures",
         "Pensions & health",
@@ -852,23 +887,24 @@
         "Productive ageing"
       ],
       "keyPoints_hi": [
-        "Family structures",
-        "Pensions & health",
-        "Abuse prevention",
-        "Productive ageing"
+        "पारिवारिक संरचनाएँ",
+        "पेंशन और स्वास्थ्य",
+        "दुर्व्यवहार रोकथाम",
+        "उत्पादक वृद्धावस्था"
       ],
       "modelAnswer": "Discuss challenges of elderly care in an ageing society. Key dimensions include: Family structures; Pensions & health; Abuse prevention; Productive ageing. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "बदलती पारिवारिक संरचनाओं में वृद्ध देखभाल पेंशन, स्वास्थ्य सेवा और सामाजिक समर्थन मांगती है। दुर्व्यवहार रोकथाम और कानूनी सुरक्षा आवश्यक हैं। उत्पादक वृद्धावस्था—कौशल, स्वयंसेवा, सामुदायिक भूमिका—गरिमा बढ़ाती है। नीति को परिवार और राज्य दोनों की भूमिका पहचाननी चाहिए।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la37",
       "domain": "Socio-political",
       "question": "Analyse water conflicts as a socio-political issue in India.",
-      "question_hi": "Analyse water conflicts as a socio-political issue in India.",
+      "question_hi": "भारत में जल संघर्षों का सामाजिक-राजनीतिक मुद्दे के रूप में विश्लेषण कीजिए।",
       "keyPoints": [
         "Interstate rivers",
         "Groundwater stress",
@@ -876,23 +912,24 @@
         "Climate link"
       ],
       "keyPoints_hi": [
-        "Interstate rivers",
-        "Groundwater stress",
-        "Community management",
-        "Climate link"
+        "अंतर्राज्यीय नदियाँ",
+        "भूजल तनाव",
+        "सामुदायिक प्रबंधन",
+        "जलवायु संबंध"
       ],
       "modelAnswer": "Analyse water conflicts as a socio-political issue in India. Key dimensions include: Interstate rivers; Groundwater stress; Community management; Climate link. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "जल संघर्ष अंतर्राज्यीय नदियों, भूजल क्षय और असमान पहुँच से जुड़े सामाजिक-राजनीतिक मुद्दे हैं। जलवायु परिवर्तन तनाव बढ़ाता है। तकनीकी समाधान पर्याप्त नहीं; संस्थागत समन्वय और सामुदायिक प्रबंधन जरूरी हैं। संरक्षण, साझेदारी और नवाचार दीर्घकालिक शांति का मार्ग हैं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la38",
       "domain": "Socio-political",
       "question": "What is the significance of the Right to Education in social justice?",
-      "question_hi": "What is the significance of the Right to Education in social justice?",
+      "question_hi": "सामाजिक न्याय में शिक्षा के अधिकार का क्या महत्व है?",
       "keyPoints": [
         "Access & quality",
         "Equity for disadvantaged",
@@ -900,23 +937,24 @@
         "Learning outcomes"
       ],
       "keyPoints_hi": [
-        "Access & quality",
-        "Equity for disadvantaged",
-        "Implementation gaps",
-        "Learning outcomes"
+        "पहुँच और गुणवत्ता",
+        "वंचितों के लिए समानता",
+        "क्रियान्वयन अंतराल",
+        "सीखने के परिणाम"
       ],
       "modelAnswer": "What is the significance of the Right to Education in social justice. Key dimensions include: Access & quality; Equity for disadvantaged; Implementation gaps; Learning outcomes. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "शिक्षा का अधिकार सामाजिक न्याय का आधार है क्योंकि यह अवसर की समानता खोलता है। पहुँच के साथ गुणवत्ता और सीखने के परिणाम निर्णायक हैं। वंचित वर्गों के लिए विशेष समर्थन आवश्यक है। क्रियान्वयन अंतराल—शिक्षक, अवसंरचना, ड्रॉपआउट—दूर किए बिना अधिकार अधूरा रहता है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la39",
       "domain": "Socio-political",
       "question": "Discuss the ethics of affirmative action in contemporary India.",
-      "question_hi": "Discuss the ethics of affirmative action in contemporary India.",
+      "question_hi": "समकालीन भारत में सकारात्मक कार्रवाई की नैतिकता की चर्चा कीजिए।",
       "keyPoints": [
         "Historical injustice",
         "Efficiency debates",
@@ -924,23 +962,24 @@
         "Social harmony"
       ],
       "keyPoints_hi": [
-        "Historical injustice",
-        "Efficiency debates",
-        "Data-based review",
-        "Social harmony"
+        "ऐतिहासिक अन्याय",
+        "दक्षता बहस",
+        "डेटा-आधारित समीक्षा",
+        "सामाजिक सद्भाव"
       ],
       "modelAnswer": "Discuss the ethics of affirmative action in contemporary India. Key dimensions include: Historical injustice; Efficiency debates; Data-based review; Social harmony. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "सकारात्मक कार्रवाई ऐतिहासिक अन्याय सुधारने और अवसर समानता सुनिश्चित करने का नैतिक उपकरण है। दक्षता और योग्यता की बहस को साक्ष्य और संवैधानिक मूल्यों के आलोक में देखना चाहिए। डेटा-आधारित समीक्षा सुधार में मदद करती है। लक्ष्य सामाजिक सद्भाव के साथ न्याय है, विभाजन नहीं।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la40",
       "domain": "Socio-political",
       "question": "Examine the relationship between development and displacement.",
-      "question_hi": "Examine the relationship between development and displacement.",
+      "question_hi": "विकास और विस्थापन के संबंध की जाँच कीजिए।",
       "keyPoints": [
         "Infrastructure needs",
         "Rehabilitation rights",
@@ -948,23 +987,24 @@
         "Sustainable alternatives"
       ],
       "keyPoints_hi": [
-        "Infrastructure needs",
-        "Rehabilitation rights",
-        "Consent & livelihoods",
-        "Sustainable alternatives"
+        "अवसंरचना आवश्यकताएँ",
+        "पुनर्वास अधिकार",
+        "सहमति और आजीविका",
+        "सतत विकल्प"
       ],
       "modelAnswer": "Examine the relationship between development and displacement. Key dimensions include: Infrastructure needs; Rehabilitation rights; Consent & livelihoods; Sustainable alternatives. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "विकास परियोजनाएँ अवसंरचना लाती हैं, पर विस्थापन आजीविका और संस्कृति प्रभावित कर सकता है। उचित पुनर्वास, सहमति और आजीविका बहाली अधिकार हैं, दया नहीं। सतत विकल्प और कम विस्थापन वाले डिज़ाइन प्राथमिकता होने चाहिए। विकास तभी न्यायसंगत है जब पीड़ित भी लाभार्थी बनें।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la41",
       "domain": "Socio-political",
       "question": "How can civic education strengthen constitutional culture?",
-      "question_hi": "How can civic education strengthen constitutional culture?",
+      "question_hi": "नागरिक शिक्षा संवैधानिक संस्कृति को कैसे मजबूत कर सकती है?",
       "keyPoints": [
         "Values in schools",
         "Critical thinking",
@@ -972,23 +1012,24 @@
         "Institutions literacy"
       ],
       "keyPoints_hi": [
-        "Values in schools",
-        "Critical thinking",
-        "Responsible citizenship",
-        "Institutions literacy"
+        "स्कूलों में मूल्य",
+        "आलोचनात्मक सोच",
+        "जिम्मेदार नागरिकता",
+        "संस्था साक्षरता"
       ],
       "modelAnswer": "How can civic education strengthen constitutional culture. Key dimensions include: Values in schools; Critical thinking; Responsible citizenship; Institutions literacy. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "नागरिक शिक्षा स्कूलों में संवैधानिक मूल्य, आलोचनात्मक सोच और जिम्मेदार नागरिकता विकसित करती है। संस्थाओं की समझ—न्यायपालिका, चुनाव, अधिकार—नागरिकों को सूचित भागीदार बनाती है। रटंत से अधिक संवाद और व्यावहारिक उदाहरण प्रभावी हैं। संवैधानिक संस्कृति कानूनों से नहीं, आदतों से जीवित रहती है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     },
     {
       "id": "la42",
       "domain": "Socio-political",
       "question": "Discuss the role of local self-government in participatory democracy.",
-      "question_hi": "Discuss the role of local self-government in participatory democracy.",
+      "question_hi": "सहभागी लोकतंत्र में स्थानीय स्वशासन की भूमिका की चर्चा कीजिए।",
       "keyPoints": [
         "73rd/74th spirit",
         "Funds-functions-functionaries",
@@ -996,17 +1037,18 @@
         "Accountability"
       ],
       "keyPoints_hi": [
-        "73rd/74th spirit",
-        "Funds-functions-functionaries",
-        "Women's leadership",
-        "Accountability"
+        "73वें/74वें संशोधन की भावना",
+        "निधि-कार्य-कार्यकर्ता",
+        "महिला नेतृत्व",
+        "जवाबदेही"
       ],
       "modelAnswer": "Discuss the role of local self-government in participatory democracy. Key dimensions include: 73rd/74th spirit; Funds-functions-functionaries; Women's leadership; Accountability. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": null,
+      "modelAnswer_hi": "73वें और 74वें संशोधन की भावना स्थानीय स्वशासन को लोकतंत्र की बुनियाद बनाती है। निधि, कार्य और कार्यकर्ता का हस्तांतरण वास्तविक शक्ति देता है। महिला नेतृत्व और ग्राम सभाएँ भागीदारी बढ़ाती हैं। जवाबदेही और क्षमता निर्माण से स्थानीय शासन सेवा वितरण सुधारता है। सहभागी लोकतंत्र यहीं से गहरा होता है।",
       "wordTargetMin": 150,
       "wordTargetMax": 200,
       "suggestedMinutes": 12,
-      "marks": 10
+      "marks": 10,
+      "domain_hi": "सामाजिक-राजनीतिक"
     }
   ]
 }

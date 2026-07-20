@@ -16,6 +16,7 @@ import {useNavigation, useFocusEffect} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {getEssayProgress} from '../utils/storage';
+import {getLocalized, localizeLabel} from '../utils/localize';
 
 type EssayTopic = {
   id: string;
@@ -38,7 +39,7 @@ function unlockedCount(completed: number) {
 }
 
 export default function EssayPracticeScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const insets = useSafeAreaInsets();
   const [category, setCategory] = useState<string>('All');
@@ -69,6 +70,8 @@ export default function EssayPracticeScreen() {
     tpc => category === 'All' || tpc.category === category,
   );
 
+  const lang = i18n.language;
+
   return (
     <View style={styles.container}>
       <StatusBar
@@ -85,7 +88,11 @@ export default function EssayPracticeScreen() {
         <View style={{flex: 1}}>
           <Text style={styles.headerTitle}>{t('essay_writing')}</Text>
           <Text style={styles.headerSub}>
-            {completedCount} done · {unlockLimit} unlocked · {t('unlock_hint')}
+            {t('essay_progress_meta', {
+              done: completedCount,
+              unlocked: unlockLimit,
+              hint: t('unlock_hint'),
+            })}
           </Text>
         </View>
       </View>
@@ -107,7 +114,7 @@ export default function EssayPracticeScreen() {
                   category === cat && styles.chipTextActive,
                 ]}
                 numberOfLines={1}>
-                {cat === 'All' ? t('categories') : cat}
+                {cat === 'All' ? t('all_filter') : localizeLabel(cat, lang)}
               </Text>
             </TouchableOpacity>
           ))}
@@ -123,6 +130,8 @@ export default function EssayPracticeScreen() {
           const globalIndex = ALL_TOPICS.findIndex(x => x.id === topic.id);
           const locked = globalIndex >= unlockLimit;
           const done = !!progress[topic.id]?.completed;
+          const difficulty = getLocalized<string>(topic, 'difficulty', lang);
+          const title = getLocalized<string>(topic, 'title', lang);
 
           return (
             <TouchableOpacity
@@ -138,19 +147,26 @@ export default function EssayPracticeScreen() {
                 navigation.navigate('EssayTopic', {topicId: topic.id})
               }>
               <View style={styles.cardTop}>
-                <Text style={styles.cat}>{topic.category}</Text>
+                <Text style={styles.cat}>
+                  {localizeLabel(topic.category, lang)}
+                </Text>
                 {done ? (
                   <Icon name="check-circle" size={wp('5%')} color="#10b981" />
                 ) : locked ? (
                   <Icon name="lock" size={wp('5%')} color="#6b7280" />
                 ) : (
-                  <Text style={styles.diff}>{topic.difficulty}</Text>
+                  <Text style={styles.diff}>
+                    {localizeLabel(difficulty, lang)}
+                  </Text>
                 )}
               </View>
-              <Text style={styles.title}>{topic.title}</Text>
+              <Text style={styles.title}>{title}</Text>
               <Text style={styles.meta}>
-                {topic.wordTargetMin}–{topic.wordTargetMax} {t('word_count')} ·{' '}
-                {topic.suggestedMinutes} min
+                {t('words_min_meta', {
+                  minWords: topic.wordTargetMin,
+                  maxWords: topic.wordTargetMax,
+                  min: topic.suggestedMinutes,
+                })}
               </Text>
             </TouchableOpacity>
           );

@@ -15,6 +15,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {useNavigation} from '@react-navigation/native';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
+import {getLocalized} from '../utils/localize';
 
 type Passage = {
   id: string;
@@ -29,9 +30,10 @@ const data = require('../assets/comprehension/passages.json');
 const PASSAGES: Passage[] = data.passages || [];
 
 export default function ComprehensionPracticeScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const insets = useSafeAreaInsets();
+  const lang = i18n.language;
 
   return (
     <View style={styles.container}>
@@ -49,7 +51,7 @@ export default function ComprehensionPracticeScreen() {
         <View style={{flex: 1}}>
           <Text style={styles.headerTitle}>{t('comprehension')}</Text>
           <Text style={styles.headerSub}>
-            {PASSAGES.length} passages · ~12 min each
+            {t('passages_meta', {count: PASSAGES.length})}
           </Text>
         </View>
       </View>
@@ -59,31 +61,39 @@ export default function ComprehensionPracticeScreen() {
           padding: wp('4%'),
           paddingBottom: insets.bottom + hp('3%'),
         }}>
-        {PASSAGES.map(p => (
-          <TouchableOpacity
-            key={p.id}
-            style={styles.card}
-            activeOpacity={0.85}
-            onPress={() =>
-              navigation.navigate('PassageDetail', {passageId: p.id})
-            }>
-            <View style={styles.iconWrap}>
-              <Icon
-                name="book-open-page-variant"
-                size={wp('7%')}
-                color="#f472b6"
-              />
-            </View>
-            <View style={{flex: 1}}>
-              <Text style={styles.theme}>{p.theme || 'Comprehension'}</Text>
-              <Text style={styles.title}>{p.title}</Text>
-              <Text style={styles.meta}>
-                {(p.questions || []).length} Qs · {p.suggestedMinutes || 12} min
-              </Text>
-            </View>
-            <Icon name="chevron-right" size={wp('5.5%')} color="#6b7280" />
-          </TouchableOpacity>
-        ))}
+        {PASSAGES.map(p => {
+          const theme =
+            getLocalized<string>(p, 'theme', lang) || t('comprehension');
+          const title = getLocalized<string>(p, 'title', lang);
+          const qs = (p.questions || []).length;
+          const min = p.suggestedMinutes || 12;
+
+          return (
+            <TouchableOpacity
+              key={p.id}
+              style={styles.card}
+              activeOpacity={0.85}
+              onPress={() =>
+                navigation.navigate('PassageDetail', {passageId: p.id})
+              }>
+              <View style={styles.iconWrap}>
+                <Icon
+                  name="book-open-page-variant"
+                  size={wp('7%')}
+                  color="#f472b6"
+                />
+              </View>
+              <View style={{flex: 1}}>
+                <Text style={styles.theme}>{theme}</Text>
+                <Text style={styles.title}>{title}</Text>
+                <Text style={styles.meta}>
+                  {t('qs_min_meta', {qs, min})}
+                </Text>
+              </View>
+              <Icon name="chevron-right" size={wp('5.5%')} color="#6b7280" />
+            </TouchableOpacity>
+          );
+        })}
       </ScrollView>
     </View>
   );

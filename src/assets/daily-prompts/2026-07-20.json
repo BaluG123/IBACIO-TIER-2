@@ -4,7 +4,7 @@
   "editionTitle_hi": "टियर-2 डेली डेस्क",
   "essayTopic": {
     "title": "India's Soft Power Diplomacy in a Multipolar World",
-    "title_hi": "India's Soft Power Diplomacy in a Multipolar World",
+    "title_hi": "बहुध्रुवीय विश्व में भारत की सॉफ्ट पावर कूटनीति",
     "category": "Current Affairs",
     "hints": [
       "Define soft power with examples (yoga, cinema, diaspora)",
@@ -13,20 +13,20 @@
       "Way forward: cultural institutes, education hubs"
     ],
     "hints_hi": [
-      "Define soft power with examples (yoga, cinema, diaspora)",
-      "Compare with hard power & recent G20/BRICS outreach",
-      "Challenges: perception gaps, neighbourhood",
-      "Way forward: cultural institutes, education hubs"
+      "योग, सिनेमा और प्रवासी समुदाय के उदाहरणों से सॉफ्ट पावर परिभाषित करें",
+      "हार्ड पावर से तुलना करें तथा हाल के G20/BRICS आउटरीच का उल्लेख करें",
+      "चुनौतियाँ: धारणा अंतराल और पड़ोस में विश्वास की कमी",
+      "आगे का मार्ग: सांस्कृतिक संस्थान और शिक्षा केंद्र"
     ],
     "modelOutline": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy.",
-    "modelOutline_hi": "Intro: Nye's soft power & India's civilisational assets. Body: diaspora, yoga, digital public goods, vaccine diplomacy; limits in neighbourhood. Conclusion: soft power complements strategic autonomy."
+    "modelOutline_hi": "परिचय: नाय की सॉफ्ट पावर अवधारणा और भारत की सभ्यतागत संपत्तियाँ। मुख्य भाग: प्रवासी, योग, डिजिटल सार्वजनिक वस्तुएँ, वैक्सीन कूटनीति; पड़ोस की सीमाएँ। निष्कर्ष: सॉफ्ट पावर रणनीतिक स्वायत्तता की पूरक है।"
   },
   "longAnswers": [
     {
       "id": "la01",
       "domain": "Current Affairs",
       "question": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
-      "question_hi": "Discuss the significance of India's G20 presidency for Global South diplomacy.",
+      "question_hi": "ग्लोबल साउथ कूटनीति के लिए भारत की G20 अध्यक्षता के महत्व की चर्चा कीजिए।",
       "keyPoints": [
         "Inclusive agenda-setting",
         "Voice for developing nations",
@@ -34,19 +34,20 @@
         "Continuity in multilateral engagement"
       ],
       "keyPoints_hi": [
-        "Inclusive agenda-setting",
-        "Voice for developing nations",
-        "DPI and climate finance narratives",
-        "Continuity in multilateral engagement"
+        "समावेशी एजेंडा-निर्धारण",
+        "विकासशील देशों की आवाज़",
+        "DPI और जलवायु वित्त कथाएँ",
+        "बहुपक्षीय संलग्नता की निरंतरता"
       ],
       "modelAnswer": "Discuss the significance of India's G20 presidency for Global South diplomacy. Key dimensions include: Inclusive agenda-setting; Voice for developing nations; DPI and climate finance narratives; Continuity in multilateral engagement. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Discuss the significance of India's G20 presidency for Global South diplomacy. Key dimensions include: Inclusive agenda-setting; Voice for developing nations; DPI and climate finance narratives; Continuity in multilateral engagement. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "भारत की G20 अध्यक्षता ने विकासशील देशों की प्राथमिकताओं को वैश्विक मंच पर केंद्र में लाने का अवसर दिया। समावेशी एजेंडा-निर्धारण के माध्यम से खाद्य सुरक्षा, डिजिटल सार्वजनिक अवसंरचना और जलवायु वित्त जैसे मुद्दों को आवाज़ मिली। ग्लोबल साउथ के लिए यह संकेत था कि बहुपक्षीय मंच केवल विकसित अर्थव्यवस्थाओं के हितों तक सीमित नहीं रहना चाहिए। DPI अनुभव और वैक्सीन/स्वास्थ्य सहयोग की कथा ने भारत की सॉफ्ट पावर को मजबूत किया। साथ ही, निरंतरता बनाए रखना आवश्यक है ताकि अध्यक्षता के लाभ केवल एक वर्ष तक सीमित न रहें। संतुलित उत्तर में उपलब्धियों के साथ कार्यान्वयन की सीमाएँ भी स्वीकार करनी चाहिए और आगे व्यावहारिक सहयोग का मार्ग सुझाना चाहिए।",
+      "domain_hi": "समसामयिक विषय"
     },
     {
       "id": "la15",
       "domain": "Economics",
       "question": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
-      "question_hi": "Explain the concept of fiscal deficit and its implications for the Indian economy.",
+      "question_hi": "राजकोषीय घाटे की अवधारणा और भारतीय अर्थव्यवस्था पर उसके प्रभाव समझाइए।",
       "keyPoints": [
         "Definition & financing",
         "Crowding out vs growth",
@@ -54,45 +55,46 @@
         "Quality of expenditure"
       ],
       "keyPoints_hi": [
-        "Definition & financing",
-        "Crowding out vs growth",
-        "FRBM discipline",
-        "Quality of expenditure"
+        "परिभाषा और वित्तपोषण",
+        "क्राउडिंग आउट बनाम विकास",
+        "FRBM अनुशासन",
+        "व्यय की गुणवत्ता"
       ],
       "modelAnswer": "Explain the concept of fiscal deficit and its implications for the Indian economy. Key dimensions include: Definition & financing; Crowding out vs growth; FRBM discipline; Quality of expenditure. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Explain the concept of fiscal deficit and its implications for the Indian economy. Key dimensions include: Definition & financing; Crowding out vs growth; FRBM discipline; Quality of expenditure. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "राजकोषीय घाटा सरकार की कुल प्राप्तियों और कुल व्यय के अंतर को दर्शाता है। इसका वित्तपोषण उधार से होता है, जो ब्याज भार बढ़ा सकता है। एक ओर घाटा विकास व्यय के लिए आवश्यक हो सकता है; दूसरी ओर अत्यधिक घाटा निजी निवेश को क्राउड आउट कर सकता है। FRBM अनुशासन स्थिरता के लिए महत्वपूर्ण है। निर्णायक प्रश्न घाटे का आकार ही नहीं, बल्कि व्यय की गुणवत्ता—पूंजी निर्माण बनाम राजस्व व्यय—है।",
+      "domain_hi": "अर्थशास्त्र"
     }
   ],
   "comprehension": {
     "passage": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
-    "passage_hi": "Digital governance has transformed how citizens interact with the State. From online service portals to direct benefit transfers, technology has reduced leakages and improved transparency. Yet access remains uneven. Rural connectivity gaps, digital literacy deficits, and language barriers can exclude those who need services the most. Privacy and data protection have also emerged as central concerns: when personal data fuels welfare delivery, citizens must trust that information will not be misused. Successful digital governance therefore requires more than apps and dashboards. It needs inclusive design, offline alternatives, grievance redressal that works, and clear accountability for algorithmic decisions. The measure of a digital state is not how many services are online, but how many citizens—especially the vulnerable—can use them with dignity and confidence.",
+    "passage_hi": "डिजिटल शासन ने नागरिकों और राज्य के बीच संवाद का स्वरूप बदल दिया है। ऑनलाइन सेवा पोर्टल से लेकर प्रत्यक्ष लाभ हस्तांतरण तक, तकनीक ने लीकेज घटाए हैं और पारदर्शिता बढ़ाई है। फिर भी पहुँच असमान बनी हुई है। ग्रामीण कनेक्टिविटी की कमी, डिजिटल साक्षरता की कमी और भाषाई बाधाएँ उन्हीं नागरिकों को बाहर कर सकती हैं जिन्हें सेवाओं की सबसे अधिक आवश्यकता है। गोपनीयता और डेटा संरक्षण भी केंद्रीय चिंताएँ बन गए हैं: जब व्यक्तिगत डेटा कल्याण वितरण का आधार बने, तब नागरिकों को यह विश्वास होना चाहिए कि सूचना का दुरुपयोग नहीं होगा। सफल डिजिटल शासन केवल ऐप और डैशबोर्ड से नहीं चलता। उसे समावेशी डिज़ाइन, ऑफलाइन विकल्प, काम करने वाला शिकायत निवारण और एल्गोरिद्मिक निर्णयों की स्पष्ट जवाबदेही चाहिए। डिजिटल राज्य का मापदंड यह नहीं कि कितनी सेवाएँ ऑनलाइन हैं, बल्कि यह कि कितने नागरिक—विशेषकर कमज़ोर वर्ग—उन्हें गरिमा और आत्मविश्वास के साथ उपयोग कर सकते हैं। नीति निर्माताओं को यह भी सुनिश्चित करना चाहिए कि साइबर सुरक्षा, इंटरऑपरेबिलिटी और स्थानीय भाषा समर्थन सेवा अनुभव का हिस्सा हों। अंततः तकनीक साधन है; विश्वास और समावेशन ही लक्ष्य हैं।",
     "questions": [
       {
         "q": "What paradox does the passage highlight about digital governance?",
-        "q_hi": "What paradox does the passage highlight about digital governance?",
+        "q_hi": "गद्यांश डिजिटल शासन के बारे में किस विरोधाभास को रेखांकित करता है?",
         "model": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most.",
-        "model_hi": "While technology improves transparency and reduces leakages, uneven access and literacy can exclude the very citizens who need services most."
+        "model_hi": "तकनीक पारदर्शिता बढ़ाती और लीकेज घटाती है, पर असमान पहुँच और साक्षरता की कमी उन्हीं नागरिकों को बाहर कर सकती है जिन्हें सेवा सबसे अधिक चाहिए।"
       },
       {
         "q": "Why is trust central to digital welfare delivery?",
-        "q_hi": "Why is trust central to digital welfare delivery?",
+        "q_hi": "डिजिटल कल्याण वितरण में विश्वास क्यों केंद्रीय है?",
         "model": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable.",
-        "model_hi": "Because personal data fuels delivery; citizens must believe data will not be misused and that systems remain accountable."
+        "model_hi": "क्योंकि व्यक्तिगत डेटा वितरण का आधार है; नागरिकों को विश्वास होना चाहिए कि डेटा का दुरुपयोग नहीं होगा और प्रणालियाँ जवाबदेह रहेंगी।"
       },
       {
         "q": "According to the author, what should be the true measure of a digital state?",
-        "q_hi": "According to the author, what should be the true measure of a digital state?",
+        "q_hi": "लेखक के अनुसार डिजिटल राज्य का वास्तविक मापदंड क्या होना चाहिए?",
         "model": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence.",
-        "model_hi": "Not the count of online services, but whether vulnerable citizens can use them with dignity and confidence."
+        "model_hi": "ऑनलाइन सेवाओं की संख्या नहीं, बल्कि यह कि कमज़ोर नागरिक उन्हें गरिमा और आत्मविश्वास के साथ उपयोग कर सकें।"
       },
       {
         "q": "List two non-technological requirements for successful digital governance mentioned in the passage.",
-        "q_hi": "List two non-technological requirements for successful digital governance mentioned in the passage.",
+        "q_hi": "सफल डिजिटल शासन के लिए गद्यांश में उल्लिखित दो गैर-तकनीकी आवश्यकताएँ बताइए।",
         "model": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two).",
-        "model_hi": "Inclusive design / offline alternatives; working grievance redressal; accountability for algorithmic decisions (any two)."
+        "model_hi": "समावेशी डिज़ाइन / ऑफलाइन विकल्प; काम करने वाला शिकायत निवारण; एल्गोरिद्मिक निर्णयों की जवाबदेही (कोई दो)।"
       }
     ]
   },
   "tipOfDay": "Spend 3 minutes outlining before you write the essay — structure wins marks.",
-  "tipOfDay_hi": "Spend 3 minutes outlining before you write the essay — structure wins marks."
+  "tipOfDay_hi": "निबंध लिखने से पहले 3 मिनट रूपरेखा बनाएँ — संरचना अंक दिलाती है।"
 }

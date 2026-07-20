@@ -17,6 +17,7 @@ import {useAppDrawer} from '../navigation/DrawerNavigator';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {getMockHistory, MockSelfScore} from '../utils/storage';
+import {getLocalized} from '../utils/localize';
 
 type MockPaper = {
   id: string;
@@ -39,6 +40,7 @@ export default function DescriptiveMocksScreen() {
   const {openDrawer} = useAppDrawer();
   const insets = useSafeAreaInsets();
   const [history, setHistory] = useState<MockSelfScore[]>([]);
+  const lang = i18n.language;
 
   useFocusEffect(
     useCallback(() => {
@@ -70,37 +72,41 @@ export default function DescriptiveMocksScreen() {
           padding: wp('4%'),
           paddingBottom: insets.bottom + hp('3%'),
         }}>
-        {MOCKS.map((mock, idx) => (
-          <View key={mock.id} style={styles.card}>
-            <View style={styles.cardTop}>
-              <View style={styles.badge}>
-                <Text style={styles.badgeText}>#{idx + 1}</Text>
+        {MOCKS.map((mock, idx) => {
+          const title = getLocalized<string>(mock, 'title', lang);
+          const instructions =
+            getLocalized<string[]>(mock, 'instructions', lang) || [];
+
+          return (
+            <View key={mock.id} style={styles.card}>
+              <View style={styles.cardTop}>
+                <View style={styles.badge}>
+                  <Text style={styles.badgeText}>#{idx + 1}</Text>
+                </View>
+                <Text style={styles.title}>{title}</Text>
               </View>
-              <Text style={styles.title}>
-                {i18n.language === 'hi' && mock.title_hi
-                  ? mock.title_hi
-                  : mock.title}
+              <Text style={styles.meta}>
+                {t('mock_paper_meta', {
+                  min: mock.durationMinutes,
+                  marks: mock.totalMarks,
+                })}
               </Text>
+              {instructions.slice(0, 2).map((ins, i) => (
+                <Text key={i} style={styles.ins}>
+                  • {ins}
+                </Text>
+              ))}
+              <TouchableOpacity
+                style={styles.startBtn}
+                onPress={() =>
+                  navigation.navigate('MockDescriptive', {mockId: mock.id})
+                }>
+                <Icon name="play" size={wp('5%')} color="#fff" />
+                <Text style={styles.startText}>{t('start_mock')}</Text>
+              </TouchableOpacity>
             </View>
-            <Text style={styles.meta}>
-              {mock.durationMinutes} min · {mock.totalMarks} {t('marks')} · Essay
-              + RC + 2 LAQs
-            </Text>
-            {(mock.instructions || []).slice(0, 2).map((ins, i) => (
-              <Text key={i} style={styles.ins}>
-                • {ins}
-              </Text>
-            ))}
-            <TouchableOpacity
-              style={styles.startBtn}
-              onPress={() =>
-                navigation.navigate('MockDescriptive', {mockId: mock.id})
-              }>
-              <Icon name="play" size={wp('5%')} color="#fff" />
-              <Text style={styles.startText}>{t('start_mock')}</Text>
-            </TouchableOpacity>
-          </View>
-        ))}
+          );
+        })}
 
         <Text style={styles.section}>{t('mock_history')}</Text>
         {history.length === 0 ? (
@@ -112,7 +118,11 @@ export default function DescriptiveMocksScreen() {
                 {h.mockId} · {h.total}/50
               </Text>
               <Text style={styles.histMeta}>
-                Essay {h.essay}/20 · RC {h.rc}/10 · LAQ {h.laq}/20
+                {t('mock_score_line', {
+                  essay: h.essay,
+                  rc: h.rc,
+                  laq: h.laq,
+                })}
               </Text>
             </View>
           ))

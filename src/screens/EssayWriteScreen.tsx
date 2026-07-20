@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React, {useEffect, useMemo, useRef, useState} from 'react';
 import {
   View,
   ScrollView,
@@ -21,6 +21,7 @@ import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {useTranslation} from 'react-i18next';
 import {countWords, formatTimer, timerColor} from '../utils/timer';
 import {saveDraft, loadDraft, markEssayComplete} from '../utils/storage';
+import {getLocalized} from '../utils/localize';
 
 const CHECKLIST_KEYS = [
   'intro_clarity',
@@ -30,18 +31,33 @@ const CHECKLIST_KEYS = [
   'language_quality',
 ] as const;
 
+const topicsData = require('../assets/essays/topics.json');
+const ALL_TOPICS: any[] = topicsData.topics || [];
+
 export default function EssayWriteScreen() {
-  const {t} = useTranslation();
+  const {t, i18n} = useTranslation();
   const navigation = useNavigation<any>();
   const route = useRoute<any>();
   const insets = useSafeAreaInsets();
+  const lang = i18n.language;
 
   const topicId = route.params?.topicId || 'essay_unknown';
-  const title = route.params?.title || 'Essay';
-  const outline = route.params?.outline || '';
-  const wordMin = route.params?.wordTargetMin || 400;
-  const wordMax = route.params?.wordTargetMax || 500;
-  const minutes = route.params?.suggestedMinutes || 28;
+  const topic = useMemo(
+    () => ALL_TOPICS.find((x: any) => x.id === topicId),
+    [topicId],
+  );
+
+  const title =
+    getLocalized<string>(topic, 'title', lang) ||
+    route.params?.title ||
+    t('essay_writing');
+  const outline = getLocalized<string>(topic, 'outline', lang) || '';
+  const wordMin =
+    topic?.wordTargetMin || route.params?.wordTargetMin || 400;
+  const wordMax =
+    topic?.wordTargetMax || route.params?.wordTargetMax || 500;
+  const minutes =
+    topic?.suggestedMinutes || route.params?.suggestedMinutes || 28;
   const totalSeconds = minutes * 60;
 
   const [text, setText] = useState('');
@@ -182,7 +198,7 @@ export default function EssayWriteScreen() {
           <TextInput
             style={styles.input}
             multiline
-            placeholder="Write your essay here..."
+            placeholder={t('placeholder_essay')}
             placeholderTextColor="#6b7280"
             value={text}
             onChangeText={setText}

@@ -4,7 +4,7 @@
   "editionTitle_hi": "टियर-2 डेली डेस्क",
   "essayTopic": {
     "title": "Agriculture Marketing Reforms and Farmer Welfare",
-    "title_hi": "Agriculture Marketing Reforms and Farmer Welfare",
+    "title_hi": "कृषि विपणन सुधार और किसान कल्याण",
     "category": "Economy",
     "hints": [
       "APMC legacy",
@@ -13,20 +13,20 @@
       "Climate-resilient farming"
     ],
     "hints_hi": [
-      "APMC legacy",
-      "FPOs and e-NAM",
-      "MSP debate",
-      "Climate-resilient farming"
+      "APMC की विरासत",
+      "FPO और e-NAM",
+      "MSP बहस",
+      "जलवायु-लचीली खेती"
     ],
     "modelOutline": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets.",
-    "modelOutline_hi": "Intro: farm distress paradox. Body: markets, insurance, diversification. Conclusion: farmer as entrepreneur with safety nets."
+    "modelOutline_hi": "परिचय: कृषि संकट का विरोधाभास। मुख्य भाग: बाज़ार, बीमा, विविधीकरण। निष्कर्ष: सुरक्षा जाल के साथ उद्यमी किसान।"
   },
   "longAnswers": [
     {
       "id": "la17",
       "domain": "Economics",
       "question": "Examine the challenges of agricultural price realisation for Indian farmers.",
-      "question_hi": "Examine the challenges of agricultural price realisation for Indian farmers.",
+      "question_hi": "भारतीय किसानों के लिए कृषि मूल्य प्राप्ति की चुनौतियों की जाँच कीजिए।",
       "keyPoints": [
         "Market fragmentation",
         "MSP debates",
@@ -34,19 +34,20 @@
         "Value chains"
       ],
       "keyPoints_hi": [
-        "Market fragmentation",
-        "MSP debates",
-        "FPOs & e-NAM",
-        "Value chains"
+        "बाज़ार विखंडन",
+        "MSP बहस",
+        "FPO और e-NAM",
+        "मूल्य श्रृंखलाएँ"
       ],
       "modelAnswer": "Examine the challenges of agricultural price realisation for Indian farmers. Key dimensions include: Market fragmentation; MSP debates; FPOs & e-NAM; Value chains. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "Examine the challenges of agricultural price realisation for Indian farmers. Key dimensions include: Market fragmentation; MSP debates; FPOs & e-NAM; Value chains. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "किसानों को उचित मूल्य न मिलना बाज़ार विखंडन, बिचौलियों और सूचना असमानता से जुड़ा है। MSP बहस सुरक्षा जाल और राजकोषीय स्थिरता दोनों उठाती है। FPO और e-NAM सामूहिक सौदेबाजी व पारदर्शी बाज़ार में मदद कर सकते हैं। मूल्य श्रृंखला—प्रसंस्करण, भंडारण, ब्रांडिंग—से मूल्य प्राप्ति सुधरती है। आगे का मार्ग बाजार सुधारों के साथ जलवायु-लचीली खेती और किसान सुरक्षा जाल का संतुलन है।",
+      "domain_hi": "अर्थशास्त्र"
     },
     {
       "id": "la31",
       "domain": "Socio-political",
       "question": "What measures can improve mental health outcomes among Indian youth?",
-      "question_hi": "What measures can improve mental health outcomes among Indian youth?",
+      "question_hi": "भारतीय युवाओं में मानसिक स्वास्थ्य परिणाम सुधारने के लिए क्या उपाय किए जा सकते हैं?",
       "keyPoints": [
         "Stigma reduction",
         "School programmes",
@@ -54,45 +55,46 @@
         "Digital risks"
       ],
       "keyPoints_hi": [
-        "Stigma reduction",
-        "School programmes",
-        "Workforce capacity",
-        "Digital risks"
+        "कलंक कम करना",
+        "स्कूल कार्यक्रम",
+        "कार्यबल क्षमता",
+        "डिजिटल जोखिम"
       ],
       "modelAnswer": "What measures can improve mental health outcomes among Indian youth. Key dimensions include: Stigma reduction; School programmes; Workforce capacity; Digital risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper.",
-      "modelAnswer_hi": "What measures can improve mental health outcomes among Indian youth. Key dimensions include: Stigma reduction; School programmes; Workforce capacity; Digital risks. A balanced answer should define concepts briefly, use recent factual illustrations, present both opportunities and constraints, and conclude with a practical, constitutional way forward suitable for an IB descriptive paper."
+      "modelAnswer_hi": "युवा मानसिक स्वास्थ्य सुधार के लिए कलंक कम करना, स्कूल परामर्श, और मानसिक स्वास्थ्य कार्यबल बढ़ाना आवश्यक है। डिजिटल जोखिम—साइबर उत्पीड़न, नींद बाधा—को भी संबोधित करना चाहिए। सामुदायिक देखभाल और किफायती सेवाएँ पहुँच बढ़ाती हैं। मानसिक स्वास्थ्य सार्वजनिक स्वास्थ्य प्राथमिकता है, व्यक्तिगत कमजोरी नहीं।",
+      "domain_hi": "सामाजिक-राजनीतिक"
     }
   ],
   "comprehension": {
     "passage": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
-    "passage_hi": "Platform-based work offers flexibility and new income streams, especially for youth and women seeking part-time opportunities. Riders, delivery partners, and freelancers form a growing workforce that sits outside traditional employer-employee models. This ambiguity complicates social protection: who pays for health insurance, accident cover, or skill upgradation? Some platforms experiment with micro-insurance and training; regulators explore codes that recognise platform workers without destroying entrepreneurship. The challenge is balance. Over-regulation may shrink opportunities; under-regulation may deepen precarity. A pragmatic path combines portable benefits, transparent contracts, dispute resolution, and data that workers can access about their own performance. The future of work will not be purely formal or purely gig—it will be a continuum that policy must navigate with fairness.",
+    "passage_hi": "प्लेटफ़ॉर्म-आधारित कार्य लचीलापन और नई आय धाराएँ प्रदान करता है, विशेषकर युवाओं और महिलाओं के लिए जो अंशकालिक अवसर खोजते हैं। राइडर, डिलीवरी पार्टनर और फ्रीलांसर बढ़ते कार्यबल का हिस्सा हैं जो पारंपरिक नियोक्ता-कर्मचारी मॉडल से बाहर बैठते हैं। यह अस्पष्टता सामाजिक सुरक्षा को जटिल बनाती है: स्वास्थ्य बीमा, दुर्घटना कवर या कौशल उन्नयन का खर्च कौन वहन करे? कुछ प्लेटफ़ॉर्म सूक्ष्म-बीमा और प्रशिक्षण आज़माते हैं; नियामक ऐसे कोड तलाशते हैं जो उद्यमिता नष्ट किए बिना प्लेटफ़ॉर्म श्रमिकों को मान्यता दें। चुनौती संतुलन की है। अति-नियमन अवसर घटा सकता है; कम-नियमन अनिश्चितता बढ़ा सकता है। व्यावहारिक मार्ग पोर्टेबल लाभ, पारदर्शी अनुबंध, विवाद समाधान और अपने प्रदर्शन संबंधी डेटा तक श्रमिक पहुँच को जोड़ता है। काम का भविष्य पूर्णतः औपचारिक या पूर्णतः गिग नहीं होगा—वह एक सातत्य होगा जिसे नीति को निष्पक्षता के साथ नेविगेट करना होगा। कौशल प्रमाणन, सामूहिक सौदेबाजी के नए रूप और जिला-स्तरीय सहायता केंद्र भी इस संतुलन में सहायक हो सकते हैं।",
     "questions": [
       {
         "q": "What advantage of gig work does the passage emphasise?",
-        "q_hi": "What advantage of gig work does the passage emphasise?",
+        "q_hi": "गद्यांश गिग कार्य का कौन-सा लाभ रेखांकित करता है?",
         "model": "Flexibility and new income streams, especially for youth and women seeking part-time work.",
-        "model_hi": "Flexibility and new income streams, especially for youth and women seeking part-time work."
+        "model_hi": "लचीलापन और नई आय धाराएँ, विशेषकर अंशकालिक कार्य चाहने वाले युवाओं और महिलाओं के लिए।"
       },
       {
         "q": "Why is social protection complicated for platform workers?",
-        "q_hi": "Why is social protection complicated for platform workers?",
+        "q_hi": "प्लेटफ़ॉर्म श्रमिकों के लिए सामाजिक सुरक्षा जटिल क्यों है?",
         "model": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training.",
-        "model_hi": "They sit outside traditional employer-employee models, creating ambiguity over who funds insurance and training."
+        "model_hi": "वे पारंपरिक नियोक्ता-कर्मचारी मॉडल से बाहर हैं, जिससे बीमा और प्रशिक्षण के वित्तपोषण पर अस्पष्टता बनती है।"
       },
       {
         "q": "What risk does over-regulation pose according to the author?",
-        "q_hi": "What risk does over-regulation pose according to the author?",
+        "q_hi": "लेखक के अनुसार अति-नियमन का क्या जोखिम है?",
         "model": "It may shrink opportunities / entrepreneurship.",
-        "model_hi": "It may shrink opportunities / entrepreneurship."
+        "model_hi": "यह अवसर / उद्यमिता घटा सकता है।"
       },
       {
         "q": "Suggest two elements of the \"pragmatic path\" mentioned.",
-        "q_hi": "Suggest two elements of the \"pragmatic path\" mentioned.",
+        "q_hi": "उल्लिखित \"व्यावहारिक मार्ग\" के दो तत्व सुझाइए।",
         "model": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two).",
-        "model_hi": "Portable benefits, transparent contracts, dispute resolution, worker-accessible performance data (any two)."
+        "model_hi": "पोर्टेबल लाभ, पारदर्शी अनुबंध, विवाद समाधान, श्रमिक-सुलभ प्रदर्शन डेटा (कोई दो)।"
       }
     ]
   },
   "tipOfDay": "Word count is a guide: depth and clarity beat stuffing extra words.",
-  "tipOfDay_hi": "Word count is a guide: depth and clarity beat stuffing extra words."
+  "tipOfDay_hi": "शब्द संख्या मार्गदर्शक है: अतिरिक्त शब्दों से भराव से बेहतर गहराई और स्पष्टता है।"
 }

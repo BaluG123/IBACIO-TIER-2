@@ -328,7 +328,7 @@ export default function HomeScreen() {
                         styles.langOptionText,
                         i18n.language === 'en' && styles.langOptionSelected,
                       ]}>
-                      English
+                      {t('english')}
                     </Text>
                     {i18n.language === 'en' && (
                       <Icon name="check-circle" size={wp('4.5%')} color="#60a5fa" />
@@ -347,7 +347,7 @@ export default function HomeScreen() {
                         styles.langOptionText,
                         i18n.language === 'hi' && styles.langOptionSelected,
                       ]}>
-                      हिन्दी
+                      {t('hindi')}
                     </Text>
                     {i18n.language === 'hi' && (
                       <Icon name="check-circle" size={wp('4.5%')} color="#60a5fa" />
